@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 60f816e7ea3ae3e4fb99664a8f87943d
+timeCreated: 1530604852
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Texture0: {fileID: 2800000, guid: 88ff92a29724bde42befd0b82319af34, type: 3}
+  userData: 
+  assetBundleName: assets/assetbundleres/shader/ui.unity3d
+  assetBundleVariant: 
