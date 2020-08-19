@@ -1,4 +1,4 @@
-﻿namespace MGame.Battle.Logic
+﻿namespace MGame.GameBattle.Logic
 {
     /// <summary>
     /// 战斗中单位枚举
