@@ -17,7 +17,7 @@ namespace MGame.GameBattle.Logic
         private FixVector3 localForward = FixVector3.Forward;
         private bool forwardRight = true;
         public ElementData data;
-        
+
         public WorldElementType elementType
         {
             get { return eType; }
@@ -60,8 +60,45 @@ namespace MGame.GameBattle.Logic
         public void Create()
         {
             isActive = true;
-            instanceId = LogicManager.Instance.battleManager.newWorldElementInstanceId;
+            //instanceId = LogicManager.Instance.battleManager.newWorldElementInstanceId;
 
+        }
+        protected virtual void Initialize(ElementData data)
+        {
+            this.data = data;
+            this.localPos = data.localPos;
+            this.localScale = data.localScale;
+            this.localForward = data.localForward;
+            this.forwardRight = data.forwardRight;
+        }
+        protected virtual void OnCreate()
+        {
+        }
+        protected virtual void OnDestroy()
+        {
+        }
+        public virtual void Update()
+        {
+        }
+        public static LogicWorldElement LogicWorldElementFactory(WorldElementType type, ElementData data)
+        {
+            LogicWorldElement pElement = null;
+            switch (type)
+            {
+                case WorldElementType.AvatarHero:
+                    //pElement = new LogicAvatarHero();
+                    break;
+
+                case WorldElementType.AvatarMonster:
+                    //pElement = new LogicAvatarMonster();
+                    break;
+            }
+            if (pElement != null)
+            {
+                pElement.Initialize(data);
+                pElement.Create();
+            }
+            return pElement;
         }
     }
 }

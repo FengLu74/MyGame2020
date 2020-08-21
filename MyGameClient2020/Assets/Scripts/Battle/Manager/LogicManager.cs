@@ -19,5 +19,10 @@ namespace MGame.GameBattle.Manager
                 return _frameCountPerSecond;
             }
         }
+        public int TimeToFrameCeil(Fix64 second)
+        {
+            Fix64 frame = second * frameCountPerSecond;
+            return (int)Fix64.Ceiling(frame);
+        }
     }
 }
