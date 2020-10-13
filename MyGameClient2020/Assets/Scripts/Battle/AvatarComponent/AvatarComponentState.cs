@@ -45,11 +45,11 @@ namespace MGame.GameBattle.Logic
             }
             if (stateType == AvatarPassiveState.noNormalAttack)
             {
-                pAvatar.GetComponentMgr().Skill.CheckBreakCurrentUsingSkill(Skill.SkillBreakType.breakByNoUseNormalAttack);
+               //暂时屏蔽 pAvatar.GetComponentMgr().Skill.CheckBreakCurrentUsingSkill(Skill.SkillBreakType.breakByNoUseNormalAttack);
             }
             else if (stateType == AvatarPassiveState.noSkillAttack)
             {
-                pAvatar.GetComponentMgr().Skill.CheckBreakCurrentUsingSkill(Skill.SkillBreakType.breakByNoUseSkill);
+               //暂时屏蔽 pAvatar.GetComponentMgr().Skill.CheckBreakCurrentUsingSkill(Skill.SkillBreakType.breakByNoUseSkill);
             }
             else if (stateType == AvatarPassiveState.taunt)
             {

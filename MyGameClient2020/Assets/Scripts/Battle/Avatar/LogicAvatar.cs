@@ -113,11 +113,11 @@ namespace MGame.GameBattle.Logic
                         FixVector3 lastPos = LocalPos;
                         FixVector3 curPos = FixVector3.Lerp(entranceInitPos, entranceTargetPos, entranceLerp);
                         GetComponentMgr().Movement.MoveToPos(curPos);
-                        GetComponentMgr().Movement.SetAvatarForward(curPos.x - lastPos.x);
+                        //暂时屏蔽 GetComponentMgr().Movement.SetAvatarForward(curPos.x - lastPos.x);
                     }
                     if (entranceTimeFrameCounter == entranceKeepTimeFrame)
                     {
-                        ChangeToPlayPoseState();
+                        //暂时屏蔽 ChangeToPlayPoseState();
                     }
                     entranceTimeFrameCounter++;
                     break;
