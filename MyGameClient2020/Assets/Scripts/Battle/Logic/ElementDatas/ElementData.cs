@@ -18,7 +18,7 @@ namespace MGame.GameBattle.Logic
     }
     public class LogicAvatarData:ElementData
     {
-        public Dictionary<string, DataNodeString> avatarTabline;
+        public Dictionary<string, DataNodeString> avatarTableLine;
         public BattleCampInfo camp;
         public int HeroID;
         public int MonsterID;

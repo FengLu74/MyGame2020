@@ -20,6 +20,7 @@ namespace MGame.GameBattle.Logic
             dead,
             destroy,
         }
+        private AvatarComponentMgr pComponentMgr = new AvatarComponentMgr();
         private AvatarState state;
         private AvatarBattleBehaviourState battleBehaviourState = AvatarBattleBehaviourState.none;
         private Fix64 deadKeepTime;
@@ -87,12 +88,44 @@ namespace MGame.GameBattle.Logic
             avatarData = (LogicAvatarData)data;
             state = AvatarState.sleep;
             pComponentMgr.Initialize(this);
-            shieldContainer = new ShieldContainer(OnShieldChanged);
             if (elementType != WorldElementType.ThirdUser)
             {
                 deadKeepTime = LogicCommon.GetValue(avatarData.avatarTableLine, "deadTime", Fix64.Zero) / 100;
             }
             destroyNextFrame = false;
+        }
+        protected override void OnCreate()
+        {
+            base.OnCreate();
+            pComponentMgr.Start();
+        }
+        public override void Update()
+        {
+            if(IsSuspended) return;
+            if (state == AvatarState.sleep) return;
+            base.Update();
+            switch(battleBehaviourState)
+            {
+                case AvatarBattleBehaviourState.entrance:
+                    if (entranceKeepTimeFrame > 0)
+                    {
+                        entranceLerp = entranceTimeFrameCounter / (Fix64)entranceKeepTimeFrame;
+                        FixVector3 lastPos = LocalPos;
+                        FixVector3 curPos = FixVector3.Lerp(entranceInitPos, entranceTargetPos, entranceLerp);
+                        GetComponentMgr().Movement.MoveToPos(curPos);
+                        GetComponentMgr().Movement.SetAvatarForward(curPos.x - lastPos.x);
+                    }
+                    if (entranceTimeFrameCounter == entranceKeepTimeFrame)
+                    {
+                        ChangeToPlayPoseState();
+                    }
+                    entranceTimeFrameCounter++;
+                    break;
+            }
+        }
+        public AvatarComponentMgr GetComponentMgr()
+        {
+            return pComponentMgr;
         }
     }
 }
