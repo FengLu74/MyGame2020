@@ -1,0 +1,27 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:22711dd4cd2cb41e7dc811f810b058f8:7d01c7d72bf3d3f51cb8a13bce4ef6ec:fcdda6380beb57a4402e49945628b4c7$
+#
+:format=40300
+:texture=ui_buzheng_hero_02.png
+:size=2048x2048
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+ui_buzhen_aifei;1;1457;420;590; 0.5;0.5; 0;0;0;0; 4;420;0;0;0;0;590;420;590; 2;1;2;3;0;1;3
+ui_buzhen_ailisi;1;863;420;590; 0.5;0.5; 0;0;0;0; 4;420;0;0;0;0;590;420;590; 2;1;2;3;0;1;3
+ui_buzhen_ailisiweiwangzhilv;1;269;420;590; 0.5;0.5; 0;0;0;0; 4;420;0;0;0;0;590;420;590; 2;1;2;3;0;1;3
+ui_buzhen_aisimeilada;425;1457;420;590; 0.5;0.5; 0;0;0;0; 4;420;0;0;0;0;590;420;590; 2;1;2;3;0;1;3
+ui_buzhen_anna;849;1457;420;590; 0.5;0.5; 0;0;0;0; 4;420;0;0;0;0;590;420;590; 2;1;2;3;0;1;3
+ui_buzhen_aojieta;1273;1457;420;590; 0.5;0.5; 0;0;0;0; 4;420;0;0;0;0;590;420;590; 2;1;2;3;0;1;3
+ui_buzhen_aojiliya;425;863;420;590; 0.5;0.5; 0;0;0;0; 4;420;0;0;0;0;590;420;590; 2;1;2;3;0;1;3
+ui_buzhen_baiqige;425;269;420;590; 0.5;0.5; 0;0;0;0; 4;420;0;0;0;0;590;420;590; 2;1;2;3;0;1;3
+ui_buzhen_bulunxierde;849;863;420;590; 0.5;0.5; 0;0;0;0; 4;420;0;0;0;0;590;420;590; 2;1;2;3;0;1;3
+ui_buzhen_caiwenji;849;269;420;590; 0.5;0.5; 0;0;0;0; 4;420;0;0;0;0;590;420;590; 2;1;2;3;0;1;3
+ui_buzhen_fuliya;1273;863;420;590; 0.5;0.5; 0;0;0;0; 4;420;0;0;0;0;590;420;590; 2;1;2;3;0;1;3
+ui_buzhen_heiqige;1273;269;420;590; 0.5;0.5; 0;0;0;0; 4;420;0;0;0;0;590;420;590; 2;1;2;3;0;1;3

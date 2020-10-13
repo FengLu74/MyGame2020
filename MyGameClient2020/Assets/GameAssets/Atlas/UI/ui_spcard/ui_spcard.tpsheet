@@ -1,0 +1,14 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:a23ab13135b93bac1ee314a5c11096c7:12514a9f7d6f79d6f44d1f8f3e581318:1104e0d55f1069625eecccaa3a30afe2$
+#
+:format=40000
+:texture=ui_spcard.png
+:size=1024x1024
+
+ui_spcard_01;1;212;340;404;0.5;0.504950495049505; 6;330;403;340;372;340;0;0;0;0;384;24;404; 4;3;1;2;3;4;1;1;4;5;0;1;5
+ui_spcard_02;1;619;340;404;0.5;0.504950495049505; 6;330;403;340;372;340;0;0;0;0;384;24;404; 4;3;1;2;3;4;1;1;4;5;0;1;5

@@ -1,0 +1,27 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:a58d5eb10bf607d469e2a6ec66061753:9c7c8b95dbc0b67e587f2f857c71fd36:588fbe5f7eea9196a1e056e19b0d5ff1$
+#
+:format=40000
+:texture=ui_fuben_01.png
+:size=2048x2048
+
+ui_fuben_frame_01;1;782;645;1059;0.5;0.5
+ui_fuben_frame_02;648;844;691;997;0.5;0.5
+ui_fuben_frame_03;1;154;169;30;0.5;0.5
+ui_fuben_frame_04;1;56;35;43;0.5;0.5
+ui_fuben_icon_01;274;260;49;52;0.5;0.5
+ui_fuben_icon_02;379;441;48;48;0.5;0.5
+ui_fuben_line_03;648;823;161;19;0.5;0.5
+ui_fuben_pic_01;1;1843;1920;79;0.5;0.5
+ui_fuben_pic_02;1;1924;1920;123;0.5;0.5
+ui_fuben_pic_03;1341;736;134;1105;0.5;0.5
+ui_fuben_pic_04;1477;1641;155;200;0.5;0.5
+ui_fuben_pic_05;1;314;376;175;0.5;0.5
+ui_fuben_pic_06;1;491;491;289;0.5;0.5
+ui_fuben_pic_07;1;186;271;126;0.5;0.5
+ui_fuben_pic_08;1;101;51;51;0.5;0.5

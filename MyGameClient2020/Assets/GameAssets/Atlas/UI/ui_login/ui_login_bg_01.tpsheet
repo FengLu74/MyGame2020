@@ -1,0 +1,21 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:2febbf7c2e57ec7a1989bdb18305b12d:ed2022743275720a15157bd38cf97d4d:710970b52c187cfb6bb1c7025aebfef3$
+#
+:format=40300
+:texture=ui_login_bg_01.png
+:size=2048x2048
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+ui_login_bg_01;1;5;1002;1020; 0.5;0.5; 0;0;0;0; 4;1002;0;0;0;0;1020;1002;1020; 2;1;2;3;0;1;3
+ui_login_bg_02;1;1027;1002;1020; 0.5;0.5; 0;0;0;0; 4;1002;0;0;0;0;1020;1002;1020; 2;1;2;3;0;1;3
+ui_login_bg_03;1005;183;335;1020; 0.5;0.5; 0;0;0;0; 4;335;0;0;0;0;1020;335;1020; 2;1;2;3;0;1;3
+ui_login_bg_04;1005;1205;1002;420; 0.5;0.5; 0;0;0;0; 4;1002;0;0;0;0;420;1002;420; 2;1;2;3;0;1;3
+ui_login_bg_05;1005;1627;1002;420; 0.5;0.5; 0;0;0;0; 4;1002;0;0;0;0;420;1002;420; 2;1;2;3;0;1;3
+ui_login_bg_06;1342;783;335;420; 0.5;0.5; 0;0;0;0; 4;335;0;0;0;0;420;335;420; 2;1;2;3;0;1;3

@@ -1,0 +1,19 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:a4228b0dd1621318c6c314000ddc0db8:c379af6a832c8989abeb8ceeb6a33017:a9227c5fb1601ddb882bf425233cdd30$
+#
+:format=40300
+:texture=ui_gonggao.png
+:size=2048x2048
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+ui_gonggao_bg;1;1015;1425;857; 0.5;0.5; 0;0;0;0
+ui_gonggao_frame_01;1;2017;209;30; 0.5;0.5; 0;0;0;0
+ui_gonggao_frame_02;212;1948;376;99; 0.5;0.5; 0;0;0;0
+ui_gonggao_image_01;590;1874;769;173; 0.5;0.5; 0;0;0;0

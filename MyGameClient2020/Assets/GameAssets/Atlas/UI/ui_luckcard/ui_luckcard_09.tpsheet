@@ -1,0 +1,23 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:aba1a9ef5c32b4bbc315ba5e2eef6d06:f7170643a33417cf028635f92f86a0df:e5b3c8a99aacc386284b5b460ca88ac7$
+#
+:format=40300
+:texture=ui_luckcard_09.png
+:size=1024x1024
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+ui_luck_menpiao_04;1;696;456;327; 0.5;0.5; 0;0;0;0
+ui_luck_menpiao_05;459;696;456;327; 0.5;0.5; 0;0;0;0
+ui_luck_menpiao_06;1;367;456;327; 0.5;0.5; 0;0;0;0
+ui_luck_menpiao_11;459;372;228;322; 0.5;0.5; 0;0;0;0
+ui_luck_menpiao_12;689;372;228;322; 0.5;0.5; 0;0;0;0
+ui_luck_menpiao_13;1;188;165;177; 0.5;0.5; 0;0;0;0
+ui_luck_menpiao_14;168;39;231;326; 0.5;0.5; 0;0;0;0
+ui_luck_menpiao_15;401;193;158;172; 0.5;0.5; 0;0;0;0

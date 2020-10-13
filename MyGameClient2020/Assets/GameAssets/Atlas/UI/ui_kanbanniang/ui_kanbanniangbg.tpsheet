@@ -1,0 +1,22 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:a256a33a37f1a61b36b0c5e96283df5e:77bb6b8181b998d769c2180034b60b46:b9c716fb525c8c162dc22b87e7f7f959$
+#
+:format=40300
+:texture=ui_kanbanniangbg.png
+:size=2048x2048
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+kb_jj01;1;1834;229;213; 0.5;0.5; 0;0;0;0
+kb_jj02;232;2016;682;31; 0.5;0.5; 0;0;0;0
+kb_jj03;916;1954;491;93; 0.5;0.5; 0;0;0;0
+kb_jj04;1409;1770;305;277; 0.5;0.5; 0;0;0;0
+kb_jj05;1716;1452;188;595; 0.5;0.5; 0;0;0;0
+kb_jj06;1;426;1024;1024; 0.5;0.5; 0;0;0;0
+kb_jj07;1027;426;688;1024; 0.5;0.5; 0;0;0;0

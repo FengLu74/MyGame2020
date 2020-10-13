@@ -1,0 +1,18 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:41f196ced788daab829a070d609ad409:4671f69af4385564d3f3d7c2ef20fec1:9b759fbbd51bbaf57324dd8a092acc35$
+#
+:format=40300
+:texture=ui_beibao.png
+:size=512x512
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+ui_beibao_icon_01;1;350;87;161; 0.5;0.5; 0;0;0;0
+ui_beibao_icon_02;90;350;87;161; 0.5;0.5; 0;0;0;0
+ui_beibao_icon_03;179;350;87;161; 0.5;0.5; 0;0;0;0

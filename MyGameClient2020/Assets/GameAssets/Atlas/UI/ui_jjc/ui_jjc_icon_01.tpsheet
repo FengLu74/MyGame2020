@@ -1,0 +1,45 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:8eb6d825a3aea59d943a797fb492c99e:63bfe618acdd127ee1d793618d5ded0d:50d05632c4dc626781b651b11496bc35$
+#
+:format=40300
+:texture=ui_jjc_icon_01.png
+:size=1024x1024
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+ui_artfonts_08;1;938;103;51; 0.5;0.5; 0;0;0;0
+ui_jjc_af_00;170;991;79;32; 0.5;0.5; 0;0;0;0
+ui_jjc_af_01;414;991;84;32; 0.5;0.5; 0;0;0;0
+ui_jjc_af_02;673;991;87;32; 0.5;0.5; 0;0;0;0
+ui_jjc_af_03;332;991;80;32; 0.5;0.5; 0;0;0;0
+ui_jjc_af_04;586;991;85;32; 0.5;0.5; 0;0;0;0
+ui_jjc_af_05;851;991;88;32; 0.5;0.5; 0;0;0;0
+ui_jjc_af_06;251;991;79;32; 0.5;0.5; 0;0;0;0
+ui_jjc_af_07;500;991;84;32; 0.5;0.5; 0;0;0;0
+ui_jjc_af_08;762;991;87;32; 0.5;0.5; 0;0;0;0
+ui_jjc_af_09;109;992;59;31; 0.5;0.5; 0;0;0;0
+ui_jjc_icon_01_a;106;846;140;143; 0.5;0.5; 0;0;0;0
+ui_jjc_icon_01_b;248;846;140;143; 0.5;0.5; 0;0;0;0
+ui_jjc_icon_02_a;390;846;140;143; 0.5;0.5; 0;0;0;0
+ui_jjc_icon_02_b;532;846;140;143; 0.5;0.5; 0;0;0;0
+ui_jjc_icon_03_a;674;846;140;143; 0.5;0.5; 0;0;0;0
+ui_jjc_icon_03_b;816;846;140;143; 0.5;0.5; 0;0;0;0
+ui_jjc_icon_04_a;1;701;140;143; 0.5;0.5; 0;0;0;0
+ui_jjc_icon_04_b;143;701;140;143; 0.5;0.5; 0;0;0;0
+ui_jjc_icon_05_a;285;701;140;143; 0.5;0.5; 0;0;0;0
+ui_jjc_icon_05_b;427;701;140;143; 0.5;0.5; 0;0;0;0
+ui_jjc_icon_06_a;569;701;140;143; 0.5;0.5; 0;0;0;0
+ui_jjc_icon_06_b;711;701;140;143; 0.5;0.5; 0;0;0;0
+ui_jjc_icon_07_a;853;701;140;143; 0.5;0.5; 0;0;0;0
+ui_jjc_icon_07_b;1;556;140;143; 0.5;0.5; 0;0;0;0
+ui_jjc_icon_08_a;143;556;140;143; 0.5;0.5; 0;0;0;0
+ui_jjc_icon_08_b;285;556;140;143; 0.5;0.5; 0;0;0;0
+ui_jjc_icon_honor_01;427;511;209;188; 0.5;0.5; 0;0;0;0
+ui_jjc_line_01_a;1;1004;52;19; 0.5;0.5; 0;0;0;0
+ui_jjc_line_01_b;55;1004;52;19; 0.5;0.5; 0;0;0;0

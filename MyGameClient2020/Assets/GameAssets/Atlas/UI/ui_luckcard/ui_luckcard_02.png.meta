@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: fa5094518d74f70489793af08180d44e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: luck_curtains02
+  - first:
+      213: 21300002
+    second: luck_front01_1
+  - first:
+      213: 21300004
+    second: luck_front01_2
+  - first:
+      213: 21300006
+    second: luck_school01
+  - first:
+      213: 21300008
+    second: luck_shool03
+  - first:
+      213: 21300010
+    second: luck_shool04
+  - first:
+      213: 21300012
+    second: luck_shool05
+  - first:
+      213: 21300014
+    second: luck_shool06
+  - first:
+      213: 21300016
+    second: luck_shool07
+  - first:
+      213: 21300018
+    second: luck_tu01
+  - first:
+      213: 21300020
+    second: luck_tu02
+  - first:
+      213: 21300022
+    second: luck_tu03
+  - first:
+      213: 21300024
+    second: luck_tu04
+  - first:
+      213: 21300026
+    second: luck_tu05
+  - first:
+      213: 21300028
+    second: luck_tu07
+  - first:
+      213: 21300030
+    second: luck_tu08
+  - first:
+      213: 21300032
+    second: luck_tu09
+  - first:
+      213: 21300034
+    second: luck_tu11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: luck_curtains02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 242
+        width: 684
+        height: 1440
+      alignment: 9
+      pivot: {x: 1.7083334, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80f7223a139640428f02b3b8f68fc10
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luck_front01_1
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 18
+        width: 154
+        height: 397
+      alignment: 9
+      pivot: {x: 7.587662, y: 1.813602}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d3d377907500043bfecba07f14dc41
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luck_front01_2
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 6
+        width: 151
+        height: 397
+      alignment: 9
+      pivot: {x: -6.7384105, y: 1.813602}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da51c9b8668e3c42b0f111eeb36bdbb
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luck_school01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1438
+        width: 1902
+        height: 609
+      alignment: 9
+      pivot: {x: 0.3856467, y: 1.0673234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a89c39e85cb0c8428ae257a40a175e0
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luck_shool03
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 1612
+        width: 158
+        height: 435
+      alignment: 9
+      pivot: {x: 0.19936709, y: 0.5632184}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da80f934bc1288f4fb946d3ee915d907
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luck_shool04
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 1533
+        width: 158
+        height: 434
+      alignment: 9
+      pivot: {x: -0.54746836, y: 0.43087557}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250d49c3cc0109448afe148775232ef4
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luck_shool05
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 51
+        width: 155
+        height: 331
+      alignment: 9
+      pivot: {x: -0.17096774, y: 0.5740181}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2016fc44057776e42a71ad3602aa7d20
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luck_shool06
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 152
+        width: 156
+        height: 332
+      alignment: 9
+      pivot: {x: -1.0288461, y: 0.563253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0db922b883d654cb536c8125152d34
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luck_shool07
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 51
+        width: 184
+        height: 350
+      alignment: 9
+      pivot: {x: -0.41576087, y: 0.5485714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c716a0b228ccf7a4f858d5ee8c0c7d9a
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luck_tu01
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 200
+        width: 1377
+        height: 623
+      alignment: 9
+      pivot: {x: 0.56753814, y: 1.1556982}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8a324fa854919469172d2012dadffd
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luck_tu02
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 825
+        width: 1623
+        height: 611
+      alignment: 9
+      pivot: {x: 0.42483056, y: 1.1783961}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76fa16d84642d54d9e6e787db545921
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luck_tu03
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1469
+        width: 282
+        height: 213
+      alignment: 9
+      pivot: {x: 1.8173759, y: 1.1220658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110c580a1b9825343a9e41e9adbc2702
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luck_tu04
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 793
+        width: 189
+        height: 257
+      alignment: 9
+      pivot: {x: 3.1296296, y: 0.7782101}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d01f2281998a2408936bdde5222fd6
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luck_tu05
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 315
+        height: 237
+      alignment: 9
+      pivot: {x: 0.75396824, y: 1.0464135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd2d70c9e50fe1429b8e5bae820bbd4
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luck_tu07
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1438
+        width: 1902
+        height: 609
+      alignment: 9
+      pivot: {x: 0.3856467, y: 1.0673234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a94a20279ddc484596c1a2956ff5bcc
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luck_tu08
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 263
+        width: 282
+        height: 213
+      alignment: 9
+      pivot: {x: 0.6187943, y: 0.6713615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ee76e1015cccf41809b5899232cd19
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luck_tu09
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 187
+        width: 281
+        height: 214
+      alignment: 9
+      pivot: {x: -1.4323844, y: 0.76635516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b53d9b1dd52a34eb1392bf204c1710
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luck_tu11
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 480
+        width: 281
+        height: 213
+      alignment: 9
+      pivot: {x: 2.0053382, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0000e8bc5beb3f4a93f07911e2d5b07
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9c63dae7dc9beaf4b82b527c86fd6cf5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

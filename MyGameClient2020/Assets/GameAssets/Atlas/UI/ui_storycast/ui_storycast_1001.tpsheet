@@ -1,0 +1,26 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:898a8fcaf5f90a65421bdafb6f0c4fd3:08878c97b62278463a89dfbfb9d18f23:47d8c456885bf934ec2235733b222987$
+#
+:format=40000
+:texture=ui_storycast_1001.png
+:size=2048x2048
+
+ui_cast_1001_body;1;407;1125;1640;0.5;0.5
+ui_cast_1001_face_01;954;259;172;146;0.5;0.5
+ui_cast_1001_face_02;1814;1901;172;146;0.5;0.5
+ui_cast_1001_face_03;403;275;172;130;0.5;0.5
+ui_cast_1001_face_04;780;264;172;141;0.5;0.5
+ui_cast_1001_face_05;200;266;201;139;0.5;0.5
+ui_cast_1001_face_06;200;106;169;158;0.5;0.5
+ui_cast_1001_face_07;1814;1753;171;146;0.5;0.5
+ui_cast_1001_face_08;605;268;173;137;0.5;0.5
+ui_cast_1001_han;1583;538;83;163;0.5;0.5
+ui_cast_1001_hand_01;1;64;197;341;0.5;0.5
+ui_cast_1001_hand_02;1128;703;591;635;0.5;0.5
+ui_cast_1001_hand_03;1128;1340;684;707;0.5;0.5
+ui_cast_1001_hand_04;1128;172;453;529;0.5;0.5

@@ -1,0 +1,7745 @@
+fileFormatVersion: 2
+guid: 8bc6ddfc95eff18409ac9d57e77003d9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ui_headB_1001
+  - first:
+      213: 21300002
+    second: ui_headB_1002
+  - first:
+      213: 21300004
+    second: ui_headB_1003
+  - first:
+      213: 21300006
+    second: ui_headB_1004
+  - first:
+      213: 21300008
+    second: ui_head_01
+  - first:
+      213: 21300010
+    second: ui_head_02
+  - first:
+      213: 21300012
+    second: ui_head_03
+  - first:
+      213: 21300014
+    second: ui_head_1001
+  - first:
+      213: 21300016
+    second: ui_head_1002
+  - first:
+      213: 21300018
+    second: ui_head_1003
+  - first:
+      213: 21300020
+    second: ui_head_1004
+  - first:
+      213: 21300022
+    second: ui_headC_1001
+  - first:
+      213: 21300024
+    second: ui_headC_1002
+  - first:
+      213: 21300026
+    second: ui_headC_1003
+  - first:
+      213: 21300028
+    second: ui_headC_1004
+  - first:
+      213: 21300030
+    second: ui_headC_1005
+  - first:
+      213: 21300032
+    second: ui_headD_1001_B
+  - first:
+      213: 21300034
+    second: ui_headD_1002
+  - first:
+      213: 21300036
+    second: ui_headD_1004
+  - first:
+      213: 21300038
+    second: ui_headD_1004_B
+  - first:
+      213: 21300040
+    second: ui_headD_1005
+  - first:
+      213: 21300042
+    second: ui_headF_1002
+  - first:
+      213: 21300044
+    second: ui_headF_1003
+  - first:
+      213: 21300046
+    second: ui_headF_1005
+  - first:
+      213: 21300048
+    second: ui_headG_1001
+  - first:
+      213: 21300050
+    second: ui_headG_1002
+  - first:
+      213: 21300052
+    second: ui_headG_1003
+  - first:
+      213: 21300054
+    second: ui_headG_1004
+  - first:
+      213: 21300056
+    second: ui_headG_1004_B
+  - first:
+      213: 21300058
+    second: ui_headG_1005
+  - first:
+      213: 21300060
+    second: ui_headH_1001
+  - first:
+      213: 21300062
+    second: ui_headH_1002
+  - first:
+      213: 21300064
+    second: ui_headH_1004
+  - first:
+      213: 21300066
+    second: ui_headH_1004_B
+  - first:
+      213: 21300068
+    second: ui_headH_1005
+  - first:
+      213: 21300070
+    second: ui_headI_1003
+  - first:
+      213: 21300072
+    second: ui_headI_1004
+  - first:
+      213: 21300074
+    second: ui_headI_1005
+  - first:
+      213: 21300076
+    second: ui_headJ_1003
+  - first:
+      213: 21300078
+    second: ui_headJ_1004
+  - first:
+      213: 21300080
+    second: ui_headJ_1005
+  - first:
+      213: 21300082
+    second: ui_headK_1003
+  - first:
+      213: 21300084
+    second: ui_headK_1004
+  - first:
+      213: 21300086
+    second: ui_headK_1005
+  - first:
+      213: 21300088
+    second: ui_headL_1003
+  - first:
+      213: 21300090
+    second: ui_headL_1005
+  - first:
+      213: 21300092
+    second: ui_head_1004_B
+  - first:
+      213: 21300094
+    second: ui_head_1005
+  - first:
+      213: 21300096
+    second: ui_headI_1001
+  - first:
+      213: 21300098
+    second: ui_headJ_1001
+  - first:
+      213: 21300100
+    second: ui_headB_1006
+  - first:
+      213: 21300102
+    second: ui_headC_1006
+  - first:
+      213: 21300104
+    second: ui_headD_1006
+  - first:
+      213: 21300106
+    second: ui_headE_1006
+  - first:
+      213: 21300108
+    second: ui_headF_1006
+  - first:
+      213: 21300110
+    second: ui_headG_1006
+  - first:
+      213: 21300112
+    second: ui_headH_1006
+  - first:
+      213: 21300114
+    second: ui_headJ_1006
+  - first:
+      213: 21300116
+    second: ui_headL_1006
+  - first:
+      213: 21300118
+    second: ui_head_1006
+  - first:
+      213: 21300120
+    second: ui_headB_1005
+  - first:
+      213: 21300122
+    second: ui_headC_1009
+  - first:
+      213: 21300124
+    second: ui_headD_1009
+  - first:
+      213: 21300126
+    second: ui_headF_1009
+  - first:
+      213: 21300128
+    second: ui_headG_1009
+  - first:
+      213: 21300130
+    second: ui_headH_1009
+  - first:
+      213: 21300132
+    second: ui_headI_1009
+  - first:
+      213: 21300134
+    second: ui_headL_1009
+  - first:
+      213: 21300136
+    second: ui_head_1009
+  - first:
+      213: 21300138
+    second: ui_headC_1010
+  - first:
+      213: 21300140
+    second: ui_headD_1010
+  - first:
+      213: 21300142
+    second: ui_headE_1010
+  - first:
+      213: 21300144
+    second: ui_headF_1010
+  - first:
+      213: 21300146
+    second: ui_headH_1010
+  - first:
+      213: 21300148
+    second: ui_headI_1010
+  - first:
+      213: 21300150
+    second: ui_headK_1010
+  - first:
+      213: 21300152
+    second: ui_head_1010
+  - first:
+      213: 21300154
+    second: ui_headC_1011
+  - first:
+      213: 21300156
+    second: ui_headD_1011
+  - first:
+      213: 21300158
+    second: ui_headD_1012
+  - first:
+      213: 21300160
+    second: ui_headE_1012
+  - first:
+      213: 21300162
+    second: ui_headF_1011
+  - first:
+      213: 21300164
+    second: ui_headF_1012
+  - first:
+      213: 21300166
+    second: ui_headG_1011
+  - first:
+      213: 21300168
+    second: ui_headH_1011
+  - first:
+      213: 21300170
+    second: ui_headH_1012
+  - first:
+      213: 21300172
+    second: ui_headK_1011
+  - first:
+      213: 21300174
+    second: ui_headK_1012
+  - first:
+      213: 21300176
+    second: ui_head_1011
+  - first:
+      213: 21300178
+    second: ui_head_1012
+  - first:
+      213: 21300180
+    second: ui_headl_1011
+  - first:
+      213: 21300182
+    second: ui_headl_1012
+  - first:
+      213: 21300184
+    second: ui_headC_1013
+  - first:
+      213: 21300186
+    second: ui_headD_1013
+  - first:
+      213: 21300188
+    second: ui_headE_1013
+  - first:
+      213: 21300190
+    second: ui_headF_1001
+  - first:
+      213: 21300192
+    second: ui_headF_1013
+  - first:
+      213: 21300194
+    second: ui_headG_1013
+  - first:
+      213: 21300196
+    second: ui_headH_1013
+  - first:
+      213: 21300198
+    second: ui_headI_1013
+  - first:
+      213: 21300200
+    second: ui_headJ_1013
+  - first:
+      213: 21300202
+    second: ui_headK_1001
+  - first:
+      213: 21300204
+    second: ui_headK_1013
+  - first:
+      213: 21300206
+    second: ui_headL_1001
+  - first:
+      213: 21300208
+    second: ui_headL_1013
+  - first:
+      213: 21300210
+    second: ui_head_1013
+  - first:
+      213: 21300212
+    second: ui_headC_1014
+  - first:
+      213: 21300214
+    second: ui_headD_1014
+  - first:
+      213: 21300216
+    second: ui_headE_1014
+  - first:
+      213: 21300218
+    second: ui_headF_1014
+  - first:
+      213: 21300220
+    second: ui_headG_1014
+  - first:
+      213: 21300222
+    second: ui_headH_1014
+  - first:
+      213: 21300224
+    second: ui_headI_1014
+  - first:
+      213: 21300226
+    second: ui_headJ_1014
+  - first:
+      213: 21300228
+    second: ui_headK_1014
+  - first:
+      213: 21300230
+    second: ui_headL_1014
+  - first:
+      213: 21300232
+    second: ui_head_1014
+  - first:
+      213: 21300234
+    second: ui_headC_1015
+  - first:
+      213: 21300236
+    second: ui_headD_1015
+  - first:
+      213: 21300238
+    second: ui_headF_1015
+  - first:
+      213: 21300240
+    second: ui_headH_1015
+  - first:
+      213: 21300242
+    second: ui_headI_1015
+  - first:
+      213: 21300244
+    second: ui_headJ_1015
+  - first:
+      213: 21300246
+    second: ui_headK_1015
+  - first:
+      213: 21300248
+    second: ui_headL_1015
+  - first:
+      213: 21300250
+    second: ui_headM_1015
+  - first:
+      213: 21300252
+    second: ui_headN_1015
+  - first:
+      213: 21300254
+    second: ui_headO_1015
+  - first:
+      213: 21300256
+    second: ui_head_1015
+  - first:
+      213: 21300258
+    second: ui_head_1016
+  - first:
+      213: 21300260
+    second: ui_head_1017
+  - first:
+      213: 21300262
+    second: ui_headC_1016
+  - first:
+      213: 21300264
+    second: ui_headC_1017
+  - first:
+      213: 21300266
+    second: ui_headD_1016
+  - first:
+      213: 21300268
+    second: ui_headE_1017
+  - first:
+      213: 21300270
+    second: ui_headF_1016
+  - first:
+      213: 21300272
+    second: ui_headF_1017
+  - first:
+      213: 21300274
+    second: ui_headH_1016
+  - first:
+      213: 21300276
+    second: ui_headH_1017
+  - first:
+      213: 21300278
+    second: ui_headI_1016
+  - first:
+      213: 21300280
+    second: ui_headJ_1016
+  - first:
+      213: 21300282
+    second: ui_headK_1016
+  - first:
+      213: 21300284
+    second: ui_headK_1017
+  - first:
+      213: 21300286
+    second: ui_headL_1016
+  - first:
+      213: 21300288
+    second: ui_head_1018
+  - first:
+      213: 21300290
+    second: ui_head_2001
+  - first:
+      213: 21300292
+    second: ui_head_2002
+  - first:
+      213: 21300294
+    second: ui_head_2005
+  - first:
+      213: 21300296
+    second: ui_head_2006
+  - first:
+      213: 21300298
+    second: ui_head_2007
+  - first:
+      213: 21300300
+    second: ui_head_2008
+  - first:
+      213: 21300302
+    second: ui_head_3001
+  - first:
+      213: 21300304
+    second: ui_head_3002
+  - first:
+      213: 21300306
+    second: ui_headC_1018
+  - first:
+      213: 21300308
+    second: ui_headD_1017
+  - first:
+      213: 21300310
+    second: ui_headE_1018
+  - first:
+      213: 21300312
+    second: ui_headF_1018
+  - first:
+      213: 21300314
+    second: ui_headH_1018
+  - first:
+      213: 21300316
+    second: ui_headI_1017
+  - first:
+      213: 21300318
+    second: ui_headK_1018
+  - first:
+      213: 21300320
+    second: ui_head_aifei
+  - first:
+      213: 21300322
+    second: ui_head_ailisi
+  - first:
+      213: 21300324
+    second: ui_head_aojieta
+  - first:
+      213: 21300326
+    second: ui_head_aojiliya
+  - first:
+      213: 21300328
+    second: ui_head_bingmayong_jian
+  - first:
+      213: 21300330
+    second: ui_head_bingmayong_nu
+  - first:
+      213: 21300332
+    second: ui_head_bulunxierde
+  - first:
+      213: 21300334
+    second: ui_head_caiwenji
+  - first:
+      213: 21300336
+    second: ui_head_fuliya
+  - first:
+      213: 21300338
+    second: ui_head_jinzhanyueyan
+  - first:
+      213: 21300340
+    second: ui_head_juxingyueyan
+  - first:
+      213: 21300342
+    second: ui_head_kelala
+  - first:
+      213: 21300344
+    second: ui_head_luosibate
+  - first:
+      213: 21300346
+    second: ui_head_mimei
+  - first:
+      213: 21300348
+    second: ui_head_mowangzhixi
+  - first:
+      213: 21300350
+    second: ui_head_pamina
+  - first:
+      213: 21300352
+    second: ui_head_tongyongshibing_gong
+  - first:
+      213: 21300354
+    second: ui_head_tongyongshibing_jian
+  - first:
+      213: 21300356
+    second: ui_head_waerteluode
+  - first:
+      213: 21300358
+    second: ui_head_yajiate
+  - first:
+      213: 21300360
+    second: ui_head_yezhinvwang
+  - first:
+      213: 21300362
+    second: ui_head_yezhinvwang_B
+  - first:
+      213: 21300364
+    second: ui_head_yuanchengyueyan
+  - first:
+      213: 21300366
+    second: ui_head_yuji
+  - first:
+      213: 21300368
+    second: ui_headB_aojieta
+  - first:
+      213: 21300370
+    second: ui_headB_aojiliya
+  - first:
+      213: 21300372
+    second: ui_headB_bulunxierde
+  - first:
+      213: 21300374
+    second: ui_headB_kelala
+  - first:
+      213: 21300376
+    second: ui_headB_yajiate
+  - first:
+      213: 21300378
+    second: ui_headB_yezhinvwang
+  - first:
+      213: 21300380
+    second: ui_headC_aifei
+  - first:
+      213: 21300382
+    second: ui_headC_ailisi
+  - first:
+      213: 21300384
+    second: ui_headC_aojieta
+  - first:
+      213: 21300386
+    second: ui_headC_aojiliya
+  - first:
+      213: 21300388
+    second: ui_headC_bulunxierde
+  - first:
+      213: 21300390
+    second: ui_headC_caiwenji
+  - first:
+      213: 21300392
+    second: ui_headC_kelala
+  - first:
+      213: 21300394
+    second: ui_headC_luosibate
+  - first:
+      213: 21300396
+    second: ui_headC_mimei
+  - first:
+      213: 21300398
+    second: ui_headC_pamina
+  - first:
+      213: 21300400
+    second: ui_headC_waerteluode
+  - first:
+      213: 21300402
+    second: ui_headC_yajiate
+  - first:
+      213: 21300404
+    second: ui_headC_yezhinvwang
+  - first:
+      213: 21300406
+    second: ui_headC_yuji
+  - first:
+      213: 21300408
+    second: ui_headD_aifei
+  - first:
+      213: 21300410
+    second: ui_headD_ailisi
+  - first:
+      213: 21300412
+    second: ui_headD_aojieta
+  - first:
+      213: 21300414
+    second: ui_headD_aojiliya_B
+  - first:
+      213: 21300416
+    second: ui_headD_bulunxierde
+  - first:
+      213: 21300418
+    second: ui_headD_caiwenji
+  - first:
+      213: 21300420
+    second: ui_headD_fuliya
+  - first:
+      213: 21300422
+    second: ui_headD_luosibate
+  - first:
+      213: 21300424
+    second: ui_headD_mimei
+  - first:
+      213: 21300426
+    second: ui_headD_pamina
+  - first:
+      213: 21300428
+    second: ui_headD_waerteluode
+  - first:
+      213: 21300430
+    second: ui_headD_yajiate
+  - first:
+      213: 21300432
+    second: ui_headD_yezhinvwang
+  - first:
+      213: 21300434
+    second: ui_headD_yezhinvwang_B
+  - first:
+      213: 21300436
+    second: ui_headE_aifei
+  - first:
+      213: 21300438
+    second: ui_headE_ailisi
+  - first:
+      213: 21300440
+    second: ui_headE_caiwenji
+  - first:
+      213: 21300442
+    second: ui_headE_fuliya
+  - first:
+      213: 21300444
+    second: ui_headE_yajiate
+  - first:
+      213: 21300446
+    second: ui_headE_yuji
+  - first:
+      213: 21300448
+    second: ui_headF_aifei
+  - first:
+      213: 21300450
+    second: ui_headF_ailisi
+  - first:
+      213: 21300452
+    second: ui_headF_aojieta
+  - first:
+      213: 21300454
+    second: ui_headF_aojiliya
+  - first:
+      213: 21300456
+    second: ui_headF_bulunxierde
+  - first:
+      213: 21300458
+    second: ui_headF_caiwenji
+  - first:
+      213: 21300460
+    second: ui_headF_fuliya
+  - first:
+      213: 21300462
+    second: ui_headF_kelala
+  - first:
+      213: 21300464
+    second: ui_headF_luosibate
+  - first:
+      213: 21300466
+    second: ui_headF_mimei
+  - first:
+      213: 21300468
+    second: ui_headF_pamina
+  - first:
+      213: 21300470
+    second: ui_headF_waerteluode
+  - first:
+      213: 21300472
+    second: ui_headF_yajiate
+  - first:
+      213: 21300474
+    second: ui_headF_yuji
+  - first:
+      213: 21300476
+    second: ui_headG_aifei
+  - first:
+      213: 21300478
+    second: ui_headG_aojieta
+  - first:
+      213: 21300480
+    second: ui_headG_aojiliya
+  - first:
+      213: 21300482
+    second: ui_headG_bulunxierde
+  - first:
+      213: 21300484
+    second: ui_headG_kelala
+  - first:
+      213: 21300486
+    second: ui_headG_pamina
+  - first:
+      213: 21300488
+    second: ui_headG_waerteluode
+  - first:
+      213: 21300490
+    second: ui_headG_yajiate
+  - first:
+      213: 21300492
+    second: ui_headG_yezhinvwang
+  - first:
+      213: 21300494
+    second: ui_headG_yezhinvwang_B
+  - first:
+      213: 21300496
+    second: ui_headH_aifei
+  - first:
+      213: 21300498
+    second: ui_headH_ailisi
+  - first:
+      213: 21300500
+    second: ui_headH_aojieta
+  - first:
+      213: 21300502
+    second: ui_headH_aojiliya
+  - first:
+      213: 21300504
+    second: ui_headH_bulunxierde
+  - first:
+      213: 21300506
+    second: ui_headH_fuliya
+  - first:
+      213: 21300508
+    second: ui_headH_luosibate
+  - first:
+      213: 21300510
+    second: ui_headH_mimei
+  - first:
+      213: 21300512
+    second: ui_headH_pamina
+  - first:
+      213: 21300514
+    second: ui_headH_waerteluode
+  - first:
+      213: 21300516
+    second: ui_headH_yajiate
+  - first:
+      213: 21300518
+    second: ui_headH_yezhinvwang
+  - first:
+      213: 21300520
+    second: ui_headH_yezhinvwang_B
+  - first:
+      213: 21300522
+    second: ui_headH_yuji
+  - first:
+      213: 21300524
+    second: ui_headI_aifei
+  - first:
+      213: 21300526
+    second: ui_headI_ailisi
+  - first:
+      213: 21300528
+    second: ui_headI_aojiliya
+  - first:
+      213: 21300530
+    second: ui_headI_bulunxierde
+  - first:
+      213: 21300532
+    second: ui_headI_caiwenji
+  - first:
+      213: 21300534
+    second: ui_headI_kelala
+  - first:
+      213: 21300536
+    second: ui_headI_luosibate
+  - first:
+      213: 21300538
+    second: ui_headI_mimei
+  - first:
+      213: 21300540
+    second: ui_headI_waerteluode
+  - first:
+      213: 21300542
+    second: ui_headI_yezhinvwang
+  - first:
+      213: 21300544
+    second: ui_headJ_aifei
+  - first:
+      213: 21300546
+    second: ui_headJ_aojiliya
+  - first:
+      213: 21300548
+    second: ui_headJ_bulunxierde
+  - first:
+      213: 21300550
+    second: ui_headJ_kelala
+  - first:
+      213: 21300552
+    second: ui_headJ_luosibate
+  - first:
+      213: 21300554
+    second: ui_headJ_mimei
+  - first:
+      213: 21300556
+    second: ui_headJ_yajiate
+  - first:
+      213: 21300558
+    second: ui_headJ_yezhinvwang
+  - first:
+      213: 21300560
+    second: ui_headK_aifei
+  - first:
+      213: 21300562
+    second: ui_headK_ailisi
+  - first:
+      213: 21300564
+    second: ui_headK_aojiliya
+  - first:
+      213: 21300566
+    second: ui_headK_bulunxierde
+  - first:
+      213: 21300568
+    second: ui_headK_caiwenji
+  - first:
+      213: 21300570
+    second: ui_headK_fuliya
+  - first:
+      213: 21300572
+    second: ui_headK_kelala
+  - first:
+      213: 21300574
+    second: ui_headK_luosibate
+  - first:
+      213: 21300576
+    second: ui_headK_mimei
+  - first:
+      213: 21300578
+    second: ui_headK_pamina
+  - first:
+      213: 21300580
+    second: ui_headK_yezhinvwang
+  - first:
+      213: 21300582
+    second: ui_headK_yuji
+  - first:
+      213: 21300584
+    second: ui_headL_aifei
+  - first:
+      213: 21300586
+    second: ui_headL_aojiliya
+  - first:
+      213: 21300588
+    second: ui_headL_bulunxierde
+  - first:
+      213: 21300590
+    second: ui_headl_fuliya
+  - first:
+      213: 21300592
+    second: ui_headL_kelala
+  - first:
+      213: 21300594
+    second: ui_headL_luosibate
+  - first:
+      213: 21300596
+    second: ui_headL_mimei
+  - first:
+      213: 21300598
+    second: ui_headl_pamina
+  - first:
+      213: 21300600
+    second: ui_headL_waerteluode
+  - first:
+      213: 21300602
+    second: ui_headL_yajiate
+  - first:
+      213: 21300604
+    second: ui_headM_luosibate
+  - first:
+      213: 21300606
+    second: ui_headN_luosibate
+  - first:
+      213: 21300608
+    second: ui_headO_luosibate
+  - first:
+      213: -5296226541178831880
+    second: ui_head _aisimeilada
+  - first:
+      213: -8155486361211973409
+    second: ui_head J_aisimeilada
+  - first:
+      213: -951899016982069916
+    second: ui_head_aisimeilada
+  - first:
+      213: -714129980100790555
+    second: ui_head_anna
+  - first:
+      213: 7537425458791848924
+    second: ui_head_fuliyai
+  - first:
+      213: 6717616063375078082
+    second: ui_head_kaximoduo
+  - first:
+      213: 2242869167627049189
+    second: ui_head_kelisita
+  - first:
+      213: -4408351777086170865
+    second: ui_headB_ailisi
+  - first:
+      213: -2682390147542916874
+    second: ui_headB_aisimeilada
+  - first:
+      213: 6240979800449153243
+    second: ui_headB_anna
+  - first:
+      213: -9048986361571312144
+    second: ui_headB_kaximoduo
+  - first:
+      213: -7288788831317271991
+    second: ui_headB_kelisita
+  - first:
+      213: 8438842740511548205
+    second: ui_headB_yezhinvwang_B
+  - first:
+      213: 1586996549927673088
+    second: ui_headC_aisimeilada
+  - first:
+      213: 5230385934113161587
+    second: ui_headC_anna
+  - first:
+      213: 8161429449718565676
+    second: ui_headC_fuliya
+  - first:
+      213: 2542405219185917471
+    second: ui_headc_fuliyai
+  - first:
+      213: -1276841120409946772
+    second: ui_headC_kaximoduo
+  - first:
+      213: -7477862111804676041
+    second: ui_headC_kelisita
+  - first:
+      213: 3429880993028933147
+    second: ui_headC_yezhinvwang_B
+  - first:
+      213: 9051969218039932288
+    second: ui_headD_aisimeilada
+  - first:
+      213: 8345084507503376486
+    second: ui_headD_anna
+  - first:
+      213: -4730796360007430095
+    second: ui_headD_kaximoduo
+  - first:
+      213: 3838667939369775483
+    second: ui_headD_kelala
+  - first:
+      213: 5652201701097840305
+    second: ui_headD_kelisita
+  - first:
+      213: -5556630275213720730
+    second: ui_headD_yuji
+  - first:
+      213: -8305911576062791908
+    second: ui_headE_aisimeilada
+  - first:
+      213: -1641746069218378233
+    second: ui_headE_anna
+  - first:
+      213: -537326087178808492
+    second: ui_headE_kaximoduo
+  - first:
+      213: 5470827080555295176
+    second: ui_headE_kelisita
+  - first:
+      213: 2126542079955128428
+    second: ui_headE_luosibate
+  - first:
+      213: -3398896371871650117
+    second: ui_headE_mimei
+  - first:
+      213: 6299722135573204834
+    second: ui_headE_pamina
+  - first:
+      213: 3597712829005584167
+    second: ui_headE_waerteluode
+  - first:
+      213: -7973403482094809288
+    second: ui_headE_yezhinvwang_B
+  - first:
+      213: -5469614063363959790
+    second: ui_headF_aisimeilada
+  - first:
+      213: -1540645626263566945
+    second: ui_headf_anna
+  - first:
+      213: -154248960230731574
+    second: ui_headF_kaximoduo
+  - first:
+      213: 616003698617573338
+    second: ui_headF_kelisita
+  - first:
+      213: 703894384061675229
+    second: ui_headF_yezhinvwang_B
+  - first:
+      213: 6522579803146145801
+    second: ui_headg _aisimeilada
+  - first:
+      213: -6182621855552503576
+    second: ui_headG_ailisi
+  - first:
+      213: -3767511995254612419
+    second: ui_headG_aisimeilada
+  - first:
+      213: 9221049165960378448
+    second: ui_headG_anna
+  - first:
+      213: -860891581458259402
+    second: ui_headG_caiwenji
+  - first:
+      213: -493868059607978613
+    second: ui_headG_kaximoduo
+  - first:
+      213: 8135172190140852718
+    second: ui_headG_kelisita
+  - first:
+      213: -3235361198409604873
+    second: ui_headG_mimei
+  - first:
+      213: -6484819087874884087
+    second: ui_headG_yuji
+  - first:
+      213: 1960940715286305792
+    second: ui_headH_aisimeilada
+  - first:
+      213: 191487869734209190
+    second: ui_headH_anna
+  - first:
+      213: 5472189297278301294
+    second: ui_headH_caiwenji
+  - first:
+      213: -2796766775516169592
+    second: ui_headH_kelala
+  - first:
+      213: 2036926262684725858
+    second: ui_headH_kelisita
+  - first:
+      213: -8585516560910818001
+    second: ui_headi _aisimeilada
+  - first:
+      213: 3706581775761708721
+    second: ui_headI_aisimeilada
+  - first:
+      213: 1215106438382581893
+    second: ui_headI_anna
+  - first:
+      213: 6900466693807748906
+    second: ui_headI_kelisita
+  - first:
+      213: 5865542246675944450
+    second: ui_headI_yajiate
+  - first:
+      213: -4378582671353690071
+    second: ui_headI_yuji
+  - first:
+      213: -4911297218601537891
+    second: ui_headJ_ailisi
+  - first:
+      213: -7318255450018190024
+    second: ui_headJ_aisimeilada
+  - first:
+      213: -7484134630640376816
+    second: ui_headJ_caiwenji
+  - first:
+      213: -3306455310325128286
+    second: ui_headJ_kelisita
+  - first:
+      213: 5843138441440082423
+    second: ui_headJ_waerteluode
+  - first:
+      213: 7662638678060302100
+    second: ui_headJ_yuji
+  - first:
+      213: 4800848562792109628
+    second: ui_headK _aisimeilada
+  - first:
+      213: 5374058439227723858
+    second: ui_headk_aisimeilada
+  - first:
+      213: 1455468546769831156
+    second: ui_headK_kelisita
+  - first:
+      213: -5428597245565678963
+    second: ui_headK_waerteluode
+  - first:
+      213: -8100941760513894624
+    second: ui_headK_yajiate
+  - first:
+      213: -4676052130994276361
+    second: 'ui_headL_aifei '
+  - first:
+      213: 6704626899058348916
+    second: ui_headL_aisimeilada
+  - first:
+      213: 4549504602694117222
+    second: ui_headL_caiwenji
+  - first:
+      213: 6070970788898777348
+    second: ui_headL_fuliya
+  - first:
+      213: -1855789077508774575
+    second: ui_headL_kelisita
+  - first:
+      213: -824115020583122890
+    second: ui_headL_pamina
+  - first:
+      213: -1357099650500017853
+    second: ui_headL_yuji
+  - first:
+      213: 3381086657761004
+    second: ui_headM_aojiliya
+  - first:
+      213: 6811196017578451502
+    second: ui_headM_caiwenji
+  - first:
+      213: -6261965672628537800
+    second: ui_headM_fuliya
+  - first:
+      213: 4416213968947425477
+    second: ui_headM_fuliyai
+  - first:
+      213: -2254609077359597420
+    second: ui_headM_kelala
+  - first:
+      213: -829635271979888198
+    second: ui_headM_kelisita
+  - first:
+      213: 915165388811449873
+    second: ui_headM_mimei
+  - first:
+      213: -983295980555378012
+    second: ui_headM_waerteluode
+  - first:
+      213: 8826404641415180937
+    second: ui_headM_yajiate
+  - first:
+      213: 8382886908447741039
+    second: ui_headM_yuji
+  - first:
+      213: 3734658659117842553
+    second: ui_headN_aifei
+  - first:
+      213: -9004512736083167277
+    second: ui_headN_aojiliya
+  - first:
+      213: -9147450140406200121
+    second: ui_headN_caiwenji
+  - first:
+      213: -8858347416823628303
+    second: ui_headN_kelisita
+  - first:
+      213: -8484101688653908413
+    second: ui_headN_mimei
+  - first:
+      213: 4566270552050227375
+    second: ui_headN_waerteluode
+  - first:
+      213: -2089720607181537020
+    second: ui_headN_yuji
+  - first:
+      213: 7802410734470975598
+    second: ui_headO_caiwenji
+  - first:
+      213: 8122924855013213015
+    second: ui_headO_kelisita
+  - first:
+      213: 7643573429733769845
+    second: ui_headO_mimei
+  - first:
+      213: 8445774203020118030
+    second: ui_headO_yuji
+  - first:
+      213: -8707160640545607582
+    second: ui_headP_caiwenji
+  - first:
+      213: -4747159293201389091
+    second: ui_headP_luosibate
+  - first:
+      213: -3367819045038339119
+    second: 'ui_headQ_aisimeilada '
+  - first:
+      213: -959238716275881025
+    second: ui_headQ_caiwenji
+  - first:
+      213: 1139215655777671662
+    second: ui_headK_aisimeilada
+  - first:
+      213: 3731846423709200557
+    second: ui_headF_anna
+  - first:
+      213: 4378621100366353641
+    second: ui_head_ailisi2
+  - first:
+      213: 7449637642159893626
+    second: ui_head_ailisi2_by
+  - first:
+      213: 3514079240613055394
+    second: ui_head_ailisi2_hx
+  - first:
+      213: 4853627564904964280
+    second: ui_head_ailisi2_hx02
+  - first:
+      213: -8008219313436297607
+    second: ui_head_ailisi2_jy
+  - first:
+      213: -429040926202218346
+    second: ui_head_ailisi2_rz
+  - first:
+      213: -2098499146824828346
+    second: ui_head_ailisi2_rz02
+  - first:
+      213: 3830814634959012140
+    second: ui_head_ailisi2_sj
+  - first:
+      213: -8461074125344959493
+    second: ui_head_ailisi2_sq
+  - first:
+      213: 3103332640465959564
+    second: ui_head_ailisi2_sq02
+  - first:
+      213: -3725545440661977694
+    second: ui_head_ailisi2_sw
+  - first:
+      213: 6404195073461460536
+    second: ui_head_ailisi2_wq
+  - first:
+      213: 5586863707953679799
+    second: ui_head_ailisi2_wx
+  - first:
+      213: -5516426125224440937
+    second: ui_head_ailisi2_wx02
+  - first:
+      213: 1769165102314042115
+    second: ui_head_hezihezi
+  - first:
+      213: 8426502874038835615
+    second: ui_head_hezihezi_by
+  - first:
+      213: 6397177562684628281
+    second: ui_head_hezihezi_dk
+  - first:
+      213: -8443341334927654474
+    second: ui_head_hezihezi_hx01
+  - first:
+      213: 1348534000921281198
+    second: ui_head_hezihezi_hx02
+  - first:
+      213: -1983167413202857583
+    second: ui_head_hezihezi_jy
+  - first:
+      213: -1119196959528817492
+    second: ui_head_hezihezi_rz
+  - first:
+      213: -8233263241341577345
+    second: ui_head_hezihezi_rz02
+  - first:
+      213: 4330942100427850808
+    second: ui_head_hezihezi_sj
+  - first:
+      213: -1133458766598014741
+    second: ui_head_hezihezi_sq
+  - first:
+      213: -8028150916376206036
+    second: ui_head_hezihezi_sq02
+  - first:
+      213: 7683265704518965637
+    second: ui_head_hezihezi_sw
+  - first:
+      213: -4575549026978675133
+    second: ui_head_hezihezi_wq
+  - first:
+      213: -7555724310474759856
+    second: ui_head_hezihezi_wx01
+  - first:
+      213: -6352814434424666125
+    second: ui_head_hezihezi_wx02
+  - first:
+      213: 6382592399257161016
+    second: ui_head_maikebai
+  - first:
+      213: 4682687270087732982
+    second: ui_head_maikebai_beishang
+  - first:
+      213: 1908241705208115353
+    second: ui_head_maikebai_biyan
+  - first:
+      213: -3673931399528120555
+    second: ui_head_maikebai_haixiu01
+  - first:
+      213: -9053271442901469443
+    second: ui_head_maikebai_haixiu02
+  - first:
+      213: -3957400837968891560
+    second: ui_head_maikebai_jinya
+  - first:
+      213: 5188267863331928086
+    second: ui_head_maikebai_lenshi01
+  - first:
+      213: 7501771508451757011
+    second: ui_head_maikebai_lenshi02
+  - first:
+      213: 7759944054763752901
+    second: ui_head_maikebai_lenxiao
+  - first:
+      213: -3799896418273521444
+    second: ui_head_maikebai_shenqi
+  - first:
+      213: 4174211557293773455
+    second: ui_head_maikebai_shouji
+  - first:
+      213: -4477877775221632138
+    second: ui_head_maikebai_shushi
+  - first:
+      213: -6206476178970082450
+    second: ui_head_maikebai_siwang
+  - first:
+      213: -5043948424224054451
+    second: ui_head_maikebai_weixiao
+  - first:
+      213: -6979922194336544073
+    second: ui_head_saike
+  - first:
+      213: -4044465716032732561
+    second: ui_head_saike_ad
+  - first:
+      213: 5946719271938764599
+    second: ui_head_saike_ad02
+  - first:
+      213: 2255697841672597861
+    second: ui_head_saike_bx
+  - first:
+      213: 1449071188724976663
+    second: ui_head_saike_by
+  - first:
+      213: 1109221073428815857
+    second: ui_head_saike_hx01
+  - first:
+      213: -5786558205032718448
+    second: ui_head_saike_hx02
+  - first:
+      213: -1600381456262629351
+    second: ui_head_saike_jy
+  - first:
+      213: -6619713732713478358
+    second: ui_head_saike_jy02
+  - first:
+      213: -1297335157567904430
+    second: ui_head_saike_kq
+  - first:
+      213: 8463032511563729358
+    second: ui_head_saike_sq
+  - first:
+      213: 6037638269845686975
+    second: ui_head_saike_ss
+  - first:
+      213: -6297492176236422401
+    second: ui_head_saike_sw
+  - first:
+      213: -643325685672566047
+    second: ui_head_saike_wx
+  - first:
+      213: -180560627526816060
+    second: ui_head_saike_yx
+  - first:
+      213: 1455904053600924555
+    second: ui_head_saike_zx
+  - first:
+      213: -548208926094299019
+    second: ui_head_0
+  - first:
+      213: 5010934436470775352
+    second: ui_head_ailisiweiwangzhilv
+  - first:
+      213: 2157934792865917740
+    second: ui_head_ailisiweiwangzhilv_by
+  - first:
+      213: -3665857292111591036
+    second: ui_head_ailisiweiwangzhilv_hx
+  - first:
+      213: 7951739422173034284
+    second: ui_head_ailisiweiwangzhilv_hx02
+  - first:
+      213: 226968855618198581
+    second: ui_head_ailisiweiwangzhilv_jy
+  - first:
+      213: 3460940173135454363
+    second: ui_head_ailisiweiwangzhilv_rz
+  - first:
+      213: -7647821475606009127
+    second: ui_head_ailisiweiwangzhilv_rz02
+  - first:
+      213: 1487885303853947928
+    second: ui_head_ailisiweiwangzhilv_sj
+  - first:
+      213: -3173230501601872913
+    second: ui_head_ailisiweiwangzhilv_sq
+  - first:
+      213: 4909716536073209249
+    second: ui_head_ailisiweiwangzhilv_sq02
+  - first:
+      213: 2313636569332108560
+    second: ui_head_ailisiweiwangzhilv_sw
+  - first:
+      213: -3827992406134201377
+    second: ui_head_ailisiweiwangzhilv_wq
+  - first:
+      213: -5409102480111904486
+    second: ui_head_ailisiweiwangzhilv_wx
+  - first:
+      213: -5689596592472720681
+    second: ui_head_ailisiweiwangzhilv_wx02
+  - first:
+      213: 4230883894578026110
+    second: ui_head_hesihesi
+  - first:
+      213: -5762202766687818880
+    second: ui_head_hesihesi_by
+  - first:
+      213: 1637009790888836318
+    second: ui_head_hesihesi_dk
+  - first:
+      213: -1330249814175821141
+    second: ui_head_hesihesi_hx01
+  - first:
+      213: -6057874579411043881
+    second: ui_head_hesihesi_hx02
+  - first:
+      213: 1713059560445429891
+    second: ui_head_hesihesi_jy
+  - first:
+      213: 1801409635220385071
+    second: ui_head_hesihesi_rz
+  - first:
+      213: 8654058044767884654
+    second: ui_head_hesihesi_rz02
+  - first:
+      213: -5781351845222943336
+    second: ui_head_hesihesi_sj
+  - first:
+      213: 1394451508962839075
+    second: ui_head_hesihesi_sq
+  - first:
+      213: -5657143499149342521
+    second: ui_head_hesihesi_sq02
+  - first:
+      213: 6810803279244328414
+    second: ui_head_hesihesi_sw
+  - first:
+      213: -6847717438651061638
+    second: ui_head_hesihesi_wq
+  - first:
+      213: -4203061719699801043
+    second: ui_head_hesihesi_wx01
+  - first:
+      213: -3310896566551703937
+    second: ui_head_hesihesi_wx02
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ui_head_aifei
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1323
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06405410000000000800000000000000
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_ailisi
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1323
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26405410000000000800000000000000
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_ailisiweiwangzhilv
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1323
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83edc96225a6a8540800000000000000
+      internalID: 5010934436470775352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_ailisiweiwangzhilv_by
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1323
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2baa39c24682fd10800000000000000
+      internalID: 2157934792865917740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_ailisiweiwangzhilv_hx
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1323
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489c9622732402dc0800000000000000
+      internalID: -3665857292111591036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_ailisiweiwangzhilv_hx02
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1323
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27f715dfd04a5e60800000000000000
+      internalID: 7951739422173034284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_ailisiweiwangzhilv_jy
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 1323
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c133eb8fa562300800000000000000
+      internalID: 226968855618198581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_ailisiweiwangzhilv_rz
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 1323
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b902e9820cab70030800000000000000
+      internalID: 3460940173135454363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_ailisiweiwangzhilv_rz02
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1323
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da66e843ea7dd590800000000000000
+      internalID: -7647821475606009127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_ailisiweiwangzhilv_sj
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1323
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c1dbafcc706a410800000000000000
+      internalID: 1487885303853947928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_ailisiweiwangzhilv_sq
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 1323
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3f599dbab66f3d0800000000000000
+      internalID: -3173230501601872913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_ailisiweiwangzhilv_sq02
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 1323
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a541804d21d22440800000000000000
+      internalID: 4909716536073209249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_ailisiweiwangzhilv_sw
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1219
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01dc46e9330bb1020800000000000000
+      internalID: 2313636569332108560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_ailisiweiwangzhilv_wq
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1115
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd36a7d203d30eac0800000000000000
+      internalID: -3827992406134201377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_ailisiweiwangzhilv_wx
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1011
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19de37f3f10fe4b0800000000000000
+      internalID: -5409102480111904486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_ailisiweiwangzhilv_wx02
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 907
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7daf36e3b0e7a01b0800000000000000
+      internalID: -5689596592472720681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_aisimeilada
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 803
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d7dbe23ec2ac2f0800000000000000
+      internalID: -951899016982069916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_anna
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 699
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6b2a41196e616f0800000000000000
+      internalID: -714129980100790555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_aojieta
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 595
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46405410000000000800000000000000
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_aojiliya
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 491
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66405410000000000800000000000000
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_bingmayong_jian
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 387
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86405410000000000800000000000000
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_bingmayong_nu
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 283
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6405410000000000800000000000000
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_bulunxierde
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 179
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6405410000000000800000000000000
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_caiwenji
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 75
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6405410000000000800000000000000
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_fuliya
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1219
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07405410000000000800000000000000
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_hesihesi
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1219
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e769e366c7e17ba30800000000000000
+      internalID: 4230883894578026110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_hesihesi_by
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1219
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08bacc7fc1b8800b0800000000000000
+      internalID: -5762202766687818880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_hesihesi_dk
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1219
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edcf3c74bb3d7b610800000000000000
+      internalID: 1637009790888836318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_hesihesi_hx01
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1219
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2558b87d00a8de0800000000000000
+      internalID: -1330249814175821141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_hesihesi_hx02
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 1219
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9f5508a2b1eeba0800000000000000
+      internalID: -6057874579411043881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_hesihesi_jy
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 1219
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388cf63189206c710800000000000000
+      internalID: 1713059560445429891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_hesihesi_rz
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1219
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2de64ad484eff810800000000000000
+      internalID: 1801409635220385071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_hesihesi_rz02
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1219
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e655008c0f3691870800000000000000
+      internalID: 8654058044767884654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_hesihesi_sj
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 1219
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895ffefa02384cfa0800000000000000
+      internalID: -5781351845222943336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_hesihesi_sq
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 1219
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32acc3062461a5310800000000000000
+      internalID: 1394451508962839075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_hesihesi_sq02
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1115
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c80bc9d5f9cd71b0800000000000000
+      internalID: -5657143499149342521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_hesihesi_sw
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1011
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd7c6e4f75d48e50800000000000000
+      internalID: 6810803279244328414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_hesihesi_wq
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 907
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7aa4f2354508f0a0800000000000000
+      internalID: -6847717438651061638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_hesihesi_wx01
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 803
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c304c72a9bba5c0800000000000000
+      internalID: -4203061719699801043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_hesihesi_wx02
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 699
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e00a65d155d02d0800000000000000
+      internalID: -3310896566551703937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_jinzhanyueyan
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 595
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27405410000000000800000000000000
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_juxingyueyan
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 491
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47405410000000000800000000000000
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_kaximoduo
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 387
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2fdead734c93d50800000000000000
+      internalID: 6717616063375078082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_kelala
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 283
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67405410000000000800000000000000
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_kelisita
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1219
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8161eef95402f10800000000000000
+      internalID: 2242869167627049189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_luosibate
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 179
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87405410000000000800000000000000
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_maikebai
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 75
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83dc4df78f5839850800000000000000
+      internalID: 6382592399257161016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_maikebai_beishang
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1115
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fea2df134f3cf040800000000000000
+      internalID: 4682687270087732982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_maikebai_biyan
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1115
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990f38878bf6b7a10800000000000000
+      internalID: 1908241705208115353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_maikebai_haixiu01
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1115
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ff8f18bd2930dc0800000000000000
+      internalID: -3673931399528120555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_maikebai_haixiu02
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1115
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df67ba6c6915c5280800000000000000
+      internalID: -9053271442901469443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_maikebai_jinya
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 1115
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851f703b7ec7419c0800000000000000
+      internalID: -3957400837968891560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_maikebai_lenshi01
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 75
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6187971122e600840800000000000000
+      internalID: 5188267863331928086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_maikebai_lenshi02
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 1115
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbc96bd075ab1860800000000000000
+      internalID: 7501771508451757011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_maikebai_lenxiao
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1115
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd091df00cd0bb60800000000000000
+      internalID: 7759944054763752901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_maikebai_shenqi
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1115
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0178d175e044bc0800000000000000
+      internalID: -3799896418273521444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_maikebai_shouji
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 1115
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8253d1ab47cde930800000000000000
+      internalID: 4174211557293773455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_maikebai_shushi
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 1115
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6735c4463e16bd1c0800000000000000
+      internalID: -4477877775221632138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_maikebai_siwang
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1011
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63809d6cca2ed9a0800000000000000
+      internalID: -6206476178970082450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_maikebai_weixiao
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 907
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43ebb4d1ab400ab0800000000000000
+      internalID: -5043948424224054451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_mimei
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 803
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7405410000000000800000000000000
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_mowangzhixi
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 907
+        width: 99
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5050505, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7405410000000000800000000000000
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_pamina
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 699
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7405410000000000800000000000000
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_saike
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 595
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba84b6deb5522f90800000000000000
+      internalID: -6979922194336544073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_saike_ad
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 491
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f628f991cdb2fd7c0800000000000000
+      internalID: -4044465716032732561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_saike_ad02
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 387
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f21e6bbadf68250800000000000000
+      internalID: 5946719271938764599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_saike_bx
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 283
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561b28d5c39dd4f10800000000000000
+      internalID: 2255697841672597861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_saike_by
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 179
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c843291922c1410800000000000000
+      internalID: 1449071188724976663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_saike_hx01
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 75
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff1a1b70beb46f00800000000000000
+      internalID: 1109221073428815857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_saike_hx02
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1011
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f17e498f302bfa0800000000000000
+      internalID: -5786558205032718448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_saike_jy
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1011
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918f7527b8d4ac9e0800000000000000
+      internalID: -1600381456262629351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_saike_jy02
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1011
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2786dece6d0224a0800000000000000
+      internalID: -6619713732713478358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_saike_kq
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 1011
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2552a8a3c80fefde0800000000000000
+      internalID: -1297335157567904430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_saike_sq
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 1011
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9865eea3bb27570800000000000000
+      internalID: 8463032511563729358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_saike_ss
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1011
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbac47484000ac350800000000000000
+      internalID: 6037638269845686975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_saike_sw
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1011
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa50a33b30da98a0800000000000000
+      internalID: -6297492176236422401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_saike_wx
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 1011
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e22a9682b27217f0800000000000000
+      internalID: -643325685672566047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_saike_yx
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 1011
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cea7dfd0158e7df0800000000000000
+      internalID: -180560627526816060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_saike_zx
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 907
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b833fe5e509643410800000000000000
+      internalID: 1455904053600924555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_tongyongshibing_gong
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 803
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08405410000000000800000000000000
+      internalID: 21300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_tongyongshibing_jian
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 699
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28405410000000000800000000000000
+      internalID: 21300354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_waerteluode
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 595
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48405410000000000800000000000000
+      internalID: 21300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_yajiate
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 491
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68405410000000000800000000000000
+      internalID: 21300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_yezhinvwang
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 387
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88405410000000000800000000000000
+      internalID: 21300360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_yezhinvwang_B
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 283
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8405410000000000800000000000000
+      internalID: 21300362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_yuanchengyueyan
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 179
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8405410000000000800000000000000
+      internalID: 21300364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_head_yuji
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 75
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8405410000000000800000000000000
+      internalID: 21300366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headB_ailisi
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1947
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0911d94a6362d2c0800000000000000
+      internalID: -4408351777086170865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headB_aisimeilada
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1843
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f062ba6f5c36cad0800000000000000
+      internalID: -2682390147542916874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headB_anna
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1739
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8f828ff0a6c9650800000000000000
+      internalID: 6240979800449153243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headB_kaximoduo
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1635
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fdff2509da8b6280800000000000000
+      internalID: -9048986361571312144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headB_kelala
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1531
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69405410000000000800000000000000
+      internalID: 21300374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headB_kelisita
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1427
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94adf72fc2509da90800000000000000
+      internalID: -7288788831317271991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headB_yezhinvwang
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1323
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9405410000000000800000000000000
+      internalID: 21300378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headB_yezhinvwang_B
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1219
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d232397f2cacc1570800000000000000
+      internalID: 8438842740511548205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headC_aifei
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1115
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9405410000000000800000000000000
+      internalID: 21300380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headC_ailisi
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1011
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9405410000000000800000000000000
+      internalID: 21300382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headC_aisimeilada
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 907
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d953234f4260610800000000000000
+      internalID: 1586996549927673088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headC_anna
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 803
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371c3099b40169840800000000000000
+      internalID: 5230385934113161587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headC_aojieta
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 699
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a405410000000000800000000000000
+      internalID: 21300384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headC_aojiliya
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 595
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a405410000000000800000000000000
+      internalID: 21300386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headC_bulunxierde
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 491
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a405410000000000800000000000000
+      internalID: 21300388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headC_caiwenji
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 387
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a405410000000000800000000000000
+      internalID: 21300390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headC_fuliya
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 283
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b03e9e7d8334170800000000000000
+      internalID: 8161429449718565676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headC_kaximoduo
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 179
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c657a5714cfb74ee0800000000000000
+      internalID: -1276841120409946772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headC_kelala
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 75
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a405410000000000800000000000000
+      internalID: 21300392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headC_kelisita
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1947
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738a78a570c493890800000000000000
+      internalID: -7477862111804676041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headC_luosibate
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1947
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa405410000000000800000000000000
+      internalID: 21300394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headC_mimei
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1947
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca405410000000000800000000000000
+      internalID: 21300396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headC_pamina
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1947
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea405410000000000800000000000000
+      internalID: 21300398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headC_waerteluode
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1947
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b405410000000000800000000000000
+      internalID: 21300400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headC_yajiate
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1947
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b405410000000000800000000000000
+      internalID: 21300402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headC_yezhinvwang
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1947
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b405410000000000800000000000000
+      internalID: 21300404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headC_yezhinvwang_B
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1947
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b168a534792699f20800000000000000
+      internalID: 3429880993028933147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headC_yuji
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1947
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b405410000000000800000000000000
+      internalID: 21300406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headD_aifei
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1947
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b405410000000000800000000000000
+      internalID: 21300408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headD_ailisi
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1947
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab405410000000000800000000000000
+      internalID: 21300410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headD_aisimeilada
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1947
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0856a0f5b0e0f9d70800000000000000
+      internalID: 9051969218039932288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headD_anna
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 1947
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668ba5a3522bfc370800000000000000
+      internalID: 8345084507503376486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headD_aojieta
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 1947
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb405410000000000800000000000000
+      internalID: 21300412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headD_aojiliya_B
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1947
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb405410000000000800000000000000
+      internalID: 21300414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headD_bulunxierde
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1947
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c405410000000000800000000000000
+      internalID: 21300416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headD_caiwenji
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 1947
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c405410000000000800000000000000
+      internalID: 21300418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headD_fuliya
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 1947
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c405410000000000800000000000000
+      internalID: 21300420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headD_kaximoduo
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1843
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130db0186c5d85eb0800000000000000
+      internalID: -4730796360007430095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headD_kelala
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1739
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71f0d81720b54530800000000000000
+      internalID: 3838667939369775483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headD_kelisita
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1635
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be9bc02087a07e40800000000000000
+      internalID: 5652201701097840305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headD_luosibate
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1531
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c405410000000000800000000000000
+      internalID: 21300422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headD_mimei
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1427
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c405410000000000800000000000000
+      internalID: 21300424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headD_pamina
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1323
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac405410000000000800000000000000
+      internalID: 21300426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headD_waerteluode
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1219
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc405410000000000800000000000000
+      internalID: 21300428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headD_yajiate
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1115
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec405410000000000800000000000000
+      internalID: 21300430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headD_yezhinvwang
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1011
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d405410000000000800000000000000
+      internalID: 21300432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headD_yezhinvwang_B
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 907
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d405410000000000800000000000000
+      internalID: 21300434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headD_yuji
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 803
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66384b97432e2e2b0800000000000000
+      internalID: -5556630275213720730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headE_aifei
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 699
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d405410000000000800000000000000
+      internalID: 21300436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headE_ailisi
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 595
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d405410000000000800000000000000
+      internalID: 21300438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headE_aisimeilada
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 491
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fe8fc9d697bbc80800000000000000
+      internalID: -8305911576062791908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headE_anna
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 387
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e38dcf5a85739e0800000000000000
+      internalID: -1641746069218378233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headE_caiwenji
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 283
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d405410000000000800000000000000
+      internalID: 21300440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headE_fuliya
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 179
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad405410000000000800000000000000
+      internalID: 21300442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headE_kaximoduo
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 75
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453182545c80b88f0800000000000000
+      internalID: -537326087178808492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headE_kelisita
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1843
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1f51c7e384ceb40800000000000000
+      internalID: 5470827080555295176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headE_luosibate
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1843
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6055ab31cef28d10800000000000000
+      internalID: 2126542079955128428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headE_mimei
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1843
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbee93602c1b4d0d0800000000000000
+      internalID: -3398896371871650117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headE_pamina
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1843
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f818aa7eb1d6750800000000000000
+      internalID: 6299722135573204834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headE_waerteluode
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1843
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7275eb8a1c4ade130800000000000000
+      internalID: 3597712829005584167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headE_yajiate
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1843
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd405410000000000800000000000000
+      internalID: 21300444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headE_yezhinvwang_B
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1843
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f40e627c7c85190800000000000000
+      internalID: -7973403482094809288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headE_yuji
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1843
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed405410000000000800000000000000
+      internalID: 21300446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headF_aifei
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1843
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e405410000000000800000000000000
+      internalID: 21300448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headF_ailisi
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1843
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e405410000000000800000000000000
+      internalID: 21300450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headF_aisimeilada
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1843
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214d5b61df60814b0800000000000000
+      internalID: -5469614063363959790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headF_anna
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 1843
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0bf79dc8e2ac330800000000000000
+      internalID: 3731846423709200557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headF_aojieta
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 1843
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e405410000000000800000000000000
+      internalID: 21300452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headF_aojiliya
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1843
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e405410000000000800000000000000
+      internalID: 21300454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headF_bulunxierde
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1843
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e405410000000000800000000000000
+      internalID: 21300456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headF_caiwenji
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 1843
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae405410000000000800000000000000
+      internalID: 21300458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headF_fuliya
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 1843
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce405410000000000800000000000000
+      internalID: 21300460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headF_kaximoduo
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1739
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0597e436ffbddf0800000000000000
+      internalID: -154248960230731574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headF_kelala
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1635
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee405410000000000800000000000000
+      internalID: 21300462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headF_kelisita
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1531
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf5d64a91c7c8800800000000000000
+      internalID: 616003698617573338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headF_luosibate
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1427
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f405410000000000800000000000000
+      internalID: 21300464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headF_mimei
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1323
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f405410000000000800000000000000
+      internalID: 21300466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headF_pamina
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1219
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f405410000000000800000000000000
+      internalID: 21300468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headF_waerteluode
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1115
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f405410000000000800000000000000
+      internalID: 21300470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headF_yajiate
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1011
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f405410000000000800000000000000
+      internalID: 21300472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headF_yezhinvwang_B
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 907
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd67361863cb4c900800000000000000
+      internalID: 703894384061675229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headF_yuji
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 803
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af405410000000000800000000000000
+      internalID: 21300474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headG_aifei
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 699
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf405410000000000800000000000000
+      internalID: 21300476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headG_ailisi
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 595
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e00a37ed2ae23aa0800000000000000
+      internalID: -6182621855552503576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headG_aisimeilada
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 491
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e53db2dcb17bbc0800000000000000
+      internalID: -3767511995254612419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headG_anna
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 387
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058fa797c5fb7ff70800000000000000
+      internalID: 9221049165960378448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headG_aojieta
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 283
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef405410000000000800000000000000
+      internalID: 21300478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headG_aojiliya
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 179
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00505410000000000800000000000000
+      internalID: 21300480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headG_bulunxierde
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 75
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20505410000000000800000000000000
+      internalID: 21300482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headG_caiwenji
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1739
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6326e09faaf7d04f0800000000000000
+      internalID: -860891581458259402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headG_kaximoduo
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1739
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8da72dcd9d6529f0800000000000000
+      internalID: -493868059607978613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headG_kelala
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1739
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40505410000000000800000000000000
+      internalID: 21300484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headG_kelisita
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1739
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee96bf34100f5e070800000000000000
+      internalID: 8135172190140852718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headG_mimei
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1739
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0a6b8b120b913d0800000000000000
+      internalID: -3235361198409604873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headG_pamina
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1739
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60505410000000000800000000000000
+      internalID: 21300486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headG_yajiate
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1739
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0505410000000000800000000000000
+      internalID: 21300490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headG_yezhinvwang
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1739
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0505410000000000800000000000000
+      internalID: 21300492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headG_yezhinvwang_B
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1739
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0505410000000000800000000000000
+      internalID: 21300494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headG_yuji
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1739
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e7b8ac56b4106a0800000000000000
+      internalID: -6484819087874884087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headH_aifei
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 1739
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01505410000000000800000000000000
+      internalID: 21300496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headH_ailisi
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 1739
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21505410000000000800000000000000
+      internalID: 21300498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headH_aisimeilada
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1739
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c9d38e039a63b10800000000000000
+      internalID: 1960940715286305792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headH_anna
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1739
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6cd46f33d48a200800000000000000
+      internalID: 191487869734209190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headH_aojieta
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 1739
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41505410000000000800000000000000
+      internalID: 21300500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headH_aojiliya
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 1739
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61505410000000000800000000000000
+      internalID: 21300502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headH_bulunxierde
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1635
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81505410000000000800000000000000
+      internalID: 21300504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headH_caiwenji
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1531
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64b7f74c2f11fb40800000000000000
+      internalID: 5472189297278301294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headH_fuliya
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1427
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1505410000000000800000000000000
+      internalID: 21300506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headH_kelala
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1323
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a7eb18f63ef29d0800000000000000
+      internalID: -2796766775516169592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headH_kelisita
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1219
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262bcf0d4ad944c10800000000000000
+      internalID: 2036926262684725858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headH_luosibate
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1115
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1505410000000000800000000000000
+      internalID: 21300508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headH_mimei
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1011
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1505410000000000800000000000000
+      internalID: 21300510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headH_pamina
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 907
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02505410000000000800000000000000
+      internalID: 21300512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headH_waerteluode
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 803
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22505410000000000800000000000000
+      internalID: 21300514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headH_yajiate
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 699
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42505410000000000800000000000000
+      internalID: 21300516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headH_yezhinvwang
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 595
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62505410000000000800000000000000
+      internalID: 21300518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headH_yezhinvwang_B
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 491
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82505410000000000800000000000000
+      internalID: 21300520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headH_yuji
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 387
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2505410000000000800000000000000
+      internalID: 21300522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headI_aifei
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 283
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2505410000000000800000000000000
+      internalID: 21300524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headI_ailisi
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 179
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2505410000000000800000000000000
+      internalID: 21300526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headI_aisimeilada
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 75
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6963b9c7c607330800000000000000
+      internalID: 3706581775761708721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headI_anna
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1635
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58875182edcecd010800000000000000
+      internalID: 1215106438382581893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headI_aojiliya
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1635
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03505410000000000800000000000000
+      internalID: 21300528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headI_bulunxierde
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1635
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23505410000000000800000000000000
+      internalID: 21300530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headI_caiwenji
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1635
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43505410000000000800000000000000
+      internalID: 21300532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headI_kelala
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1635
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63505410000000000800000000000000
+      internalID: 21300534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headI_kelisita
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1635
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2733d4d5e163cf50800000000000000
+      internalID: 6900466693807748906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headI_luosibate
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1635
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83505410000000000800000000000000
+      internalID: 21300536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headI_mimei
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1635
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3505410000000000800000000000000
+      internalID: 21300538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headI_waerteluode
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1635
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3505410000000000800000000000000
+      internalID: 21300540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headI_yajiate
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 1635
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2049a2ca897966150800000000000000
+      internalID: 5865542246675944450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headI_yezhinvwang
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 1635
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3505410000000000800000000000000
+      internalID: 21300542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headI_yuji
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1635
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928484652462c33c0800000000000000
+      internalID: -4378582671353690071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headJ_aifei
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1635
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04505410000000000800000000000000
+      internalID: 21300544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headJ_ailisi
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 1635
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e24ea633197dbb0800000000000000
+      internalID: -4911297218601537891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headJ_aisimeilada
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 1635
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d69162175507a90800000000000000
+      internalID: -7318255450018190024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headJ_aojiliya
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1531
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24505410000000000800000000000000
+      internalID: 21300546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headJ_bulunxierde
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1427
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44505410000000000800000000000000
+      internalID: 21300548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headJ_caiwenji
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1323
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0142b71c433032890800000000000000
+      internalID: -7484134630640376816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headJ_kelala
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1219
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64505410000000000800000000000000
+      internalID: 21300550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headJ_kelisita
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1115
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3ed52e96c1d12d0800000000000000
+      internalID: -3306455310325128286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headJ_luosibate
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1011
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84505410000000000800000000000000
+      internalID: 21300552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headJ_mimei
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 907
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4505410000000000800000000000000
+      internalID: 21300554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headJ_waerteluode
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 803
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f93777447ff61150800000000000000
+      internalID: 5843138441440082423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headJ_yajiate
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 699
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4505410000000000800000000000000
+      internalID: 21300556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headJ_yezhinvwang
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 595
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4505410000000000800000000000000
+      internalID: 21300558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headJ_yuji
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 491
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ff3ff7749275a60800000000000000
+      internalID: 7662638678060302100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headK_aifei
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 387
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05505410000000000800000000000000
+      internalID: 21300560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headK_ailisi
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 283
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25505410000000000800000000000000
+      internalID: 21300562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headK_aisimeilada
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 179
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee911356a9e4fcf00800000000000000
+      internalID: 1139215655777671662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headK_aojiliya
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 75
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45505410000000000800000000000000
+      internalID: 21300564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headK_bulunxierde
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1531
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65505410000000000800000000000000
+      internalID: 21300566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headK_caiwenji
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1531
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85505410000000000800000000000000
+      internalID: 21300568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headK_fuliya
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1531
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5505410000000000800000000000000
+      internalID: 21300570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headK_kelala
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1531
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5505410000000000800000000000000
+      internalID: 21300572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headK_kelisita
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1531
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f448ff8eecd23410800000000000000
+      internalID: 1455468546769831156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headK_luosibate
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1531
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5505410000000000800000000000000
+      internalID: 21300574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headK_mimei
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1531
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06505410000000000800000000000000
+      internalID: 21300576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headK_pamina
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1531
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26505410000000000800000000000000
+      internalID: 21300578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headK_waerteluode
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 1531
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ac46d219fb9a4b0800000000000000
+      internalID: -5428597245565678963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headK_yajiate
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 1531
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0271172b36ca39f80800000000000000
+      internalID: -8100941760513894624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headK_yezhinvwang
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1531
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46505410000000000800000000000000
+      internalID: 21300580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headK_yuji
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1531
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66505410000000000800000000000000
+      internalID: 21300582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'ui_headL_aifei '
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 1531
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7b0e49c535b1fb0800000000000000
+      internalID: -4676052130994276361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headL_aifei
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 1531
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86505410000000000800000000000000
+      internalID: 21300584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headL_aisimeilada
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1427
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473d6ed54ae9b0d50800000000000000
+      internalID: 6704626899058348916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headL_aojiliya
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1323
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6505410000000000800000000000000
+      internalID: 21300586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headL_bulunxierde
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1219
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6505410000000000800000000000000
+      internalID: 21300588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headL_caiwenji
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1115
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6676693f456132f30800000000000000
+      internalID: 4549504602694117222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headL_fuliya
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1011
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409a51264cb604450800000000000000
+      internalID: 6070970788898777348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headL_kelala
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 907
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07505410000000000800000000000000
+      internalID: 21300592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headL_kelisita
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 803
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1552a099aa9ee36e0800000000000000
+      internalID: -1855789077508774575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headL_luosibate
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 699
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27505410000000000800000000000000
+      internalID: 21300594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headL_mimei
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 595
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47505410000000000800000000000000
+      internalID: 21300596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headL_pamina
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 491
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638441051c72094f0800000000000000
+      internalID: -824115020583122890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headL_waerteluode
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 387
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87505410000000000800000000000000
+      internalID: 21300600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headL_yajiate
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 283
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7505410000000000800000000000000
+      internalID: 21300602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headL_yuji
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 179
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341c32fde0d9a2de0800000000000000
+      internalID: -1357099650500017853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headM_aojiliya
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 75
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceec03594130c0000800000000000000
+      internalID: 3381086657761004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headM_caiwenji
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1427
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22a153d0ba368e50800000000000000
+      internalID: 6811196017578451502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headM_fuliya
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1427
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8363947e5670919a0800000000000000
+      internalID: -6261965672628537800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headM_kelala
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1427
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4982c945df406b0e0800000000000000
+      internalID: -2254609077359597420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headM_kelisita
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1427
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab11180ad1b8c74f0800000000000000
+      internalID: -829635271979888198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headM_luosibate
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1427
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7505410000000000800000000000000
+      internalID: 21300604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headM_mimei
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1427
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116b6d6821253bc00800000000000000
+      internalID: 915165388811449873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headM_waerteluode
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1427
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a26de1f381aa52f0800000000000000
+      internalID: -983295980555378012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headM_yajiate
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 1427
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982396fc140bd7a70800000000000000
+      internalID: 8826404641415180937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headM_yuji
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 1427
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64dc429a3ff55470800000000000000
+      internalID: 8382886908447741039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headN_aifei
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1427
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9704e0e634c24d330800000000000000
+      internalID: 3734658659117842553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headN_aojiliya
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1427
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7384edf5b890380800000000000000
+      internalID: -9004512736083167277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headN_caiwenji
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 1427
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8cd74009abd0180800000000000000
+      internalID: -9147450140406200121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headN_kelisita
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 1427
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd7a3b35f3d01580800000000000000
+      internalID: -8858347416823628303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headN_luosibate
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1323
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7505410000000000800000000000000
+      internalID: 21300606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headN_mimei
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1219
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346fd71077a624a80800000000000000
+      internalID: -8484101688653908413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headN_waerteluode
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1115
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8d74bbfd6ae5f30800000000000000
+      internalID: 4566270552050227375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headN_yuji
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1011
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4018129fd22dff2e0800000000000000
+      internalID: -2089720607181537020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headO_caiwenji
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 907
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6056db593bb74c60800000000000000
+      internalID: 7802410734470975598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headO_kelisita
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 803
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75301485e1d6ab070800000000000000
+      internalID: 8122924855013213015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headO_luosibate
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 699
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08505410000000000800000000000000
+      internalID: 21300608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headO_mimei
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 595
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57245e5798d631a60800000000000000
+      internalID: 7643573429733769845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headO_yuji
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 491
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e080c28d3ea653570800000000000000
+      internalID: 8445774203020118030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headP_caiwenji
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 387
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260340aa783f92780800000000000000
+      internalID: -8707160640545607582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headP_luosibate
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 283
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9698c36c3be1eb0800000000000000
+      internalID: -4747159293201389091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'ui_headQ_aisimeilada '
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 179
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbc1b80c6a1341d0800000000000000
+      internalID: -3367819045038339119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_headQ_caiwenji
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 75
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb0395487910b2f0800000000000000
+      internalID: -959238716275881025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9acce00dec62979418d2d15e7caa7155
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

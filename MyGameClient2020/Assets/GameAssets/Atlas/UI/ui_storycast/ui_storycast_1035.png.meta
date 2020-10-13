@@ -1,0 +1,476 @@
+fileFormatVersion: 2
+guid: b93332b928b47b940a0c04ec3aa71ac7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7111615174696943186
+    second: ui_story_Maikebafuren_arm_bei
+  - first:
+      213: -5489695830347419552
+    second: ui_story_Maikebafuren_arm_bei_02
+  - first:
+      213: 7992715885511859312
+    second: ui_story_Maikebafuren_arm_beinu_righe
+  - first:
+      213: -6674535052546717331
+    second: ui_story_Maikebafuren_arm_left
+  - first:
+      213: 5615619547848596792
+    second: ui_story_Maikebafuren_arm_right
+  - first:
+      213: -7660407873162927181
+    second: ui_story_Maikebafuren_body_01
+  - first:
+      213: -8392354460742787643
+    second: ui_story_Maikebafuren_body_02
+  - first:
+      213: 4866014407653685653
+    second: ui_story_Maikebafuren_eye_bei
+  - first:
+      213: -7889966187385184091
+    second: ui_story_Maikebafuren_eye_chang
+  - first:
+      213: 3688827908678328716
+    second: ui_story_Maikebafuren_eye_nu
+  - first:
+      213: -4859750105204209518
+    second: ui_story_Maikebafuren_eye_xi
+  - first:
+      213: -7858808295660370222
+    second: ui_story_Maikebafuren_hair_hou_01
+  - first:
+      213: -3359172915245672379
+    second: ui_story_Maikebafuren_hair_hou_02
+  - first:
+      213: 346857317618470920
+    second: ui_story_Maikebafuren_hair_hou_03
+  - first:
+      213: -7301621795034369557
+    second: ui_story_Maikebafuren_hair_qian
+  - first:
+      213: 2578494122822676888
+    second: ui_story_Maikebaiduren_face
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ui_story_Maikebafuren_arm_bei
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 1328
+        width: 199
+        height: 327
+      alignment: 9
+      pivot: {x: 0.0050251256, y: -0.74006116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea149e47da77e4d90800000000000000
+      internalID: -7111615174696943186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_story_Maikebafuren_arm_bei_02
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 590
+        width: 248
+        height: 259
+      alignment: 9
+      pivot: {x: -0.24193548, y: -0.9498069}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060f23b5abea0d3b0800000000000000
+      internalID: -5489695830347419552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_story_Maikebafuren_arm_beinu_righe
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1538
+        width: 321
+        height: 498
+      alignment: 9
+      pivot: {x: -0.13395639, y: 0.17068273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c5e8a20c4dbee60800000000000000
+      internalID: 7992715885511859312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_story_Maikebafuren_arm_left
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1128
+        width: 253
+        height: 597
+      alignment: 9
+      pivot: {x: 1.2332016, y: 0.1959799}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d694f00abb94f53a0800000000000000
+      internalID: -6674535052546717331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_story_Maikebafuren_arm_right
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1784
+        width: 278
+        height: 263
+      alignment: 9
+      pivot: {x: -0.21942446, y: -0.9011407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d5147d930beed40800000000000000
+      internalID: 5615619547848596792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_story_Maikebafuren_body_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 846
+        width: 1343
+        height: 1201
+      alignment: 9
+      pivot: {x: 0.48920327, y: 0.6244796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3a48d30a3c0b590800000000000000
+      internalID: -7660407873162927181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_story_Maikebafuren_body_02
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1147
+        width: 248
+        height: 186
+      alignment: 9
+      pivot: {x: 0.6854839, y: -1.8709677}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cdd242251e588b80800000000000000
+      internalID: -8392354460742787643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_story_Maikebafuren_eye_bei
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1781
+        width: 130
+        height: 156
+      alignment: 9
+      pivot: {x: 0.50769234, y: -2.9487178}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5997120925e878340800000000000000
+      internalID: 4866014407653685653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_story_Maikebafuren_eye_chang
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1945
+        width: 123
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5203252, y: -4.8039217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0201f2e85318290800000000000000
+      internalID: -7889966187385184091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_story_Maikebafuren_eye_nu
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1599
+        width: 127
+        height: 100
+      alignment: 9
+      pivot: {x: 0.496063, y: -4.98}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81a15e4079513330800000000000000
+      internalID: 3688827908678328716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_story_Maikebafuren_eye_xi
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1468
+        width: 115
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5478261, y: -4.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298c2220703be8cb0800000000000000
+      internalID: -4859750105204209518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_story_Maikebafuren_hair_hou_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1708
+        width: 180
+        height: 337
+      alignment: 9
+      pivot: {x: 1.5555556, y: 0.07418398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6454b2e77efe290800000000000000
+      internalID: -7858808295660370222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_story_Maikebafuren_hair_hou_02
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 272
+        width: 515
+        height: 1174
+      alignment: 9
+      pivot: {x: 0.9359223, y: 0.3935264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5481baff702d161d0800000000000000
+      internalID: -3359172915245672379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_story_Maikebafuren_hair_hou_03
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 551
+        width: 63
+        height: 125
+      alignment: 9
+      pivot: {x: -1.2380953, y: -1.92}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800d46484e840d400800000000000000
+      internalID: 346857317618470920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_story_Maikebafuren_hair_qian
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 385
+        width: 238
+        height: 557
+      alignment: 9
+      pivot: {x: 0.4159664, y: -0.33752245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1f9beb9ad6baa90800000000000000
+      internalID: -7301621795034369557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_story_Maikebaiduren_face
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 786
+        width: 169
+        height: 205
+      alignment: 9
+      pivot: {x: 0.6213018, y: -2.3317072}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89137464eb6a8c320800000000000000
+      internalID: 2578494122822676888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

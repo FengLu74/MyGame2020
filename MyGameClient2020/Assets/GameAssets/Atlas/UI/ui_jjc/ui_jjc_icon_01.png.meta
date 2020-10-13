@@ -1,0 +1,833 @@
+fileFormatVersion: 2
+guid: 216c547221f3f2d4a954570d21c8183d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6965289711327649823
+    second: ui_jjc_icon_01
+  - first:
+      213: -7312708303172183764
+    second: ui_jjc_icon_02
+  - first:
+      213: 5779466297508825357
+    second: ui_jjc_icon_03
+  - first:
+      213: 7375499125044281914
+    second: ui_jjc_icon_04
+  - first:
+      213: -7087275071505545768
+    second: ui_jjc_icon_05
+  - first:
+      213: -8264448120367078861
+    second: ui_jjc_icon_06
+  - first:
+      213: 1968167337854112424
+    second: ui_jjc_icon_07
+  - first:
+      213: -6589410208331113574
+    second: ui_jjc_icon_01_a
+  - first:
+      213: 357272355801169701
+    second: ui_jjc_icon_01_b
+  - first:
+      213: 1912284460173239222
+    second: ui_jjc_icon_02_a
+  - first:
+      213: -7038477561448370801
+    second: ui_jjc_icon_02_b
+  - first:
+      213: -4215447669829247438
+    second: ui_jjc_icon_03_b
+  - first:
+      213: -616732448401349236
+    second: ui_jjc_icon_04_a
+  - first:
+      213: 876912630172455355
+    second: ui_jjc_icon_04_b
+  - first:
+      213: 8608526617990978217
+    second: ui_jjc_icon_05_a
+  - first:
+      213: 6830826571326205236
+    second: ui_jjc_icon_05_b
+  - first:
+      213: 8230174351201649914
+    second: ui_jjc_icon_06_b
+  - first:
+      213: -9200852362997135385
+    second: ui_jjc_icon_07_a
+  - first:
+      213: 4003703302096533789
+    second: ui_jjc_icon_07_b
+  - first:
+      213: 8594843465779377956
+    second: ui_jjc_icon_03_a
+  - first:
+      213: -2792415681493760830
+    second: ui_jjc_icon_06_a
+  - first:
+      213: 1113795538997313195
+    second: ui_jjc_icon_honor_01
+  - first:
+      213: 5869510294947096566
+    second: ui_artfonts_08
+  - first:
+      213: 3636314461776713416
+    second: ui_jjc_af_01
+  - first:
+      213: 1161855099065266938
+    second: ui_jjc_af_02
+  - first:
+      213: 2847233177751788677
+    second: ui_jjc_af_03
+  - first:
+      213: 260726769681554028
+    second: ui_jjc_line_01_a
+  - first:
+      213: 5751017148971885440
+    second: ui_jjc_line_01_b
+  - first:
+      213: -4914130244222779129
+    second: ui_jjc_af_00
+  - first:
+      213: -5811144842915892447
+    second: ui_jjc_af_04
+  - first:
+      213: 1536593817632629160
+    second: ui_jjc_af_05
+  - first:
+      213: -5358196936386226490
+    second: ui_jjc_af_06
+  - first:
+      213: -817471495438528006
+    second: ui_jjc_af_07
+  - first:
+      213: -6791798237361180171
+    second: ui_jjc_af_08
+  - first:
+      213: 3752750346418849864
+    second: ui_jjc_af_09
+  - first:
+      213: 8315605406395664276
+    second: ui_jjc_icon_08_a
+  - first:
+      213: -3541697272866025406
+    second: ui_jjc_icon_08_b
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ui_artfonts_08
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 938
+        width: 103
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7e1d7e380b47150800000000000000
+      internalID: 5869510294947096566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jjc_af_00
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 991
+        width: 79
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701091d34908dcbb0800000000000000
+      internalID: -4914130244222779129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jjc_af_01
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 991
+        width: 84
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c611d9acb8c67230800000000000000
+      internalID: 3636314461776713416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jjc_af_02
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 991
+        width: 87
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2f24c8e0dbf1010800000000000000
+      internalID: 1161855099065266938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jjc_af_03
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 991
+        width: 80
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c1a986d77638720800000000000000
+      internalID: 2847233177751788677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jjc_af_04
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 991
+        width: 85
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123b7abdd8aaa5fa0800000000000000
+      internalID: -5811144842915892447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jjc_af_05
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 991
+        width: 88
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1ed089fe3135510800000000000000
+      internalID: 1536593817632629160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jjc_af_06
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 991
+        width: 79
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6dc1a764cd3a5b0800000000000000
+      internalID: -5358196936386226490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jjc_af_07
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 991
+        width: 84
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1116c8102c7a4f0800000000000000
+      internalID: -817471495438528006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jjc_af_08
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 991
+        width: 87
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f176f3dc7faeb1a0800000000000000
+      internalID: -6791798237361180171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jjc_af_09
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 992
+        width: 59
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8480501ae82741430800000000000000
+      internalID: 3752750346418849864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jjc_icon_01_a
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 846
+        width: 140
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b5715e356bd84a0800000000000000
+      internalID: -6589410208331113574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jjc_icon_01_b
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 846
+        width: 140
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f789f805945f400800000000000000
+      internalID: 357272355801169701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jjc_icon_02_a
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 846
+        width: 140
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b32026b59cc98a10800000000000000
+      internalID: 1912284460173239222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jjc_icon_02_b
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 846
+        width: 140
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8def4603fd425e90800000000000000
+      internalID: -7038477561448370801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jjc_icon_03_a
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 846
+        width: 140
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427fddd3894074770800000000000000
+      internalID: 8594843465779377956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jjc_icon_03_b
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 846
+        width: 140
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e549ebda8bf75c0800000000000000
+      internalID: -4215447669829247438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jjc_icon_04_a
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 701
+        width: 140
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85a4931b1de077f0800000000000000
+      internalID: -616732448401349236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jjc_icon_04_b
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 701
+        width: 140
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb19b7c146b6b2c00800000000000000
+      internalID: 876912630172455355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jjc_icon_05_a
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 701
+        width: 140
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aad8d06951a77770800000000000000
+      internalID: 8608526617990978217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jjc_icon_05_b
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 701
+        width: 140
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43da23a4398fbce50800000000000000
+      internalID: 6830826571326205236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jjc_icon_06_a
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 701
+        width: 140
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c485578bb85f39d0800000000000000
+      internalID: -2792415681493760830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jjc_icon_06_b
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 701
+        width: 140
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4c7e297f3773270800000000000000
+      internalID: 8230174351201649914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jjc_icon_07_a
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 701
+        width: 140
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e70eb82681005080800000000000000
+      internalID: -9200852362997135385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jjc_icon_07_b
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 556
+        width: 140
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19b583d0f2009730800000000000000
+      internalID: 4003703302096533789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jjc_icon_08_a
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 556
+        width: 140
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49708842f07f66370800000000000000
+      internalID: 8315605406395664276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jjc_icon_08_b
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 556
+        width: 140
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240d9d4581d59dec0800000000000000
+      internalID: -3541697272866025406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jjc_icon_honor_01
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 511
+        width: 209
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae795e342ff47f00800000000000000
+      internalID: 1113795538997313195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jjc_line_01_a
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1004
+        width: 52
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 0, z: 20, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6add4a9d994e9300800000000000000
+      internalID: 260726769681554028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jjc_line_01_b
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1004
+        width: 52
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 0, z: 20, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08326a570a7bfcf40800000000000000
+      internalID: 5751017148971885440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

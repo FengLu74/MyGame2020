@@ -1,0 +1,21 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:3cceb2af4a74c25945baefd10f4e083b:a364787218dd5b44abdb6e6ec9334463:be4612420dd57629ffb58897d728171f$
+#
+:format=40300
+:texture=ui_huodong_02.png
+:size=2048x2048
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+ui_huodong_img_01;1;1126;1238;615; 0.5;0.5; 0;0;0;0
+ui_huodong_img_02;1;1743;372;304; 0.5;0.5; 0;0;0;0
+ui_huodong_img_03;375;1743;372;304; 0.5;0.5; 0;0;0;0
+ui_huodong_img_05;749;1743;372;304; 0.5;0.5; 0;0;0;0
+ui_huodong_img_06;1123;1743;372;304; 0.5;0.5; 0;0;0;0
+ui_huodong_img_07;1497;1743;372;304; 0.5;0.5; 0;0;0;0

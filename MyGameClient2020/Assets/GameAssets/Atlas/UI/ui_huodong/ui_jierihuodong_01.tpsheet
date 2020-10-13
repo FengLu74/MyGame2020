@@ -1,0 +1,56 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:a45fc27808b6212c9ce2c3ee5ab74b00:c31aebd2dc63168aff5ecacb582a1217:dea03ade4dd8ef2cf4f742cd54040a75$
+#
+:format=40300
+:texture=ui_jierihuodong_01.png
+:size=2048x2048
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+ui_huodong_picd;128;2007;52;40; 0.5;0.5; 0;0;0;0
+ui_huodong_picd01;182;2007;52;40; 0.5;0.5; 0;0;0;0
+ui_huodong_picd02;693;1975;368;72; 0.5;0.5; 0;0;0;0
+ui_huodong_picd03;1063;1975;368;72; 0.5;0.5; 0;0;0;0
+ui_huodong_picd04;282;1978;114;69; 0.5;0.5; 0;0;0;0
+ui_huodong_picd05;58;2004;33;43; 0.5;0.5; 0;0;0;0
+ui_huodong_picd06;93;2004;33;43; 0.5;0.5; 0;0;0;0
+ui_huodong_picd07;1;2041;55;6; 0.5;0.5; 0;0;0;0
+ui_huodong_picd08;398;1912;135;135; 0.5;0.5; 0;0;0;0
+ui_huodong_picd09;353;1233;350;154; 0.5;0.5; 0;0;0;0
+ui_huodong_picd010;1;1389;350;154; 0.5;0.5; 0;0;0;0
+ui_huodong_picd011;353;1389;350;154; 0.5;0.5; 0;0;0;0
+ui_huodong_picd012;705;1389;350;154; 0.5;0.5; 0;0;0;0
+ui_huodong_picd013;1;1735;212;163; 0.5;0.5; 0;0;0;0
+ui_huodong_picd014;215;1735;212;163; 0.5;0.5; 0;0;0;0
+ui_huodong_picd015;429;1735;212;163; 0.5;0.5; 0;0;0;0
+ui_huodong_picd016;643;1735;212;163; 0.5;0.5; 0;0;0;0
+ui_huodong_picd017;1071;1545;209;188; 0.5;0.5; 0;0;0;0
+ui_huodong_picd018;1282;1545;209;188; 0.5;0.5; 0;0;0;0
+ui_huodong_picd019;1493;1545;209;188; 0.5;0.5; 0;0;0;0
+ui_huodong_picd020;236;1958;44;89; 0.5;0.5; 0;0;0;0
+ui_huodong_picd021;1661;1900;215;147; 0.5;0.5; 0;0;0;0
+ui_huodong_picd022;535;1927;156;120; 0.5;0.5; 0;0;0;0
+ui_huodong_picd023;1;971;649;168; 0.5;0.5; 0;0;0;0
+ui_huodong_picd024;1433;1908;226;139; 0.5;0.5; 0;0;0;0
+ui_huodong_picd025;1119;1141;412;246; 0.5;0.5; 0;0;0;0
+ui_huodong_picd026;1533;1141;412;246; 0.5;0.5; 0;0;0;0
+ui_huodong_picd028;857;1735;212;163; 0.5;0.5; 0;0;0;0
+ui_huodong_picd029;1071;1735;212;163; 0.5;0.5; 0;0;0;0
+ui_huodong_picd030;1285;1735;212;163; 0.5;0.5; 0;0;0;0
+ui_huodong_picd031;1499;1735;212;163; 0.5;0.5; 0;0;0;0
+ui_huodong_picd032;1057;1389;350;154; 0.5;0.5; 0;0;0;0
+ui_huodong_picd033;1409;1389;350;154; 0.5;0.5; 0;0;0;0
+ui_huodong_picd034;1;1233;350;154; 0.5;0.5; 0;0;0;0
+ui_huodong_picd035;1713;1735;212;163; 0.5;0.5; 0;0;0;0
+ui_huodong_picd036;1;1570;212;163; 0.5;0.5; 0;0;0;0
+ui_huodong_picd037;215;1570;212;163; 0.5;0.5; 0;0;0;0
+ui_huodong_picd038;429;1570;212;163; 0.5;0.5; 0;0;0;0
+ui_huodong_picd039;643;1570;212;163; 0.5;0.5; 0;0;0;0
+ui_huodong_picd040;857;1570;212;163; 0.5;0.5; 0;0;0;0
+ui_huodong_picd0227;705;1141;412;246; 0.5;0.5; 0;0;0;0

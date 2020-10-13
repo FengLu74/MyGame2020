@@ -1,0 +1,479 @@
+fileFormatVersion: 2
+guid: 2311a2d019f44d444a15bb12f3cd2075
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6996338875719716853
+    second: ui_luck_shengwu_01
+  - first:
+      213: -2911572094448038502
+    second: ui_menpiao_pic_600103
+  - first:
+      213: 1695255916291710188
+    second: ui_menpiao_pic_600203
+  - first:
+      213: 2518049285614698905
+    second: ui_menpiao_pic_600303
+  - first:
+      213: 7257367807013265620
+    second: ui_menpiao_pic_600403
+  - first:
+      213: 2238737645504348224
+    second: ui_menpiao_pic_600503
+  - first:
+      213: -6338193219501209634
+    second: ui_menpiao_pic_600603
+  - first:
+      213: 1948393196927380268
+    second: ui_menpiao_pic_600704
+  - first:
+      213: 7418234691265462095
+    second: ui_menpiao_pic_600804
+  - first:
+      213: -4498072498794811431
+    second: ui_menpiao_pic_600904
+  - first:
+      213: -531890463983406574
+    second: ui_menpiao_pic_601004
+  - first:
+      213: -9213896504219016695
+    second: ui_menpiao_pic_601204
+  - first:
+      213: 6730386748315983812
+    second: ui_menpiao_pic_601304
+  - first:
+      213: -5649182062004894226
+    second: ui_menpiao_pic_601405
+  - first:
+      213: 3279320481513695448
+    second: ui_menpiao_pic_601505
+  - first:
+      213: -4278449364386740215
+    second: ui_menpiao_pic_601104
+  - first:
+      213: 8571740560070471668
+    second: ui_menpiao_pic_601605
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ui_menpiao_pic_600103
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1716
+        width: 335
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d0c743b940897d0800000000000000
+      internalID: -2911572094448038502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_menpiao_pic_600203
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1716
+        width: 335
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec52f52642c68710800000000000000
+      internalID: 1695255916291710188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_menpiao_pic_600303
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1716
+        width: 335
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9918dfbeb78e1f220800000000000000
+      internalID: 2518049285614698905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_menpiao_pic_600403
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1716
+        width: 335
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0a16db19957b460800000000000000
+      internalID: 7257367807013265620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_menpiao_pic_600503
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 1716
+        width: 335
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040c499f608911f10800000000000000
+      internalID: 2238737645504348224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_menpiao_pic_600603
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 1716
+        width: 335
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed747d919d63a08a0800000000000000
+      internalID: -6338193219501209634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_menpiao_pic_600704
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1383
+        width: 335
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2be4a12a451a0b10800000000000000
+      internalID: 1948393196927380268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_menpiao_pic_600804
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1383
+        width: 335
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f7b51f52dd2f660800000000000000
+      internalID: 7418234691265462095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_menpiao_pic_600904
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1383
+        width: 335
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfa167e4e2a391c0800000000000000
+      internalID: -4498072498794811431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_menpiao_pic_601004
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1383
+        width: 335
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212f9dae0785e98f0800000000000000
+      internalID: -531890463983406574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_menpiao_pic_601104
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1046
+        width: 335
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9088b36a8f4ef94c0800000000000000
+      internalID: -4278449364386740215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_menpiao_pic_601204
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 1383
+        width: 335
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902efcc52f9a12080800000000000000
+      internalID: -9213896504219016695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_menpiao_pic_601304
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 1383
+        width: 335
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfde56a613276d50800000000000000
+      internalID: 6730386748315983812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_menpiao_pic_601405
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1050
+        width: 335
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee580b268d21a91b0800000000000000
+      internalID: -5649182062004894226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_menpiao_pic_601505
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1050
+        width: 335
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d869457a9c728d20800000000000000
+      internalID: 3279320481513695448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_menpiao_pic_601605
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1046
+        width: 335
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ffeec5df90f4f670800000000000000
+      internalID: 8571740560070471668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

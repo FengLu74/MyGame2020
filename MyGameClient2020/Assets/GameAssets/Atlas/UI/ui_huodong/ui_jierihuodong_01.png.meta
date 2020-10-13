@@ -1,0 +1,1076 @@
+fileFormatVersion: 2
+guid: 6f12b9e2cedb7c2449585ca5b1efa8ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7821458537901097740
+    second: ui_huodong_picd
+  - first:
+      213: 7086828144593130347
+    second: ui_huodong_picd01
+  - first:
+      213: -6788810679069944597
+    second: ui_huodong_picd02
+  - first:
+      213: 4230240118105548611
+    second: ui_huodong_picd03
+  - first:
+      213: 2337014249033572511
+    second: ui_huodong_picd04
+  - first:
+      213: -7355112828668703207
+    second: ui_huodong_picd05
+  - first:
+      213: -5157803115817531125
+    second: ui_huodong_picd06
+  - first:
+      213: -4590716040243965550
+    second: ui_huodong_picd07
+  - first:
+      213: 7102022086357016290
+    second: ui_huodong_picd08
+  - first:
+      213: 8057756619982457331
+    second: ui_huodong_picd09
+  - first:
+      213: 6930987158939833956
+    second: ui_huodong_picd010
+  - first:
+      213: 8202064236502251797
+    second: ui_huodong_picd011
+  - first:
+      213: 9205920234151515064
+    second: ui_huodong_picd012
+  - first:
+      213: 4343287129925249330
+    second: ui_huodong_picd013
+  - first:
+      213: -9077408019445389423
+    second: ui_huodong_picd014
+  - first:
+      213: 3617620838846137778
+    second: ui_huodong_picd015
+  - first:
+      213: 4696932716794017254
+    second: ui_huodong_picd016
+  - first:
+      213: 201095419319050262
+    second: ui_huodong_picd017
+  - first:
+      213: -9009248591185098736
+    second: ui_huodong_picd018
+  - first:
+      213: -4403541978812475793
+    second: ui_huodong_picd019
+  - first:
+      213: -7073365439758372397
+    second: ui_huodong_picd020
+  - first:
+      213: -1122147639416537585
+    second: ui_huodong_picd021
+  - first:
+      213: 152180214112186649
+    second: ui_huodong_picd022
+  - first:
+      213: -5843607243321947559
+    second: ui_huodong_picd023
+  - first:
+      213: -7837324819490456469
+    second: ui_huodong_picd024
+  - first:
+      213: 1421951443258664725
+    second: ui_huodong_picd025
+  - first:
+      213: 7190779326159719552
+    second: ui_huodong_picd026
+  - first:
+      213: 4171568854856751600
+    second: ui_huodong_picd0227
+  - first:
+      213: -5341361454792817562
+    second: ui_huodong_picd028
+  - first:
+      213: -6689005405161838868
+    second: ui_huodong_picd029
+  - first:
+      213: -5028004597574809812
+    second: ui_huodong_picd030
+  - first:
+      213: -22136897182321078
+    second: ui_huodong_picd031
+  - first:
+      213: -8518519578596107237
+    second: ui_huodong_picd032
+  - first:
+      213: 955422465701821305
+    second: ui_huodong_picd033
+  - first:
+      213: 8559989991368296487
+    second: ui_huodong_picd034
+  - first:
+      213: 3119293507867382123
+    second: ui_huodong_picd035
+  - first:
+      213: -7317388698278220859
+    second: ui_huodong_picd036
+  - first:
+      213: 7186597546683485609
+    second: ui_huodong_picd037
+  - first:
+      213: 4168184834621360703
+    second: ui_huodong_picd038
+  - first:
+      213: 8767781200720792111
+    second: ui_huodong_picd039
+  - first:
+      213: -2573516286823711043
+    second: ui_huodong_picd040
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ui_huodong_picd
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2007
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 19, y: 21, z: 25, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c038a01b9176b8c60800000000000000
+      internalID: 7821458537901097740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_huodong_picd01
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 2007
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 19, y: 16, z: 22, w: 15}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63d6be56a8795260800000000000000
+      internalID: 7086828144593130347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_huodong_picd02
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1975
+        width: 368
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 44, z: 0, w: 18}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be458a2f7ac49c1a0800000000000000
+      internalID: -6788810679069944597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_huodong_picd03
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 1975
+        width: 368
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 44, z: 0, w: 18}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347a94289f4d4ba30800000000000000
+      internalID: 4230240118105548611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_huodong_picd04
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1978
+        width: 114
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f902ca4d31ebe6020800000000000000
+      internalID: 2337014249033572511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_huodong_picd05
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 2004
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e8844f9d36de990800000000000000
+      internalID: -7355112828668703207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_huodong_picd06
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2004
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b090b44b46dcb68b0800000000000000
+      internalID: -5157803115817531125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_huodong_picd07
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2041
+        width: 55
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 22, y: 0, z: 22, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291129485108a40c0800000000000000
+      internalID: -4590716040243965550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_huodong_picd08
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1912
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eed94c95737f8260800000000000000
+      internalID: 7102022086357016290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_huodong_picd09
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1233
+        width: 350
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f94b9c34f6e2df60800000000000000
+      internalID: 8057756619982457331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_huodong_picd010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1389
+        width: 350
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466176f5910df2060800000000000000
+      internalID: 6930987158939833956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_huodong_picd011
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1389
+        width: 350
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519f6a977f593d170800000000000000
+      internalID: 8202064236502251797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_huodong_picd012
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1389
+        width: 350
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b39e2b8daff1cf70800000000000000
+      internalID: 9205920234151515064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_huodong_picd013
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1735
+        width: 212
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23968b802a4764c30800000000000000
+      internalID: 4343287129925249330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_huodong_picd014
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1735
+        width: 212
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197ecaf1081960280800000000000000
+      internalID: -9077408019445389423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_huodong_picd015
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1735
+        width: 212
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b589776cfe543230800000000000000
+      internalID: 3617620838846137778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_huodong_picd016
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1735
+        width: 212
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5fa66ab6bde2140800000000000000
+      internalID: 4696932716794017254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_huodong_picd017
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1545
+        width: 209
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610687ae73f6ac200800000000000000
+      internalID: 201095419319050262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_huodong_picd018
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 1545
+        width: 209
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018493da328b8f280800000000000000
+      internalID: -9009248591185098736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_huodong_picd019
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 1545
+        width: 209
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f669c57b6e973e2c0800000000000000
+      internalID: -4403541978812475793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_huodong_picd020
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1958
+        width: 44
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d17dacdb9b56dd90800000000000000
+      internalID: -7073365439758372397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_huodong_picd021
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 1900
+        width: 215
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 89, y: 55, z: 88, w: 55}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0eb807daa45d60f0800000000000000
+      internalID: -1122147639416537585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_huodong_picd022
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1927
+        width: 156
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 62, y: 0, z: 65, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911fff33917ac1200800000000000000
+      internalID: 152180214112186649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_huodong_picd023
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 971
+        width: 649
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a45e64c2657eea0800000000000000
+      internalID: -5843607243321947559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_huodong_picd024
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 1908
+        width: 226
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c3be0c99a3c3390800000000000000
+      internalID: -7837324819490456469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_huodong_picd025
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1141
+        width: 412
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5176947cd49cbb310800000000000000
+      internalID: 1421951443258664725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_huodong_picd026
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 1141
+        width: 412
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c09f1e2b7cac360800000000000000
+      internalID: 7190779326159719552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_huodong_picd028
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1735
+        width: 212
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6644c1e7e0cafd5b0800000000000000
+      internalID: -5341361454792817562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_huodong_picd029
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1735
+        width: 212
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce629ac1601eb23a0800000000000000
+      internalID: -6689005405161838868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_huodong_picd030
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1735
+        width: 212
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27c5804570f83ab0800000000000000
+      internalID: -5028004597574809812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_huodong_picd031
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 1735
+        width: 212
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46b40bfb9a51bff0800000000000000
+      internalID: -22136897182321078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_huodong_picd032
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1389
+        width: 350
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c9199839328c980800000000000000
+      internalID: -8518519578596107237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_huodong_picd033
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 1389
+        width: 350
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bb596aba7524d00800000000000000
+      internalID: 955422465701821305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_huodong_picd034
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1233
+        width: 350
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728086c5b813bc670800000000000000
+      internalID: 8559989991368296487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_huodong_picd035
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 1735
+        width: 212
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b611e9e2be4f94b20800000000000000
+      internalID: 3119293507867382123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_huodong_picd036
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1570
+        width: 212
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb2ba38fb9637a90800000000000000
+      internalID: -7317388698278220859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_huodong_picd037
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1570
+        width: 212
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad43c9746cebb360800000000000000
+      internalID: 7186597546683485609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_huodong_picd038
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1570
+        width: 212
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ac6c9e50e58d930800000000000000
+      internalID: 4168184834621360703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_huodong_picd039
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1570
+        width: 212
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a8f416c8a6da970800000000000000
+      internalID: 8767781200720792111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_huodong_picd040
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1570
+        width: 212
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbeb03c7298094cd0800000000000000
+      internalID: -2573516286823711043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_huodong_picd0227
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1141
+        width: 412
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9d1d585c364e930800000000000000
+      internalID: 4171568854856751600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

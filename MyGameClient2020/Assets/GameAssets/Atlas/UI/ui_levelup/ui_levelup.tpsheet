@@ -1,0 +1,21 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:01d80cda38a6e51ccd485419c58083c2:3d15dc7226d3ffbb24c4e86fab3d0b42:11d5eb9dbc53840fb8443627acff3d37$
+#
+:format=40300
+:texture=ui_levelup.png
+:size=1024x1024
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+ui_levelup_pic_02;42;946;231;77; 0.5;0.5; 0;0;0;0
+ui_levelup_pic_03;1;584;314;322; 0.5;0.5; 0;0;0;0
+ui_levelup_pic_05;13;1008;27;15; 0.5;0.5; 0;0;0;0
+ui_levelup_pic_06;275;908;568;115; 0.5;0.5; 0;0;0;0
+ui_levelup_pic_07;317;454;442;452; 0.5;0.5; 0;0;0;0
+ui_levelup_pic_08;1;1013;10;10; 0.5;0.5; 0;0;0;0

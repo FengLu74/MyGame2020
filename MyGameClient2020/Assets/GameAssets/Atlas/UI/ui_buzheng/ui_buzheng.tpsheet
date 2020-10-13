@@ -1,0 +1,27 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:bf423300853c199c288107d48409f3c6:2cde5f1e4aaea20dc7a882779d5f96fd:bcd8aa32b5c5439d73c35bae9a2732f8$
+#
+:format=40300
+:texture=ui_buzheng.png
+:size=1024x1024
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+ui_buzheng_frame_01;0;450;192;192; 0.5;0.5; 0;0;0;0
+ui_buzheng_frame_02;193;450;192;192; 0.5;0.5; 0;0;0;0
+ui_buzheng_frame_03;189;643;190;192; 0.5;0.5; 0;0;0;0
+ui_buzheng_frame_04;380;643;190;192; 0.5;0.5; 0;0;0;0
+ui_buzheng_frame_05;571;643;190;192; 0.5;0.5; 0;0;0;0
+ui_buzheng_frame_06;0;836;188;188; 0.5;0.5; 0;0;0;0
+ui_buzheng_frame_07;189;836;188;188; 0.5;0.5; 0;0;0;0
+ui_buzheng_frame_08;378;836;188;188; 0.5;0.5; 0;0;0;0
+ui_buzheng_frame_09;567;836;188;188; 0.5;0.5; 0;0;0;0
+ui_buzheng_frame_10;756;836;188;188; 0.5;0.5; 0;0;0;0
+ui_buzheng_frame_11;0;647;188;188; 0.5;0.5; 0;0;0;0
+ui_buzheng_frame_12;762;643;190;192; 0.5;0.5; 0;0;0;0

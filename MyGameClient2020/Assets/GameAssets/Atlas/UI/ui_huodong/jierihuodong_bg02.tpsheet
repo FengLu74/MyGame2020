@@ -1,0 +1,17 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:6789c57ac6a49853fac0affc312e30fa:0c8318408d93ae994a7edecdcabf2cd3:16687425fc30684040362204c29e23dc$
+#
+:format=40300
+:texture=jierihuodong_bg02.png
+:size=2048x2048
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+jiujia_bg;1;1050;1024;997; 0.5;0.5; 0;0;0;0; 23;963;920;920;876;960;793;998;700;1007;694;1019;646;1024;544;1024;340;1004;258;1014;252;972;218;981;207;967;194;992;170;945;147;952;137;931;120;971;59;979;12;975;0;0;0;0;997;986;997; 21;1;21;22;19;16;17;19;17;18;16;19;20;14;15;16;10;14;16;12;13;14;10;12;14;10;11;12;10;16;20;8;9;10;10;7;8;10;6;7;6;10;20;3;5;6;3;4;5;2;3;6;21;2;6;21;1;2;21;6;20;0;1;22
+jiujia_bg02;1027;1708;13;339; 0.5;0.5; 0;0;0;0; 4;13;0;0;0;0;339;13;339; 2;1;2;3;0;1;3

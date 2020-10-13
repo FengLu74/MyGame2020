@@ -1,0 +1,29 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:c932d9bae5e5bf916911d7beabc3e315:342f3441046228c891386b118ca23714:7a9af46264d1964bb080ae33555f2cda$
+#
+:format=40300
+:texture=basecard1.png
+:size=2048x2048
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+ui_basecard_01;1;1609;294;438; 0.5;0.5; 0;0;0;0
+ui_basecard_02;297;1609;294;438; 0.5;0.5; 0;0;0;0
+ui_basecard_03;593;1609;294;438; 0.5;0.5; 0;0;0;0
+ui_basecard_04;889;1609;294;438; 0.5;0.5; 0;0;0;0
+ui_basecard_05;1185;1753;259;294; 0.5;0.5; 0;0;0;0
+ui_basecard_12;1446;1943;104;104; 0.5;0.5; 0;0;0;0
+ui_basecard_13;1552;1991;56;56; 0.5;0.5; 0;0;0;0
+ui_basecard_14;1610;1953;82;94; 0.5;0.5; 0;0;0;0
+ui_basecard_15;1694;1922;125;125; 0.5;0.5; 0;0;0;0
+ui_basecard_16;1821;2021;29;26; 0.5;0.5; 0;0;0;0
+ui_basecard_17;1852;2021;29;26; 0.5;0.5; 0;0;0;0
+ui_basecard_18;1883;2022;52;25; 0.5;0.5; 0;0;0;0
+ui_basecard_19;1937;1998;25;49; 0.5;0.5; 0;0;0;0
+ui_basecard_20;1;1189;267;418; 0.5;0.5; 0;0;0;0

@@ -1,0 +1,665 @@
+fileFormatVersion: 2
+guid: 573d9b81ed1ef364b9cb0ff23b658676
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ui_houyuan_frame_01
+  - first:
+      213: 21300002
+    second: ui_houyuan_icon_01
+  - first:
+      213: 21300004
+    second: ui_houyuan_icon_02
+  - first:
+      213: 21300006
+    second: ui_houyuan_icon_03
+  - first:
+      213: 21300008
+    second: ui_houyuan_icon_04
+  - first:
+      213: 21300010
+    second: ui_houyuan_mask_01
+  - first:
+      213: 21300012
+    second: ui_houyuan_icon_06
+  - first:
+      213: 21300014
+    second: ui_houyuan_icon_07
+  - first:
+      213: 7769213966459224499
+    second: ui_houyuan_icon_08
+  - first:
+      213: 6281958613016767980
+    second: ui_houyuan_icon_09
+  - first:
+      213: 8095207998240911005
+    second: ui_houyuan_icon_10
+  - first:
+      213: -600117563406742130
+    second: ui_houyuan_icon_11
+  - first:
+      213: -8794624675339935408
+    second: ui_houyuan_icon_12
+  - first:
+      213: -537393876772837653
+    second: ui_houyuan_icon_13
+  - first:
+      213: 5258569454506866039
+    second: ui_houyuan_icon_14
+  - first:
+      213: -4215921532617510866
+    second: ui_houyuan_icon_15
+  - first:
+      213: -5401811302467919175
+    second: ui_houyuan_mask_02
+  - first:
+      213: -7310575217166841706
+    second: ui_houyuan_mask_03
+  - first:
+      213: -7164462726295626806
+    second: ui_houyuan_mask_04
+  - first:
+      213: 6657094185343294731
+    second: ui_houyuan_mask_05
+  - first:
+      213: -3841418054933059606
+    second: ui_houyuan_mask_06
+  - first:
+      213: 876453289111234126
+    second: ui_houyuan_mask_07
+  - first:
+      213: 5392595536690983955
+    second: u_houyuan_pic_01
+  - first:
+      213: -5776999467130458172
+    second: ui_houyuan_frame_02
+  - first:
+      213: 4688302488685037944
+    second: ui_houyuan_frame_03
+  - first:
+      213: -8116801249104617569
+    second: ui_houyuan_frame_04
+  - first:
+      213: 8279116649598355259
+    second: ui_houyuan_frame_05
+  - first:
+      213: -166980801950238849
+    second: ui_houyuan_frame_06
+  - first:
+      213: -1468232194192045059
+    second: ui_houyuan_frame_7
+  - first:
+      213: -4516095543474439439
+    second: ui_houyuan_frame_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ui_houyuan_frame_01
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 433
+        width: 222
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 78, z: 0, w: 78}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_houyuan_frame_02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1004
+        width: 467
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 3, z: 0, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf611ea799f3dfa0800000000000000
+      internalID: -5776999467130458172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_houyuan_frame_03
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 976
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 22, y: 20, z: 22, w: 25}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879c6a51642301140800000000000000
+      internalID: 4688302488685037944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_houyuan_frame_04
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 987
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 15, y: 15, z: 15, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f1ca2c4445b5f80800000000000000
+      internalID: -8116801249104617569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_houyuan_frame_05
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 963
+        width: 86
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 34, y: 0, z: 34, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3705596ab455e270800000000000000
+      internalID: 8279116649598355259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_houyuan_frame_06
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 538
+        width: 92
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 0, z: 41, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77327768d3ceadf0800000000000000
+      internalID: -166980801950238849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_houyuan_frame_7
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 979
+        width: 74
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 31, y: 11, z: 31, w: 21}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb0461399acf9be0800000000000000
+      internalID: -1468232194192045059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_houyuan_frame_8
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 394
+        width: 99
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa3b7fc70b9351c0800000000000000
+      internalID: -4516095543474439439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_houyuan_icon_01
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 988
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_houyuan_icon_02
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 988
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_houyuan_icon_03
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 988
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_houyuan_icon_04
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 824
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_houyuan_icon_06
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 760
+        width: 160
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_houyuan_icon_07
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 590
+        width: 160
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_houyuan_icon_08
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 810
+        width: 111
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b14ece70fac1db60800000000000000
+      internalID: 7769213966459224499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_houyuan_icon_09
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 810
+        width: 111
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cede19643100e2750800000000000000
+      internalID: 6281958613016767980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_houyuan_icon_10
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 810
+        width: 111
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9eec0eb8c4f75070800000000000000
+      internalID: 8095207998240911005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_houyuan_icon_11
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 810
+        width: 111
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d0ba17144fba7f0800000000000000
+      internalID: -600117563406742130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_houyuan_icon_12
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 943
+        width: 69
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0516a75247733f580800000000000000
+      internalID: -8794624675339935408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_houyuan_icon_13
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 930
+        width: 92
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be62c76cd1bca88f0800000000000000
+      internalID: -537393876772837653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_houyuan_icon_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 835
+        width: 92
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775f99ace013af840800000000000000
+      internalID: 5258569454506866039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_houyuan_icon_15
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 810
+        width: 111
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20b967f3b90e75c0800000000000000
+      internalID: -4215921532617510866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_houyuan_mask_01
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 433
+        width: 222
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 78, z: 0, w: 78}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0b2b3ef0f5e13f946a2f35daf5d8105a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

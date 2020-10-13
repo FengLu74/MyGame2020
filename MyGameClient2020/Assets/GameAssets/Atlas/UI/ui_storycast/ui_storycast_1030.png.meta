@@ -1,0 +1,356 @@
+fileFormatVersion: 2
+guid: 06d566ba10735194d96c9d894ac56389
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5179122029523454896
+    second: ui_Alice_W_body_01
+  - first:
+      213: -6860739184411788844
+    second: ui_Alice_W_face_01
+  - first:
+      213: 1359775452939823948
+    second: ui_Alice_W_face_02
+  - first:
+      213: -1075440914396812983
+    second: ui_Alice_W_face_03
+  - first:
+      213: 4095723973663001076
+    second: ui_Alice_W_face_04
+  - first:
+      213: 3953740367480545003
+    second: ui_Alice_W_face_05
+  - first:
+      213: -1545407607334433288
+    second: ui_Alice_W_hand_01
+  - first:
+      213: -3759483919324591785
+    second: ui_Alice_W_hand_02
+  - first:
+      213: 490275121370818330
+    second: ui_Alice_W_hear_01
+  - first:
+      213: 4087512903388917235
+    second: ui_Alice_W_hear_02
+  - first:
+      213: -1863034600665787142
+    second: ui_Alice_W_hear_03
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ui_Alice_W_body_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 779
+        width: 1593
+        height: 1268
+      alignment: 9
+      pivot: {x: 0.5, y: 0.56309146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb4522bb00ffd740800000000000000
+      internalID: 5179122029523454896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_Alice_W_face_01
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1933
+        width: 211
+        height: 114
+      alignment: 9
+      pivot: {x: 0.950237, y: -2.2631578}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d93880cf02c9c0a0800000000000000
+      internalID: -6860739184411788844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_Alice_W_face_02
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1347
+        width: 170
+        height: 132
+      alignment: 9
+      pivot: {x: 0.9852941, y: -1.8636364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b26cee194eed210800000000000000
+      internalID: 1359775452939823948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_Alice_W_face_03
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1897
+        width: 176
+        height: 150
+      alignment: 9
+      pivot: {x: 0.9801136, y: -1.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949e470bf244311f0800000000000000
+      internalID: -1075440914396812983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_Alice_W_face_04
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1414
+        width: 183
+        height: 137
+      alignment: 9
+      pivot: {x: 0.9535519, y: -1.8102189}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f90c34014fe6d830800000000000000
+      internalID: 4095723973663001076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_Alice_W_face_05
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1812
+        width: 296
+        height: 224
+      alignment: 9
+      pivot: {x: 0.9847973, y: -1.0223215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beedcc99ae18ed630800000000000000
+      internalID: 3953740367480545003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_Alice_W_hand_01
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1900
+        width: 183
+        height: 141
+      alignment: 9
+      pivot: {x: 1.3360655, y: -0.6099291}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd05a318fb9d8ae0800000000000000
+      internalID: -1545407607334433288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_Alice_W_hand_02
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1536
+        width: 354
+        height: 400
+      alignment: 9
+      pivot: {x: -0.038135592, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7594dd14b41a3dbc0800000000000000
+      internalID: -3759483919324591785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_Alice_W_hear_01
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 384
+        width: 474
+        height: 591
+      alignment: 9
+      pivot: {x: 0.5580169, y: -0.20812182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17e48310aecdc600800000000000000
+      internalID: 490275121370818330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_Alice_W_hear_02
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 31
+        width: 497
+        height: 475
+      alignment: 9
+      pivot: {x: 0.62676054, y: -0.30736843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd625d3453c9b830800000000000000
+      internalID: 4087512903388917235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_Alice_W_hear_03
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 1043
+        width: 566
+        height: 447
+      alignment: 9
+      pivot: {x: -0.0026501766, y: 0.46532437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4dd07c6eb2526e0800000000000000
+      internalID: -1863034600665787142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

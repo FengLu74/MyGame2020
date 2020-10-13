@@ -1,0 +1,740 @@
+fileFormatVersion: 2
+guid: 4ca0c9ed8009a944d8fe817cbf003ec6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1031333061148173224
+    second: ui_story_arm_bei
+  - first:
+      213: -2824726188415623921
+    second: ui_story_arm_jingya
+  - first:
+      213: -4632063331948846667
+    second: ui_story_arm_left
+  - first:
+      213: -7362088054935786262
+    second: ui_story_arm_left_add
+  - first:
+      213: -5694405483465384908
+    second: ui_story_arm_normal
+  - first:
+      213: -6589509251601646223
+    second: ui_story_arm_nu
+  - first:
+      213: 5599602563046235034
+    second: ui_story_arm_xi
+  - first:
+      213: -8200104538815404653
+    second: ui_story_arm_xiu
+  - first:
+      213: 4664130439581845884
+    second: ui_story_body_bow
+  - first:
+      213: -1614274506245926768
+    second: ui_story_doll_eye_grab
+  - first:
+      213: -8659597504803488392
+    second: ui_story_doll_eye_red
+  - first:
+      213: -4804047537058761610
+    second: ui_story_doll_hand
+  - first:
+      213: 5721281780213462871
+    second: ui_story_doll_leg
+  - first:
+      213: 5747842145320762531
+    second: ui_story_eye_bei
+  - first:
+      213: 3095247001554387716
+    second: ui_story_eye_cang
+  - first:
+      213: 3951905223440288837
+    second: ui_story_eye_collar
+  - first:
+      213: 6986781454996827391
+    second: ui_story_eye_jin
+  - first:
+      213: 825248453771001510
+    second: ui_story_eye_nu
+  - first:
+      213: 7385561017743822166
+    second: ui_story_eye_shadow
+  - first:
+      213: -7892452853672290703
+    second: ui_story_eye_xi
+  - first:
+      213: 6450337606813204680
+    second: ui_story_eye_xiu
+  - first:
+      213: 2027904223480978503
+    second: ui_story_Maikebai_body_01
+  - first:
+      213: 1983405300593072463
+    second: ui_story_Maikebai_body_02
+  - first:
+      213: 467405154813744254
+    second: ui_story_Maikebai_face
+  - first:
+      213: 5349978460949595851
+    second: ui_story_maikebai_hat
+  - first:
+      213: -6998830285181822292
+    second: ui_story_shadow_cang
+  - first:
+      213: -7506556475311918824
+    second: ui_story_star
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ui_story_arm_bei
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 558
+        width: 179
+        height: 238
+      alignment: 9
+      pivot: {x: 0.49720672, y: 0.042016808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a36ad274f7005e00800000000000000
+      internalID: 1031333061148173224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_story_arm_jingya
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 558
+        width: 179
+        height: 238
+      alignment: 9
+      pivot: {x: 0.49720672, y: 0.042016808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d5eb76f7e8cc8d0800000000000000
+      internalID: -2824726188415623921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_story_arm_left
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 891
+        width: 88
+        height: 41
+      alignment: 9
+      pivot: {x: 0.71590906, y: -1.4390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1a31af0fa97bfb0800000000000000
+      internalID: -4632063331948846667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_story_arm_left_add
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1995
+        width: 225
+        height: 49
+      alignment: 9
+      pivot: {x: 0.16888888, y: -0.75510204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aece7688beb94d990800000000000000
+      internalID: -7362088054935786262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_story_arm_normal
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 631
+        width: 266
+        height: 86
+      alignment: 9
+      pivot: {x: 0.33082706, y: -0.10465116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c520f026869f0b0800000000000000
+      internalID: -5694405483465384908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_story_arm_nu
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1504
+        width: 225
+        height: 343
+      alignment: 9
+      pivot: {x: 0.42222223, y: 0.002915452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d32269f3c5d84a0800000000000000
+      internalID: -6589509251601646223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_story_arm_xi
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 830
+        width: 147
+        height: 268
+      alignment: 9
+      pivot: {x: 0.6394558, y: 0.01119403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bdcb5fcd8c5bd40800000000000000
+      internalID: 5599602563046235034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_story_arm_xiu
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 387
+        width: 182
+        height: 210
+      alignment: 9
+      pivot: {x: -0.07692308, y: -0.14761905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395e6d23e50633e80800000000000000
+      internalID: -8200104538815404653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_story_body_bow
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 326
+        width: 528
+        height: 261
+      alignment: 9
+      pivot: {x: 0.49242425, y: 0.026819924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79cc555ce15ab040800000000000000
+      internalID: 4664130439581845884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_story_doll_eye_grab
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1735
+        width: 276
+        height: 228
+      alignment: 9
+      pivot: {x: 0.44927537, y: -0.25438598}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0901e3da3e1f899e0800000000000000
+      internalID: -1614274506245926768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_story_doll_eye_red
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1551
+        width: 147
+        height: 92
+      alignment: 9
+      pivot: {x: 0.06802721, y: -1.1847826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d345c23fde2d780800000000000000
+      internalID: -8659597504803488392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_story_doll_hand
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1561
+        width: 107
+        height: 67
+      alignment: 9
+      pivot: {x: -0.7943925, y: -0.98507464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674b58dc738945db0800000000000000
+      internalID: -4804047537058761610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_story_doll_leg
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 1055
+        width: 286
+        height: 117
+      alignment: 9
+      pivot: {x: 0.18181819, y: 0.31623933}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757b9896773166f40800000000000000
+      internalID: 5721281780213462871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_story_eye_bei
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 531
+        width: 140
+        height: 99
+      alignment: 9
+      pivot: {x: 0.4642857, y: -2.6060605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acfcd05aff64cf40800000000000000
+      internalID: 5747842145320762531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_story_eye_cang
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 720
+        width: 142
+        height: 106
+      alignment: 9
+      pivot: {x: 0.46478873, y: -2.3490567}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4030eb3afb684fa20800000000000000
+      internalID: 3095247001554387716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_story_eye_collar
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 446
+        width: 123
+        height: 103
+      alignment: 9
+      pivot: {x: 1.1219512, y: -2.0582523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c4b25dcdcf7d630800000000000000
+      internalID: 3951905223440288837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_story_eye_jin
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1871
+        width: 185
+        height: 173
+      alignment: 9
+      pivot: {x: 0.6108108, y: -1.0693642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc6f5c37b806f060800000000000000
+      internalID: 6986781454996827391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_story_eye_nu
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 466
+        width: 140
+        height: 106
+      alignment: 9
+      pivot: {x: 0.47857141, y: -2.4433963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aef57aa81fd37b00800000000000000
+      internalID: 825248453771001510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_story_eye_shadow
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 718
+        width: 143
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5314685, y: -6.744186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65dc7918d98ce7660800000000000000
+      internalID: 7385561017743822166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_story_eye_xi
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1941
+        width: 145
+        height: 103
+      alignment: 9
+      pivot: {x: 0.44827586, y: -2.4466019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176585212ff587290800000000000000
+      internalID: -7892452853672290703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_story_eye_xiu
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 548
+        width: 153
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5294118, y: -2.2342343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0c177c0e3348950800000000000000
+      internalID: 6450337606813204680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_story_Maikebai_body_01
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 703
+        width: 1049
+        height: 1341
+      alignment: 9
+      pivot: {x: 0.5300286, y: 0.51304996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c191f9520942c10800000000000000
+      internalID: 2027904223480978503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_story_Maikebai_body_02
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 974
+        width: 109
+        height: 124
+      alignment: 9
+      pivot: {x: -0.3027523, y: -1.983871}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f491a73cc98768b10800000000000000
+      internalID: 1983405300593072463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_story_Maikebai_face
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 765
+        width: 181
+        height: 228
+      alignment: 9
+      pivot: {x: 0.5524862, y: -0.8815789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e741cda038e8c7600800000000000000
+      internalID: 467405154813744254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_story_maikebai_hat
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 533
+        width: 489
+        height: 360
+      alignment: 9
+      pivot: {x: 0.595092, y: -0.50277776}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc644e89011fe3a40800000000000000
+      internalID: 5349978460949595851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_story_shadow_cang
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1026
+        width: 127
+        height: 96
+      alignment: 9
+      pivot: {x: 0.48031497, y: -2.6875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caadd70efe82fde90800000000000000
+      internalID: -6998830285181822292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_story_star
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 405
+        width: 640
+        height: 1294
+      alignment: 9
+      pivot: {x: 0.3234375, y: 0.511592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811ff9a38aa53d790800000000000000
+      internalID: -7506556475311918824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,38 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:445b1c4339964a7134a7fa7c4fdaff2c:f537862eaeaa715445ae5086645151e7:4c068bf53fd0c525395bdf4ff0f00133$
+#
+:format=40300
+:texture=ui_houyuan.png
+:size=1024x1024
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+ui_houyuan_frame_01;257;433;222;325; 0.5;0.5; 0;0;0;0
+ui_houyuan_frame_02;1;1004;467;19; 0.5;0.5; 0;0;0;0
+ui_houyuan_frame_03;703;976;49;47; 0.5;0.5; 0;0;0;0
+ui_houyuan_frame_04;581;987;44;36; 0.5;0.5; 0;0;0;0
+ui_houyuan_frame_05;754;963;86;60; 0.5;0.5; 0;0;0;0
+ui_houyuan_frame_06;163;538;92;220; 0.5;0.5; 0;0;0;0
+ui_houyuan_frame_7;627;979;74;44; 0.5;0.5; 0;0;0;0
+ui_houyuan_frame_8;705;394;99;364; 0.5;0.5; 0;0;0;0
+ui_houyuan_icon_01;470;988;35;35; 0.5;0.5; 0;0;0;0
+ui_houyuan_icon_02;507;988;35;35; 0.5;0.5; 0;0;0;0
+ui_houyuan_icon_03;544;988;35;35; 0.5;0.5; 0;0;0;0
+ui_houyuan_icon_04;95;824;104;104; 0.5;0.5; 0;0;0;0
+ui_houyuan_icon_06;766;760;160;168; 0.5;0.5; 0;0;0;0
+ui_houyuan_icon_07;1;590;160;168; 0.5;0.5; 0;0;0;0
+ui_houyuan_icon_08;201;810;111;118; 0.5;0.5; 0;0;0;0
+ui_houyuan_icon_09;314;810;111;118; 0.5;0.5; 0;0;0;0
+ui_houyuan_icon_10;427;810;111;118; 0.5;0.5; 0;0;0;0
+ui_houyuan_icon_11;540;810;111;118; 0.5;0.5; 0;0;0;0
+ui_houyuan_icon_12;842;943;69;80; 0.5;0.5; 0;0;0;0
+ui_houyuan_icon_13;913;930;92;93; 0.5;0.5; 0;0;0;0
+ui_houyuan_icon_14;1;835;92;93; 0.5;0.5; 0;0;0;0
+ui_houyuan_icon_15;653;810;111;118; 0.5;0.5; 0;0;0;0
+ui_houyuan_mask_01;481;433;222;325; 0.5;0.5; 0;0;0;0

@@ -1,0 +1,43 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:2a861bf6a1bf153724d85ba336978442:3f9177cb57f4aff3ad06eb96d7525b1f:7be6fe24da901d3f2812ca3ba2cf3794$
+#
+:format=40300
+:texture=ui_cailiao_01.png
+:size=1024x2048
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+ui_cailiao_frame_01;1;1680;258;367; 0.5;0.5; 0;0;0;0
+ui_cailiao_icon_03;261;1998;46;49; 0.5;0.5; 0;0;0;0
+ui_cailiao_icon_04;309;2003;44;44; 0.5;0.5; 0;0;0;0
+ui_cailiao_pic_01;355;1961;115;86; 0.5;0.5; 0;0;0;0
+ui_cailiao_pic_01_A;472;1818;237;229; 0.5;0.5; 0;0;0;0
+ui_cailiao_pic_01_B;711;1818;237;229; 0.5;0.5; 0;0;0;0
+ui_cailiao_pic_02;950;1877;14;170; 0.5;0.5; 0;0;0;0
+ui_cailiao_pic_02_A;1;1449;237;229; 0.5;0.5; 0;0;0;0
+ui_cailiao_pic_02_B;240;1449;237;229; 0.5;0.5; 0;0;0;0
+ui_cailiao_pic_03_A;479;1449;237;229; 0.5;0.5; 0;0;0;0
+ui_cailiao_pic_03_B;718;1449;237;229; 0.5;0.5; 0;0;0;0
+ui_cailiao_pic_04_A;1;1218;237;229; 0.5;0.5; 0;0;0;0
+ui_cailiao_pic_04_B;240;1218;237;229; 0.5;0.5; 0;0;0;0
+ui_cailiao_pic_05_A;479;1218;237;229; 0.5;0.5; 0;0;0;0
+ui_cailiao_pic_05_B;718;1218;237;229; 0.5;0.5; 0;0;0;0
+ui_cailiao_pic_06_A;1;987;237;229; 0.5;0.5; 0;0;0;0
+ui_cailiao_pic_06_B;240;987;237;229; 0.5;0.5; 0;0;0;0
+ui_cailiao_pic_07_A;479;987;237;229; 0.5;0.5; 0;0;0;0
+ui_cailiao_pic_07_B;718;987;237;229; 0.5;0.5; 0;0;0;0
+ui_cailiao_pic_08_A;1;756;237;229; 0.5;0.5; 0;0;0;0
+ui_cailiao_pic_08_B;240;756;237;229; 0.5;0.5; 0;0;0;0
+ui_cailiao_pic_09_A;479;756;237;229; 0.5;0.5; 0;0;0;0
+ui_cailiao_pic_09_B;718;756;237;229; 0.5;0.5; 0;0;0;0
+ui_cailiao_pic_10_A;1;525;237;229; 0.5;0.5; 0;0;0;0
+ui_cailiao_pic_10_B;240;525;237;229; 0.5;0.5; 0;0;0;0
+ui_cailiao_pic_11_A;479;525;237;229; 0.5;0.5; 0;0;0;0
+ui_cailiao_pic_11_B;718;525;237;229; 0.5;0.5; 0;0;0;0
+ui_cailiao_pic_12;1;484;72;39; 0.5;0.5; 0;0;0;0

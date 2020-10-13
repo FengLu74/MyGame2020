@@ -1,0 +1,16 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:e75d7f0d74c7d923dcf9438d170b404d:0db5aefdb16e4d05698f1228d6531cef:ec804a416effb44cafc9721d96b3c55c$
+#
+:format=40300
+:texture=ui_fuben_map_01.png
+:size=2048x2048
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+ui_fuben_map_01;1;502;2040;1545; 0.5;0.5; 0;0;0;0; 4;2040;0;0;0;0;1545;2040;1545; 2;1;2;3;0;1;3

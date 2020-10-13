@@ -1,0 +1,36 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:e1b1dd27f9b5a8a49794a604336a0f34:6db271db1d1f3f0f71b169e2aed14a1f:3b614d27372f963da9213cab81650bc7$
+#
+:format=40300
+:texture=ui_store.png
+:size=2048x2048
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+ui_store_02;637;541;310;277; 0.5;0.5; 0;0;0;0
+ui_store_02_long;319;742;316;634; 0.5;0.5; 0;0;0;0
+ui_store_03;637;820;310;277; 0.5;0.5; 0;0;0;0
+ui_store_03_long;1;106;316;634; 0.5;0.5; 0;0;0;0
+ui_store_04;319;184;310;277; 0.5;0.5; 0;0;0;0
+ui_store_04_long;1;742;316;634; 0.5;0.5; 0;0;0;0
+ui_store_05;319;463;310;277; 0.5;0.5; 0;0;0;0
+ui_store_05_long;1470;1413;316;634; 0.5;0.5; 0;0;0;0
+ui_store_06;637;1099;310;277; 0.5;0.5; 0;0;0;0
+ui_store_06_long;1152;1413;316;634; 0.5;0.5; 0;0;0;0
+ui_store_07;949;1237;155;139; 0.5;0.5; 0;0;0;0
+ui_store_08;949;1168;68;67; 0.5;0.5; 0;0;0;0
+ui_store_09;1;68;218;36; 0.5;0.5; 0;0;0;0
+ui_store_10;1;1378;1149;669; 0.5;0.5; 0;0;0;0
+ui_store_12;1;4;71;14; 0.5;0.5; 0;0;0;0
+ui_store_button_01;631;303;265;117; 0.5;0.5; 0;0;0;0
+ui_store_button_02;631;422;265;117; 0.5;0.5; 0;0;0;0
+ui_store_pic_01;319;131;59;51; 0.5;0.5; 0;0;0;0
+ui_store_pic_02;631;226;83;75; 0.5;0.5; 0;0;0;0
+ui_store_pic_03;1788;1980;48;67; 0.5;0.5; 0;0;0;0
+ui_store_pic_04;1;20;166;46; 0.5;0.5; 0;0;0;0

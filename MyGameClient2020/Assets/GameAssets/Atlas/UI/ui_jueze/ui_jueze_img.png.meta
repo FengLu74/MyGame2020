@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 17566751b3121c548b854957a2897aa0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ui_jueze_img_01
+  - first:
+      213: -7687402710460964564
+    second: ui_jueze_img_02
+  - first:
+      213: 4270749021839988282
+    second: ui_jueze_img_03
+  - first:
+      213: -1587460356590667104
+    second: ui_jueze_img_04
+  - first:
+      213: 6773657690379804612
+    second: ui_jueze_img_05
+  - first:
+      213: 6585692214189563072
+    second: ui_jueze_img_13
+  - first:
+      213: 33607708052280858
+    second: ui_jueze_img_14
+  - first:
+      213: -9134170688592437077
+    second: ui_jueze_img_16
+  - first:
+      213: 5465720757751295600
+    second: ui_jueze_img_17
+  - first:
+      213: -7376896788542751847
+    second: ui_jueze_img_18
+  - first:
+      213: 3983273558850579502
+    second: ui_jueze_img_19
+  - first:
+      213: -6122957649472325755
+    second: ui_jueze_img_20
+  - first:
+      213: -4268925811316269010
+    second: ui_jueze_img_21
+  - first:
+      213: -3132020047562223489
+    second: ui_jueze_img_22
+  - first:
+      213: -5607194082213343403
+    second: ui_jueze_img_23
+  - first:
+      213: -7467718873029307190
+    second: ui_jueze_img_24
+  - first:
+      213: 7562083511985809366
+    second: ui_jueze_img_25
+  - first:
+      213: -1933003200209111711
+    second: ui_jueze_img_26
+  - first:
+      213: -1440510336155844398
+    second: ui_jueze_img_27
+  - first:
+      213: 6745253581083651458
+    second: ui_jueze_img_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ui_jueze_img_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1642
+        width: 410
+        height: 405
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49382716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jueze_img_02
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1642
+        width: 410
+        height: 405
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49382716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c216995e6fbd05590800000000000000
+      internalID: -7687402710460964564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jueze_img_03
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1642
+        width: 410
+        height: 405
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49382716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a369e93ab9fb44b30800000000000000
+      internalID: 4270749021839988282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jueze_img_04
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 1642
+        width: 410
+        height: 405
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49382716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aaf566673538f9e0800000000000000
+      internalID: -1587460356590667104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jueze_img_05
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1235
+        width: 410
+        height: 405
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49382716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf5e21f7cdd00e50800000000000000
+      internalID: 6773657690379804612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jueze_img_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 828
+        width: 410
+        height: 405
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49382716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc13d22d24156b50800000000000000
+      internalID: 6585692214189563072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jueze_img_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 421
+        width: 410
+        height: 405
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49382716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16db2c4806677000800000000000000
+      internalID: 33607708052280858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jueze_img_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 14
+        width: 410
+        height: 405
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49382716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0a9a45728ec3180800000000000000
+      internalID: -9134170688592437077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jueze_img_17
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1235
+        width: 410
+        height: 405
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49382716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07eae3f02142adb40800000000000000
+      internalID: 5465720757751295600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jueze_img_18
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1235
+        width: 410
+        height: 405
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49382716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b703e847fff9990800000000000000
+      internalID: -7376896788542751847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jueze_img_19
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 1235
+        width: 410
+        height: 405
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49382716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2cae7e823e674730800000000000000
+      internalID: 3983273558850579502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jueze_img_20
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 828
+        width: 410
+        height: 405
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49382716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587f0786572e60ba0800000000000000
+      internalID: -6122957649472325755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jueze_img_21
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 421
+        width: 410
+        height: 405
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49382716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e206ff3a79ab1c4c0800000000000000
+      internalID: -4268925811316269010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jueze_img_22
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 14
+        width: 410
+        height: 405
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49382716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70d6a36c54d884d0800000000000000
+      internalID: -3132020047562223489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jueze_img_23
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 828
+        width: 410
+        height: 405
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49382716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f400fb0be3f22b0800000000000000
+      internalID: -5607194082213343403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jueze_img_24
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 828
+        width: 410
+        height: 405
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49382716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac49b9a20455d5890800000000000000
+      internalID: -7467718873029307190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jueze_img_25
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 421
+        width: 410
+        height: 405
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49382716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7a0c573eae1f860800000000000000
+      internalID: 7562083511985809366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jueze_img_26
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 14
+        width: 410
+        height: 405
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49382716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165b7d5b4d79c25e0800000000000000
+      internalID: -1933003200209111711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jueze_img_27
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 421
+        width: 410
+        height: 405
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49382716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0072e3b77420ce0800000000000000
+      internalID: -1440510336155844398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_jueze_img_28
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 14
+        width: 410
+        height: 405
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49382716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d2c64e464fb9d50800000000000000
+      internalID: 6745253581083651458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 267e7b7ee7621644395d93545e851482
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
