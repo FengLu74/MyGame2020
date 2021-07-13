@@ -546,7 +546,8 @@ PlayerSettings:
   webGLLinkerTarget: 1
   webGLThreadsSupport: 0
   webGLWasmStreaming: 0
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    1: UNITY_POST_PROCESSING_STACK_V2;TMP;HOTFIX_ENABLE;AMPLIFY_SHADER_EDITOR
   platformArchitecture: {}
   scriptingBackend: {}
   il2cppCompilerConfiguration: {}

@@ -8,9 +8,9 @@ TrueTypeFontImporter:
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
-  fontName: Source Han Sans SC
+  fontName: Source Han Serif CN
   fontNames:
-  - Source Han Sans SC
+  - Source Han Serif CN
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
