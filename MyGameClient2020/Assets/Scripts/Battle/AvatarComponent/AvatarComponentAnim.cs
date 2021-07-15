@@ -8,6 +8,9 @@ namespace MGame.GameBattle.Logic
 {
     public class AvatarComponentAnim: AvatarComponentBase
     {
-
+        public override void Clear()
+        {
+            base.Clear();
+        }
     }
 }

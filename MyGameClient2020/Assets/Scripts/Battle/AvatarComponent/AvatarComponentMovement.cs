@@ -14,6 +14,12 @@ namespace MGame.GameBattle.Logic
     {
         private bool m_moving;
 
+        public override void Clear()
+        {
+            base.Clear();
+            m_moving = false;
+        }
+
         public void MoveToPos(FixVector3 pos)
         {
             if (!pAvatar.GetComponentMgr().State.IsCurrentPassiveState(AvatarPassiveState.noMoving) /*&& calculateErrataDistance(pAvatar.LocalPos, pos)*/)

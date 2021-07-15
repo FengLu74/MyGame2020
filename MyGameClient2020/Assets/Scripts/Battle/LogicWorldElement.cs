@@ -1,12 +1,12 @@
 ﻿using MGame.GameBattle.Logic.MMath;
 using MGame.GameBattle.Manager;
-
+using FrameWork.ReferencePool;
 namespace MGame.GameBattle.Logic
 {
     /// <summary>
     /// 战斗单位
     /// </summary>
-    public abstract class LogicWorldElement
+    public abstract class LogicWorldElement:IReference
     {
         private WorldElementType eType;
         private bool isActive = false;
@@ -17,6 +17,19 @@ namespace MGame.GameBattle.Logic
         private FixVector3 localForward = FixVector3.Forward;
         private bool forwardRight = true;
         public ElementData data;
+
+        public void Clear()
+        {
+            eType = WorldElementType.None;
+            isActive = false;
+            instanceId = 0;
+            localPos = FixVector3.Zero;
+            localScale = FixVector3.One;
+            localForward = FixVector3.Forward;
+            forwardRight = true;
+            data = null;
+        }
+
 
         public WorldElementType elementType
         {
@@ -100,6 +113,8 @@ namespace MGame.GameBattle.Logic
             }
             return pElement;
         }
+
+
     }
 }
 

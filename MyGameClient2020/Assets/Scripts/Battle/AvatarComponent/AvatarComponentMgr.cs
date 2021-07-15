@@ -30,6 +30,6 @@ namespace MGame.GameBattle.Logic
         {
 
         }
-        
+
     }
 }

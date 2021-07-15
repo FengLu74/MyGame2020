@@ -108,6 +108,7 @@ namespace FrameWork.ReferencePool
             }
 
             Type referenceType = reference.GetType();
+  
             InternalCheckReferenceType(referenceType);
             GetReferenceCollection(referenceType).Release(reference);
         }

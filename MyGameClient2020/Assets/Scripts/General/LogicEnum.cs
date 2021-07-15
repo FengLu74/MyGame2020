@@ -8,14 +8,25 @@ namespace MGame.GameBattle.Logic
 {
     public enum WorldElementType
     {
-        SceneBg,
-        AvatarHero,
-        AvatarNpc,
-        AvatarMonster,
-        ElementEffectObject,//特效表现
-        Buttle,
-        Bounce,
-        ThirdUser,          //用于释放奇遇卡，圣物等技能相关功能的avator对象，战场观察者
+        None,
+
+        Start,////////////////////////////////Start////////////////////////////////////////////////////
+
+        AvatarHero,                 //英雄对象
+
+        AvatarNpc,                  // NPC对象
+
+        AvatarMonster,              // 怪物对象
+
+        ElementEffectObject,        //特效表现对象（GameObject对象）
+
+        Buttle,                     // 子弹逻辑对象
+
+        Bounce,                     // 弹射对象
+
+        ThirdUser,                  //用于释放奇遇卡，圣物等技能相关功能的avator对象，战场观察者
+
+        End, ////////////////////////////////End////////////////////////////////////////////////////
     }
 
 

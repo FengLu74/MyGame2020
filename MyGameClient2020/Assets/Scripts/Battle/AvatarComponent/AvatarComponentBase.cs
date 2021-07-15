@@ -1,14 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using FrameWork.ReferencePool;
+
 /// <summary>
 /// avatar 组件基类
 /// </summary>
 namespace MGame.GameBattle.Logic
 {
-    public class AvatarComponentBase
+    public class AvatarComponentBase:IReference
     {
         protected LogicAvatar pAvatar;
         public bool updateWhileDead = false;
@@ -61,5 +58,11 @@ namespace MGame.GameBattle.Logic
 
             return pComponent;
         }
+        public virtual void Clear()
+        {
+          pAvatar = null;
+          updateWhileDead = false;
+        }
     }
+
 }

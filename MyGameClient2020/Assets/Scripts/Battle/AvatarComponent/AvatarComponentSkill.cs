@@ -18,5 +18,9 @@ namespace MGame.GameBattle.Logic
             //    curUsingSkill.CheckBreakSkill(breakType);
             //}
         }
+        public override void Clear()
+        {
+            base.Clear();
+        }
     }
 }

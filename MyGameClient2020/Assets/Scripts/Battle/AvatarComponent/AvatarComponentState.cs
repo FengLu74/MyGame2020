@@ -11,6 +11,14 @@ namespace MGame.GameBattle.Logic
         private int passivePlayAnimStateCounter = 0;
         private Dictionary<int, Dictionary<int, int>> avatarPassiveStateDict = new Dictionary<int, Dictionary<int, int>>();
 
+
+        public override void Clear()
+        {
+            base.Clear();
+            passivePlayAnimStateCounter = 0;
+            avatarPassiveStateDict.Clear();
+        }
+
         public bool IsPassivePlayingAnim
         {
             get

@@ -10,6 +10,9 @@ namespace MGame.GameBattle.Logic
 {
     public class AvatarComponentAI : AvatarComponentBase
     {
-
+        public override void Clear()
+        {
+            base.Clear();
+        }
     }
 }
