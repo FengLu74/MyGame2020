@@ -12,5 +12,10 @@ namespace MGame.GameBattle.Logic
         {
 
         }
+        public override void Clear()
+        {
+            base.Clear();
+
+        }
     }
 }

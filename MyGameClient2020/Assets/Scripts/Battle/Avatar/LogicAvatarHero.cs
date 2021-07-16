@@ -10,6 +10,15 @@ namespace MGame.GameBattle.Logic
     {
         public LogicAvatarHero():base(WorldElementType.AvatarHero)
         {
+            
+
+
+
+           
+        }
+        public override void Clear()
+        {
+            base.Clear();
 
         }
     }

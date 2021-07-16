@@ -20,7 +20,7 @@ namespace MGame.GameBattle.Logic
             dead,
             destroy,
         }
-        private AvatarComponentMgr pComponentMgr = new AvatarComponentMgr();
+        private AvatarComponentMgr pComponentMgr;
         private AvatarState state;
         private AvatarBattleBehaviourState battleBehaviourState = AvatarBattleBehaviourState.none;
         private Fix64 deadKeepTime;
@@ -42,6 +42,26 @@ namespace MGame.GameBattle.Logic
 
 
         public LogicAvatarData avatarData;
+
+
+        public override void Clear()
+        {
+            base.Clear();
+            pComponentMgr = null;
+            battleBehaviourState = AvatarBattleBehaviourState.none;
+            deadKeepTime = Fix64.Zero;
+            suspended = false;
+            destroyNextFrame = false;
+            hideAvatar = false;
+            entranceInitPos = FixVector3.Zero;
+            entranceKeepTimeFrame = 0;
+            entranceTimeFrameCounter = 0;
+            poseTimeFrameCounter = 0;
+            entranceLerp = Fix64.Zero;
+            avatarData = null;
+            entranceTargetPos = FixVector3.Zero;
+        }
+
         //////////////////////////////////////////////////LogicAvatar 属性////////////////////////////////////////////////////////////
         public bool IsDead
         {
@@ -87,6 +107,7 @@ namespace MGame.GameBattle.Logic
             base.Initialize(data);
             avatarData = (LogicAvatarData)data;
             state = AvatarState.sleep;
+            pComponentMgr = new AvatarComponentMgr();
             pComponentMgr.Initialize(this);
             if (elementType != WorldElementType.ThirdUser)
             {

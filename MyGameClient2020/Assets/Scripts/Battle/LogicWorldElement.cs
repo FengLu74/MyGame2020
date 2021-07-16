@@ -18,7 +18,7 @@ namespace MGame.GameBattle.Logic
         private bool forwardRight = true;
         public ElementData data;
 
-        public void Clear()
+        public virtual void Clear()
         {
             eType = WorldElementType.None;
             isActive = false;
