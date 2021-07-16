@@ -23,7 +23,7 @@ public class TestReferencePool
         {
             dd = 1;
         }
-        public  void Clear()
+        public override void Clear()
         {
             base.Clear();
 
@@ -38,7 +38,7 @@ public class TestReferencePool
         {
             cc = 2;
         }
-        public  void Clear()
+        public override void Clear()
         {
             base.Clear();
 
@@ -53,7 +53,7 @@ public class TestReferencePool
         {
             aa = 3;
         }
-        public void Clear()
+        public virtual void Clear()
         {
             aa = 0;
         }

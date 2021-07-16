@@ -29,5 +29,30 @@ public class loads : MonoBehaviour
 
         tp.Rel(xxx);
         Debug.Log("  " + xxx.aa + " cc = " + xxx.cc + " dd = " + xxx.dd);
+
+
+
+        Derieved d = new Derieved();
+        IBase ib = d;
+        ib.PrintName();
+
+    }
+}
+public interface IBase
+{
+     void  PrintName();
+}
+public class Base : IBase
+{
+    public  void PrintName()
+    {
+        Debug.Log("Class name : Base");
+    }
+}
+public class Derieved : Base
+{
+    public void PrintName()
+    {
+        Debug.Log("Class name : Derieved");
     }
 }
