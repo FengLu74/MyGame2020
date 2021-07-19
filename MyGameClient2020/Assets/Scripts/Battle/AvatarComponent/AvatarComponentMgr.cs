@@ -1,4 +1,4 @@
-﻿using MGame.GameBattle.Logic.MMath;
+﻿using Battle.Logic.MMath;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 /// <summary>
 /// avatar 管理组件类
 /// </summary>
-namespace MGame.GameBattle.Logic
+namespace Battle.Logic
 {
     public class AvatarComponentMgr
     {

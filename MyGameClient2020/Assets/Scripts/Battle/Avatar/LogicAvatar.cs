@@ -1,7 +1,7 @@
-﻿using MGame.GameBattle.Logic;
-using MGame.GameBattle.Logic.MMath;
+﻿
+using Battle.Logic.MMath;
 
-namespace MGame.GameBattle.Logic
+namespace Battle.Logic
 {
     public abstract class LogicAvatar : LogicWorldElement
     {

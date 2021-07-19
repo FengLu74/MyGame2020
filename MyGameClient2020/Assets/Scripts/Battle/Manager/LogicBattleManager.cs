@@ -1,8 +1,8 @@
-﻿using MGame.GameBattle.Logic.MMath;
+﻿using Battle.Logic.MMath;
 using MGame.General;
 using System.Collections.Generic;
 
-namespace MGame.GameBattle.Manager
+namespace Battle.Manager
 {
     public class LogicBattleManager
     {

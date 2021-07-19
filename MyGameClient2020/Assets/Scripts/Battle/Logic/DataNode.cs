@@ -1,11 +1,7 @@
-﻿using MGame.GameBattle.Logic.MMath;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Battle.Logic.MMath;
 
-namespace MGame.Logic
+
+namespace Game.Logic
 {
     public abstract class DataNode
     {

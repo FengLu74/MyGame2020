@@ -1,4 +1,4 @@
-﻿namespace MGame.GameBattle.Logic.MMath
+﻿namespace Battle.Logic.MMath
 {
 
     public struct FixVector3

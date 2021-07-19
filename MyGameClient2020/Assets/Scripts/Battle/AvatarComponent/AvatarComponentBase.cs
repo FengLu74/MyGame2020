@@ -3,7 +3,7 @@
 /// <summary>
 /// avatar 组件基类
 /// </summary>
-namespace MGame.GameBattle.Logic
+namespace Battle.Logic
 {
     public class AvatarComponentBase:IReference
     {

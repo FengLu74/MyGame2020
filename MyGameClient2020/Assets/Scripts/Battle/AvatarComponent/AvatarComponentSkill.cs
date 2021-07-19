@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 /// <summary>
 /// avatar 技能组件
 /// </summary>
-namespace MGame.GameBattle.Logic
+namespace Battle.Logic
 {
     public class AvatarComponentSkill : AvatarComponentBase
     {

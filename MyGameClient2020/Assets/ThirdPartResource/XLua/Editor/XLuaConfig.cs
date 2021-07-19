@@ -152,7 +152,7 @@ public static class XLuaConfig
         typeof(MGame.General.UnityDefineToLua),
         typeof(MGame.General.TSingletonMono<>),
          //typeof(MGame.GameBattle.Manager.LogicAvatarManager),
-        typeof(MGame.GameBattle.Manager.LogicManager),
+        typeof(Battle.Manager.LogicManager),
         typeof(MGame.Msic.GeneralMsic),
 };
 

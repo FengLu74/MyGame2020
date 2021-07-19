@@ -1,4 +1,4 @@
-﻿using MGame.GameBattle.Logic.MMath;
+﻿using Battle.Logic.MMath;
 using MGame.General;
 using System;
 using System.Collections.Generic;
@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 /// <summary>
 /// avatar 移动组件
 /// </summary>
-namespace MGame.GameBattle.Logic
+namespace Battle.Logic
 {
     public class AvatarComponentMovement : AvatarComponentBase
     {

@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
 
-namespace MGame.GameBattle.Logic
+namespace Battle.Logic
 {
     public enum WorldElementType
     {
@@ -46,14 +42,28 @@ namespace MGame.GameBattle.Logic
         ComponentSpecialAI,
         End
     }
-
+    /// <summary>
+    /// 节点执行结果
+    /// </summary>
     public enum BNodeExecuteState
     {
         Success,
         Running,
         fail,
     }
-
+    /// <summary>
+    /// 节点运行状态
+    /// </summary>
+    public enum BNodeOperationState
+    {
+        None,
+        Inactive,
+        Running,
+        End
+    }
+    /// <summary>
+    /// 节点类型
+    /// </summary>
     public enum BNodeType
     {
         eDecoratorNot,
@@ -81,6 +91,16 @@ namespace MGame.GameBattle.Logic
         eBNodeActionClearLockEnemy,
         eBNodeConditionIsClearLockEnemy
     }
+    /// <summary>
+    /// 行为类型
+    /// </summary>
+    public enum BActionType
+    {
+
+    }
+
+
+
 
 
     public enum CommonSkillState

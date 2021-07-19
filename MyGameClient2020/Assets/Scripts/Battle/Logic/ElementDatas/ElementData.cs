@@ -1,10 +1,10 @@
-﻿using MGame.GameBattle.Logic.MMath;
-using MGame.GameBattle.Manager;
-using MGame.Logic;
+﻿using Battle.Logic.MMath;
+using Battle.Manager;
+using Game.Logic;
 using System.Collections.Generic;
 
 
-namespace MGame.GameBattle.Logic
+namespace Battle.Logic
 {
     /// <summary>
     /// 元素基础数据

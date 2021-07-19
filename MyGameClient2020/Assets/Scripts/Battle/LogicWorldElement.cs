@@ -1,7 +1,8 @@
-﻿using MGame.GameBattle.Logic.MMath;
-using MGame.GameBattle.Manager;
+﻿
 using FrameWork.ReferencePool;
-namespace MGame.GameBattle.Logic
+using Battle.Logic.MMath;
+
+namespace Battle.Logic
 {
     /// <summary>
     /// 战斗单位

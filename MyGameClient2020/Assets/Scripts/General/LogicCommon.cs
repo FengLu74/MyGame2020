@@ -1,10 +1,10 @@
-﻿using MGame.GameBattle.Logic.MMath;
+﻿using Battle.Logic.MMath;
 using MGame.General;
-using MGame.Logic;
+using Game.Logic;
 using System.Collections.Generic;
+using Battle.Logic;
 
-
-namespace MGame.GameBattle.Logic
+namespace Battle.Logic
 {
     public class LogicCommon
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MGame.GameBattle.Logic.MMath
+namespace Battle.Logic.MMath
 {
 
     public partial struct Fix64 : IEquatable<Fix64>, IComparable<Fix64>

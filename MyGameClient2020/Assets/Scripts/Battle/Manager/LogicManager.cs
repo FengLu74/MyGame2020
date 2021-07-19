@@ -1,6 +1,6 @@
-﻿using MGame.GameBattle.Logic.MMath;
+﻿using Battle.Logic.MMath;
 
-namespace MGame.GameBattle.Manager
+namespace Battle.Manager
 {
     public class LogicManager
     {
