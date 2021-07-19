@@ -44,17 +44,72 @@ namespace FrameWork.Behaviour.Base
         /// </summary>
         protected NodeParam nodeData;
 
+        public BNode(BlackBoard bb,NodeParam data)
+        {
+            bbChunk = bb;
+            nodeData = data;
+            runState = BNodeOperationState.Start;
+            NodeName = data.nodeName;
+        }
+        public abstract void Initialize();
+
+        protected virtual void Open()
+        { }
+        public virtual void Close()
+        {
+            runState = BNodeOperationState.End;
+        }
+        public virtual void ForceEnd()
+        {
+            runState = BNodeOperationState.End;
+        }
+
+        public string GetNodeName()
+        { return NodeName; }
+
+        public virtual BNodeExecuteState Execute()
+        {
+            if(runState!= BNodeOperationState.Running)
+            {
+                Open();
+                runState = BNodeOperationState.Running;
+            }
+            return BNodeExecuteState.Success;
+        }
+        protected BNodeExecuteState ReturnResultAndClose(BNodeExecuteState state)
+        {
+            executeState = state;
+            switch(state)
+            {
+                case BNodeExecuteState.Success:
+                    Close();
+                    break;
+                case BNodeExecuteState.fail:
+                    Close();
+                    break;
+                case BNodeExecuteState.Running:
+                    break;
+            }
+            return state;
+        }
+
+        public static BNode NodeFactory(LogicAvatar avatar,BNodeType bType,BlackBoard bb,NodeParam data)
+        {
+            BNode bNode = null;
+            switch(bType)
+            {
+                case BNodeType.eDecoratorNot:
+                    bNode = ReferencePool.Acquire(BNodeDecoratorNot);
+                    break;
+            }
+            return bNode;
+        }
 
 
 
 
 
-
-
-
-
-
-        public  void Clear()
+        public virtual void Clear()
         {
             
         }

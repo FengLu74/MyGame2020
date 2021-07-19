@@ -57,6 +57,7 @@ namespace Battle.Logic
     public enum BNodeOperationState
     {
         None,
+        Start,
         Inactive,
         Running,
         End
@@ -66,6 +67,8 @@ namespace Battle.Logic
     /// </summary>
     public enum BNodeType
     {
+        eStart = 0,
+
         eDecoratorNot,
         eCompositeSelector,
         eCompositeSequence,
@@ -89,19 +92,15 @@ namespace Battle.Logic
         eBNodeConditionIsRepulseState,
         eBNodeActionRepulse,
         eBNodeActionClearLockEnemy,
-        eBNodeConditionIsClearLockEnemy
+        eBNodeConditionIsClearLockEnemy,
+        eConditionVigilanceRangeHasFriend,//警戒范围内是否有友军单位
+        eConditionAttackRangeHasFriend,//攻击范围内是否有友军单位（攻击单位是从这里传递）
+        eActionEffectToFriend,//向友军执行某个技能效果
+        eActionMoveToFriend,//向友军移动
+
+        eEnd ,
     }
-    /// <summary>
-    /// 行为类型
-    /// </summary>
-    public enum BActionType
-    {
-
-    }
-
-
-
-
+  
 
     public enum CommonSkillState
     {
