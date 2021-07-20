@@ -13,6 +13,7 @@ namespace FrameWork.Behaviour.Base
         public override void Initialize(LogicAvatar avatar, BlackBoard bb, NodeParam data)
         {
             base.Initialize(avatar, bb, data);
+            base.SetStructType(NodeStructType.Action);
         }
         public override void Clear()
         {

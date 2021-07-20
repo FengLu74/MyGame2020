@@ -14,6 +14,7 @@ namespace FrameWork.Behaviour.Base
         public override void Initialize(LogicAvatar avatar, BlackBoard bb, NodeParam data)
         {
             base.Initialize(avatar, bb, data);
+            base.SetStructType(NodeStructType.Condition);
         }
         public override void Clear()
         {

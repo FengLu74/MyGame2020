@@ -8,7 +8,7 @@ namespace FrameWork.Behaviour.Base
     /// </summary>
     public abstract class BNodeComposite:BNode
     {
-        protected List<BNode> childNodes ;
+        public List<BNode> childNodes ;
         protected bool forceReevaluate = false;
         protected int runningNodeIndex = -1;
         public BNodeComposite(/*BlackBoard bb,NodeParam data*/)/*:base(bb,data)*/
@@ -18,6 +18,7 @@ namespace FrameWork.Behaviour.Base
         {
             childNodes = new List<BNode>();
             base.Initialize(avatar, bb, data);
+            base.SetStructType(NodeStructType.Composite);
         }
         public BNode[] GetChildsArray()
         { return childNodes.ToArray(); }
@@ -49,6 +50,20 @@ namespace FrameWork.Behaviour.Base
             forceReevaluate = false;
             runningNodeIndex = -1;
             base.Clear();
+        }
+        public override void ReleaseChilds()
+        {
+            base.ReleaseChilds();
+            releaseChilds();
+        }
+
+        private void releaseChilds()
+        {
+            if (childNodes == null || childNodes.Count == 0) return;
+            for(int i=0;i< childNodes.Count;i++)
+            {
+                childNodes[i].ReleaseChilds();
+            }
         }
     }
 }

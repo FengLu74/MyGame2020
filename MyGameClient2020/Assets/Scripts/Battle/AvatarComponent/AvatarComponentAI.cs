@@ -1,5 +1,6 @@
 ﻿using System;
-
+using FrameWork.AI;
+using FrameWork.Behaviour.Base;
 /// <summary>
 /// avatar AI组件
 /// ps： 逻辑帧轮询根节点，暂不考虑打断机制。
@@ -13,9 +14,43 @@ namespace Battle.Logic
     public class AvatarComponentAI : AvatarComponentBase
     {
 
+        private BlackBoard blackBoard;
+        private BNode nodeRoot;
 
+        public override void Initialize(LogicAvatar pAvatar)
+        {
+            base.Initialize(pAvatar);
+            //目前先试用配置表格方式实现 后续要通过编辑器可视化数据
+            createBehaviourTree();
+        }
+        public override void Update()
+        {
+            base.Update();
+            //轮询根节点
+            nodeRoot.Execute();
+        }
+        public override void OnDestroy()
+        {
+            base.OnDestroy();
+            nodeRoot.Close();
+            nodeRoot.ReleaseChilds();
+        }
+
+        private BNode createBehaviourTree()
+        {
+            BNode node = null;
+            return node;
+        }
+
+
+        public BNode GetRootNode()
+        {
+            return nodeRoot;
+        }
         public override void Clear()
         {
+            blackBoard = null;
+            nodeRoot = null;
             base.Clear();
         }
     }

@@ -46,6 +46,8 @@ namespace FrameWork.Behaviour.Base
         /// </summary>
         protected NodeParam nodeData;
 
+        protected NodeStructType nodeStructType = NodeStructType.None;
+
         //public BNode(BlackBoard bb,NodeParam data)
         //{
         //    bbChunk = bb;
@@ -65,6 +67,14 @@ namespace FrameWork.Behaviour.Base
             logicAvatar = avatar;
         }
 
+        public void SetStructType(NodeStructType structType)
+        {
+            nodeStructType = structType;
+        }
+        public NodeStructType GetStructType()
+        {
+            return nodeStructType;
+        }
         protected virtual void Open()
         { }
         public virtual void Close()
@@ -135,5 +145,42 @@ namespace FrameWork.Behaviour.Base
         {
             
         }
+
+        public virtual void ReleaseChilds()
+        { }
+
+
+        //public void ClearAll(BNode node)
+        //{
+        //    if(node==null)
+        //    {
+        //        return;
+        //    }
+        //    NodeStructType type = node.GetStructType();
+        //    if(type == NodeStructType.None)
+        //    {
+        //        return;
+        //    }
+        //    switch (type)
+        //    {
+        //        case NodeStructType.Action:
+        //        case NodeStructType.Condition:
+        //            // 直接回收
+        //            ReferencePool.ReferencePool.Release(node);
+        //            break;
+        //        case NodeStructType.Composite:
+        //            BNodeComposite nodeComposite = (BNodeComposite)node;
+        //            iteratorCompositeNode(nodeComposite);
+ 
+        //            break;
+        //        case NodeStructType.Decorator:
+        //            break;
+        //    }
+
+        //}
+
+
+
+
     }
 }

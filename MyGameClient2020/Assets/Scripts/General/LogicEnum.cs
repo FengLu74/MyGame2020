@@ -62,6 +62,14 @@ namespace Battle.Logic
         Running,
         End
     }
+    public enum NodeStructType
+    {
+        None,
+        Composite,
+        Action,         // 行为节点 无子节点
+        Decorator,
+        Condition,      // 条件节点 无子节点
+    }
     /// <summary>
     /// 节点类型
     /// </summary>
