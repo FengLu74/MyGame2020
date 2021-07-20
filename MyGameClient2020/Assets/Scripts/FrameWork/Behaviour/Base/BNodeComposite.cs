@@ -1,6 +1,6 @@
 ﻿using FrameWork.AI;
 using System.Collections.Generic;
-
+using Battle.Logic;
 namespace FrameWork.Behaviour.Base
 {
     /// <summary>
@@ -8,13 +8,16 @@ namespace FrameWork.Behaviour.Base
     /// </summary>
     public abstract class BNodeComposite:BNode
     {
-        protected List<BNode> childNodes = new List<BNode>();
+        protected List<BNode> childNodes ;
         protected bool forceReevaluate = false;
         protected int runningNodeIndex = -1;
-        public BNodeComposite(BlackBoard bb,NodeParam data):base(bb,data)
+        public BNodeComposite(/*BlackBoard bb,NodeParam data*/)/*:base(bb,data)*/
         { }
-        public override void Initialize()
+
+        public override void Initialize(LogicAvatar avatar, BlackBoard bb, NodeParam data)
         {
+            childNodes = new List<BNode>();
+            base.Initialize(avatar, bb, data);
         }
         public BNode[] GetChildsArray()
         { return childNodes.ToArray(); }
@@ -42,6 +45,9 @@ namespace FrameWork.Behaviour.Base
 
         public override void Clear()
         {
+            childNodes = null;
+            forceReevaluate = false;
+            runningNodeIndex = -1;
             base.Clear();
         }
     }

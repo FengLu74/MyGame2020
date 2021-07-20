@@ -1,4 +1,5 @@
-﻿using FrameWork.AI;
+﻿using Battle.Logic;
+using FrameWork.AI;
 
 namespace FrameWork.Behaviour.Base
 {
@@ -7,10 +8,11 @@ namespace FrameWork.Behaviour.Base
     /// </summary>
     public abstract class BNodeAction:BNode
     {
-        public BNodeAction(BlackBoard bb,NodeParam data):base(bb,data)
+        public BNodeAction()
         { }
-        public override void Initialize()
+        public override void Initialize(LogicAvatar avatar, BlackBoard bb, NodeParam data)
         {
+            base.Initialize(avatar, bb, data);
         }
         public override void Clear()
         {

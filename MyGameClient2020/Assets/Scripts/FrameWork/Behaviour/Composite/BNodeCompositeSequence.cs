@@ -11,7 +11,7 @@ namespace FrameWork.Behaviour.Composite
     public class BNodeCompositeSequence : BNodeComposite
     {
         private int lastRunIndex;
-        public BNodeCompositeSequence(BlackBoard bb,NodeParam data):base(bb,data)
+        public BNodeCompositeSequence(/*BlackBoard bb,NodeParam data*/)/*:base(bb,data)*/
         { }
 
         protected override void Open()

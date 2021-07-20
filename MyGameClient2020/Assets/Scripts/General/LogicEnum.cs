@@ -69,12 +69,10 @@ namespace Battle.Logic
     {
         eStart = 0,
 
-        eDecoratorNot,
         eCompositeSelector,
         eCompositeSequence,
-        eCompositeParallelSelector,
-        eCompositeParallelSequence,
-        eCompositeParallelHybird,
+        eCompositeParallel,
+
         eConditionAttackRangeHasEnemy,
         eActionAttackEnemy,
         eConditionVigilanceRangeHasEnemy,

@@ -12,13 +12,14 @@ namespace FrameWork.Behaviour.Composite
     {
         private int lastRunIndex;
         private Dictionary<int,BNodeExecuteState> childNodeExecuteStateDict = new Dictionary<int,BNodeExecuteState>();
-        public BNodeCompositeParallel(BlackBoard bb,NodeParam data):base(bb,data)
+        public BNodeCompositeParallel(/*BlackBoard bb,NodeParam data*/)/*:base(bb,data)*/
         { }
+ 
         protected override void Open()
         {
             base.Open();
             childNodes.Reverse();
-
+            
         }
         public override BNodeExecuteState Execute()
         {
@@ -130,6 +131,7 @@ namespace FrameWork.Behaviour.Composite
         public override void Clear()
         {
             lastRunIndex = 0;
+            childNodeExecuteStateDict.Clear();
             base.Clear();
         }
     }

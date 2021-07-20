@@ -86,9 +86,9 @@ namespace FrameWork.ReferencePool
                 }
             }
 
-            public T Acquire<T> () where T:class,IReference,new()
+            public T Acquire<T>() where T : class, IReference, new()
             {
-                if(typeof(T)!=m_ReferenceType)
+                if (typeof(T) != m_ReferenceType)
                 {
 
                 }
@@ -102,6 +102,8 @@ namespace FrameWork.ReferencePool
                 m_AddReferenceCount++;
                 return new T();
             }
+
+
 
             public IReference Acquire()
             {

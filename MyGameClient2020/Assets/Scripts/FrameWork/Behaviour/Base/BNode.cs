@@ -2,6 +2,8 @@
 using FrameWork.ReferencePool;
 using Battle.Logic;
 using FrameWork.AI;
+using FrameWork.Behaviour.Composite;
+
 
 namespace FrameWork.Behaviour.Base
 {
@@ -44,14 +46,24 @@ namespace FrameWork.Behaviour.Base
         /// </summary>
         protected NodeParam nodeData;
 
-        public BNode(BlackBoard bb,NodeParam data)
+        //public BNode(BlackBoard bb,NodeParam data)
+        //{
+        //    bbChunk = bb;
+        //    nodeData = data;
+        //    runState = BNodeOperationState.Start;
+        //    NodeName = data.nodeName;
+        //}
+        public BNode()
+        {
+        }
+        public virtual void Initialize(LogicAvatar avatar,BlackBoard bb,NodeParam data)
         {
             bbChunk = bb;
             nodeData = data;
             runState = BNodeOperationState.Start;
             NodeName = data.nodeName;
+            logicAvatar = avatar;
         }
-        public abstract void Initialize();
 
         protected virtual void Open()
         { }
@@ -98,14 +110,24 @@ namespace FrameWork.Behaviour.Base
             BNode bNode = null;
             switch(bType)
             {
-                case BNodeType.eDecoratorNot:
-                    bNode = ReferencePool.Acquire(BNodeDecoratorNot);
+                case BNodeType.eCompositeSelector:
+                    bNode = ReferencePool.ReferencePool.Acquire<BNodeCompositeSelector>();
                     break;
+                case BNodeType.eCompositeSequence:
+                    bNode = ReferencePool.ReferencePool.Acquire<BNodeCompositeSequence>();
+                    break;
+                case BNodeType.eCompositeParallel:
+                    bNode = ReferencePool.ReferencePool.Acquire<BNodeCompositeParallel>();
+                    break;
+            }
+            if(bNode!=null)
+            {
+                bNode.Initialize(avatar, bb, data);
             }
             return bNode;
         }
 
-
+    
 
 
 

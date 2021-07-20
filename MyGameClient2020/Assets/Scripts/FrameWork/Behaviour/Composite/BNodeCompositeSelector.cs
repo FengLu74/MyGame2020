@@ -13,7 +13,7 @@ namespace FrameWork.Behaviour.Composite
     public class BNodeCompositeSelector:BNodeComposite
     {
         private int lastRunIndex;
-        public BNodeCompositeSelector(BlackBoard bb,NodeParam data):base(bb,data)
+        public BNodeCompositeSelector(/*BlackBoard bb,NodeParam data*/)/*:base(bb,data)*/
         { }
         protected override void Open()
         {
