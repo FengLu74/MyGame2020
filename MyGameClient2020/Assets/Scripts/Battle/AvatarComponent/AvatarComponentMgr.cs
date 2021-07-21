@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 /// <summary>
 /// avatar 管理组件类
 /// </summary>
+/// 2021 - 7 - 21 后续建议使用 ECS 组件式开发
 namespace Battle.Logic
 {
     public class AvatarComponentMgr
