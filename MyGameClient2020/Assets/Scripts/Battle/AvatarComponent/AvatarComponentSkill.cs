@@ -18,6 +18,13 @@ namespace Battle.Logic
             //    curUsingSkill.CheckBreakSkill(breakType);
             //}
         }
+        /// <summary>
+        /// 释放技能
+        /// </summary>
+        /// 
+        /// 强制结束当前技能
+
+
         public override void Clear()
         {
             base.Clear();
