@@ -1,5 +1,6 @@
 ﻿using Battle.Logic.MMath;
-using Battle.Manager;
+
+using FrameWork.Camp;
 using Game.Logic;
 using System.Collections.Generic;
 
