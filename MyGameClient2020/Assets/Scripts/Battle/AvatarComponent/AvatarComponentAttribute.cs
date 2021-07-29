@@ -1,12 +1,14 @@
 ﻿using Battle.Logic.MMath;
 using System.Collections.Generic;
 using Battle.Logic.Numeric;
+using FrameWork.Camp;
+
 namespace Battle.Logic
 {
     public class AvatarComponentAttribute : AvatarComponentBase
     {
         public Dictionary<int, Fix64> NumericDic ;
-
+        public BattleCampInfo AvatarCamp;
         public override void Initialize(LogicAvatar pAvatar)
         {
             base.Initialize(pAvatar);

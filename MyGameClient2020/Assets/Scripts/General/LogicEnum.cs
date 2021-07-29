@@ -171,4 +171,14 @@ namespace Battle.Logic
         public static readonly int repulse = 128;//强制远离目标者（击退）
         public static readonly int clearEnemy = 256;//强制清除紫色锁定的敌人（清除锁敌）
     }
+    /// <summary>
+    ///  技能类型
+    /// </summary>
+    public enum SkillType
+    {
+        None = 0,
+        NormalSkill,                     // 普通技能
+        DynamicSkill,                    // 主动技能
+        PassiveSkill,                   // 被动技能
+    }
 }

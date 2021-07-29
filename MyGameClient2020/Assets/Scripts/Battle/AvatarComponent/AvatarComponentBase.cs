@@ -13,6 +13,10 @@ namespace Battle.Logic
         {
             this.pAvatar = pAvatar;
         }
+        public virtual void Start()
+        {
+
+        }
         public virtual void Update()
         {
 

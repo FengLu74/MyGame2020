@@ -1,4 +1,5 @@
 ﻿using Battle.Logic.MMath;
+using FrameWork.Skill;
 
 namespace Battle.Manager
 {
@@ -9,7 +10,7 @@ namespace Battle.Manager
         private Fix64 _secondPerFrame;
         private int _logicFrameCounter;
         public bool _pause;
-
+        public SkillMangerHelper skillManager;
 
 
         public int frameCountPerSecond
