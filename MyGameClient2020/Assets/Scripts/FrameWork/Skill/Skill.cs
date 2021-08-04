@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Battle.Logic;
+using Battle.Logic.MMath;
 using FrameWork.Camp;
 using FrameWork.ReferencePool;
 namespace FrameWork.Skill
@@ -41,6 +42,9 @@ namespace FrameWork.Skill
         private Action<int> skillUpdateAction;
         private Action<int> skillEndAction;
         private Action<int> skillDestroyAction;
+        private bool targetIsSelf = false;
+        private Fix64 useRangeMax;
+        private int usePriority;
         public Skill()
         {
 
@@ -75,6 +79,24 @@ namespace FrameWork.Skill
         public void End()
         {
 
+        }
+        public bool IsTargetIsSelf()
+        {
+            return targetIsSelf;
+        }
+        //技能最大施法范围
+        public Fix64 GetUseRangeMax()
+        {
+            return useRangeMax;
+        }
+        // 技能使用优先级
+        public int GetUsePriority()
+        {
+            return usePriority;
+        }
+        public bool IsCDOver()
+        {
+            return false;
         }
 
         public void Destroy()

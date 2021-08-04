@@ -688,6 +688,10 @@
       <Project>{344575D2-DA19-94C5-B7F2-D8BE21CB0307}</Project>
       <Name>spine-unity-editor</Name>
     </ProjectReference>
+    <ProjectReference Include="AmplifyShaderEditor.csproj">
+      <Project>{B8644580-3A8E-855B-ECF2-551ADFC9BDC0}</Project>
+      <Name>AmplifyShaderEditor</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

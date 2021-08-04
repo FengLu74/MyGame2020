@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Battle.Logic.MMath;
 using Battle.Manager;
 using FrameWork.Skill;
 /// <summary>
@@ -105,14 +106,61 @@ namespace Battle.Logic
                 }
                 else
                 {
-
                 }
             }
             else
             {
-
             }
         }
+        /// <summary>
+        /// 根据 距离，普攻 得到一个可使用的技能
+        /// </summary>
+        /// <param name="skillRange">距离</param>
+        /// <param name="justNormal">是否为普攻</param>
+        /// <returns></returns>
+        public Skill GetCanUseSkill(Fix64 skillRange,bool justNormal = false)
+        {
+            Skill s = null;
+            if(!justNormal)
+            {
+                foreach(var kv in ownActiveSkillDict)
+                {
+                    if((kv.Value.IsTargetIsSelf()|| kv.Value.GetUseRangeMax()>= skillRange) && kv.Value.IsCDOver())
+                    {
+                        if(s==null)
+                        {
+                            s = kv.Value;
+                            continue;
+                        }
+                    }
+                    if(kv.Value.GetUsePriority() < s.GetUsePriority())
+                    {
+                        s = kv.Value;
+                    }
+                    
+                }
+            }
+            if(s==null)
+            {
+                foreach (var kv in ownNormalSkillDict)
+                {
+                    if ((kv.Value.IsTargetIsSelf() || kv.Value.GetUseRangeMax() >= skillRange) && kv.Value.IsCDOver())
+                    {
+                        if (s == null)
+                        {
+                            s = kv.Value;
+                            continue;
+                        }
+                    }
+                    if (kv.Value.GetUsePriority() < s.GetUsePriority())
+                    {
+                        s = kv.Value;
+                    }
+                }
+            }
+            return s;
+        }
+
         public override void Clear()
         {
             toUseNormalSkillQueue = null;
