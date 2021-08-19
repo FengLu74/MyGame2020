@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -28,5 +29,14 @@ namespace FrameWork.NetWork
         {
             acceptCallBack.Invoke(channel);
         }
+
+        public abstract NetChannel ConnectChannel(IPEndPoint ipEndPoint);
+
+        public abstract NetChannel GetNetChannel(string address);
+
+        public abstract void Remove(long channelId);
+
+        public abstract void Update();
+
     }
 }

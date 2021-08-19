@@ -3,6 +3,9 @@ using System.IO;
 
 namespace FrameWork.StreamBuffer
 {
+    /// <summary>
+    /// 环形缓冲器
+    /// </summary>
     public class CircularBuff : Stream
     {
         public override bool CanRead
