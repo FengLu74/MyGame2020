@@ -36,8 +36,16 @@ Material:
     - _StencilComp: 0
     - _StencilRef: 1
     - _StraightAlphaInput: 0
+    - _gaodux: 0
+    - _gaoduy: 0
+    - _jinshengrotate: 0.5
+    - _jinshengx: 0
+    - _jinshengy: 0
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _FlickMultColor: {r: 0, g: 0, b: 0, a: 1}
     - _FlickerColor: {r: 1, g: 1, b: 1, a: 1}
     - _Flip: {r: 1, g: 1, b: 1, a: 1}
     - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
+    - _gaoduColor: {r: 1, g: 1, b: 1, a: 0}
+    - _jinshengColor: {r: 1, g: 1, b: 1, a: 0}

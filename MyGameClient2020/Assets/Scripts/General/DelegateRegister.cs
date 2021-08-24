@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace MGame.General
+namespace Common.General
 {
     public delegate void DelegateObj(GameObject obj);
     public delegate void DelegateBool(bool yn);

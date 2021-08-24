@@ -1,6 +1,6 @@
 ﻿
 
-namespace MGame.General
+namespace Common.General
 {
 
     public static class UnityEngineObjectExtention

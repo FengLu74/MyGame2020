@@ -146,14 +146,14 @@ public static class XLuaConfig
 
 
         //Game
-        typeof(MGame.General.LuaCallCSharpEvent),
-        typeof(MGame.General.UnityEngineObjectExtention),
-        typeof(MGame.General.CachedMono),
-        typeof(MGame.General.UnityDefineToLua),
-        typeof(MGame.General.TSingletonMono<>),
+        typeof(Common.General.LuaCallCSharpEvent),
+        typeof(Common.General.UnityEngineObjectExtention),
+        typeof(Common.General.CachedMono),
+        typeof(Common.General.UnityDefineToLua),
+        typeof(Common.General.TSingletonMono<>),
          //typeof(MGame.GameBattle.Manager.LogicAvatarManager),
         typeof(Battle.Manager.LogicManager),
-        typeof(MGame.Msic.GeneralMsic),
+        typeof(Common.Msic.GeneralMsic),
 };
 
     //C#静态调用Lua的配置（包括事件的原型），仅可以配delegate，interface
@@ -165,20 +165,20 @@ public static class XLuaConfig
                 typeof(Action<double>),
                 typeof(UnityEngine.Events.UnityAction),
                 typeof(System.Collections.IEnumerator),
-                typeof(MGame.General.DelegateObj),
-                typeof(MGame.General.DelegateBool),
-                typeof(MGame.General.DelegateString),
-                typeof(MGame.General.DelegateInt),
-                typeof(MGame.General.DelegateFloat),
-                typeof(MGame.General.DelegateNone),
+                typeof(Common.General.DelegateObj),
+                typeof(Common.General.DelegateBool),
+                typeof(Common.General.DelegateString),
+                typeof(Common.General.DelegateInt),
+                typeof(Common.General.DelegateFloat),
+                typeof(Common.General.DelegateNone),
 
-                typeof(MGame.General.DelegateObj_s),
-                typeof(MGame.General.DelegateBool_s),
-                typeof(MGame.General.DelegateString_s),
-                typeof(MGame.General.DelegateInt_s),
-                typeof(MGame.General.DelegateFloat_s),
-                typeof(MGame.General.DelegateNone_s),
-                typeof(MGame.General.DelegateNone_ss),
+                typeof(Common.General.DelegateObj_s),
+                typeof(Common.General.DelegateBool_s),
+                typeof(Common.General.DelegateString_s),
+                typeof(Common.General.DelegateInt_s),
+                typeof(Common.General.DelegateFloat_s),
+                typeof(Common.General.DelegateNone_s),
+                typeof(Common.General.DelegateNone_ss),
 
                  typeof(Dictionary<string, int>),
             };

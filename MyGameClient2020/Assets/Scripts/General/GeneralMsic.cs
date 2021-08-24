@@ -6,7 +6,7 @@ using System.Text;
 using UnityEngine;
 using UnityEngine.EventSystems;
 
-namespace MGame.Msic
+namespace Common.Msic
 {
     public class GeneralMsic
     {

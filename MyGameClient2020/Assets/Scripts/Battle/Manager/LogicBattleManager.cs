@@ -1,5 +1,5 @@
 ﻿using Battle.Logic.MMath;
-using MGame.General;
+using Common.General;
 using System.Collections.Generic;
 
 namespace Battle.Manager

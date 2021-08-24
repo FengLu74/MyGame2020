@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace MGame.General
+namespace Common.General
 {
     [System.Serializable]
     public class BinaryTable

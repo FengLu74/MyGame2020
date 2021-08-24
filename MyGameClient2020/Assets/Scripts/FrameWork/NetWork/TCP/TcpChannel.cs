@@ -25,7 +25,7 @@ namespace FrameWork.NetWork
         {
 
         }
-        public TcpChannel(IPEndPoint iPEndPoint,NetService service):base(service,ChannelType.Connect)
+        public TcpChannel(IPEndPoint iPEndPoint,TcpService service):base(service,ChannelType.Connect)
         {
 
         }

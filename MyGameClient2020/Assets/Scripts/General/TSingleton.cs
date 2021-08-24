@@ -1,6 +1,6 @@
-﻿using MGame.Msic;
+﻿using Common.Msic;
 
-namespace MGame.General
+namespace Common.General
 {
     public class TSingleton<T> where T : class
     {

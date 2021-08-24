@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 
 
-namespace MGame.General
+namespace Common.General
 {
    
     public class TSingletonMono<T> : CachedMono where T : CachedMono

@@ -1,4 +1,4 @@
-﻿namespace MGame.General
+﻿namespace Common.General
 {
     public class MasonRandom
     {

@@ -1,7 +1,7 @@
 ﻿
 using System.Collections.Generic;
 
-namespace MGame.General
+namespace Common.General
 {
     public class BinaryTableLoader : TSingleton<BinaryTableLoader>
     {
@@ -29,7 +29,7 @@ namespace MGame.General
         {
             if (binarytableDict == null)
             {
-               // binarytableDict = ResourcesManager.Instance.LoadBinaryTables();
+                //binarytableDict = ResourcesManager.Instance.LoadBinaryTables();
             }
         }
 

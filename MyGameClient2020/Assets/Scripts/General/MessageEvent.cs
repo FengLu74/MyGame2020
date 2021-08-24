@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 
 
-namespace MGame.General
+namespace Common.General
 {
     public delegate void Callback();
     public delegate void Callback<T>(T arg1);
