@@ -1,4 +1,5 @@
 ﻿
+using Manager;
 using System.Collections.Generic;
 
 namespace Common.General
@@ -29,7 +30,7 @@ namespace Common.General
         {
             if (binarytableDict == null)
             {
-                //binarytableDict = ResourcesManager.Instance.LoadBinaryTables();
+                binarytableDict = ResourcesManager.Instance.LoadBinaryTables();
             }
         }
 

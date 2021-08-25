@@ -1,21 +1,48 @@
 ﻿using Common.General;
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.IO;
+
+using UnityEngine;
 using XLua;
 
 namespace Manager
 {
     public class ResourcesManager : TSingletonMono<ResourcesManager>
     {
-        //區分C#用到的表格，部分LUA表沒有用到
+        public Dictionary<string, BinaryTable> LoadBinaryTables()
+        {
+            Dictionary<string, BinaryTable> binarytableDict = new Dictionary<string, BinaryTable>();
+#if UNITY_EDITOR
+            string tableFolderPath = Application.streamingAssetsPath + "/BinaryTables";
+            string[] files = Directory.GetFiles(tableFolderPath, "cfg_*.bin", SearchOption.AllDirectories);
+#else
+            string tableFolderPath = /*Application.streamingAssetsPath + */"/BinaryTables";
+            BetterStreamingAssets.Initialize();
+            Common.Log(" LoadBinaryTables: BetterStreamingAssets.Initialize()");
+            string[] files = BetterStreamingAssets.GetFiles(tableFolderPath, "cfg_*.bin", SearchOption.AllDirectories);
+#endif
+            if (files != null)
+            {
+                for (int i = 0; i < files.Length; i++)
+                {
+                    string fileName = Path.GetFileNameWithoutExtension(files[i]);
+                    //Common.Log("fileName:" + fileName+ " files[i]::"+ files[i]);
+#if UNITY_EDITOR
+                    binarytableDict[fileName] = GeneralCommon.Deserialize<BinaryTable>(files[i]);
+#else
+                   binarytableDict[fileName] = Common.DeserializeTwo<BinaryTable>(files[i]);
+#endif
+                }
+            }
+            return binarytableDict;
+        }
+        #region 在C# 层中使用Lua 配置表
         string[] cfgName_num = new string[55];
 
         string[] cfgName_str = new string[14];
-
-        public Dictionary<string, BinaryTable> LoadBinaryTables()
+        #endregion
+        public Dictionary<string, BinaryTable> LoadLuaBinaryTables()
         {
             #region 配置表名
             //数字为主键
@@ -126,6 +153,7 @@ namespace Manager
                 }
                 binarytableDict.Add(cfgName_str[i], tb);
 
+
             }
             return binarytableDict;
         }
@@ -147,7 +175,6 @@ namespace Manager
                     tb.AddData(lineKey, iter.Current.Key.ToString(), iter.Current.Value.ToString());
                 }
             }
-
 
             return tb;
         }

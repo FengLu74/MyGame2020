@@ -153,12 +153,12 @@ namespace Common.General
 
         public static BinaryTable DeserializeTable(string path)
         {
-            return Common.Deserialize<BinaryTable>(path);
+            return GeneralCommon.Deserialize<BinaryTable>(path);
         }
 
         public static void SerializeTable(BinaryTable table, string path)
         {
-            Common.SaveData<BinaryTable>(table, path);
+            GeneralCommon.SaveData<BinaryTable>(table, path);
         }
 
     }
