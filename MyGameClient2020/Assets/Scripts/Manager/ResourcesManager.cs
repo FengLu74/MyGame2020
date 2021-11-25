@@ -13,28 +13,28 @@ namespace Manager
         public Dictionary<string, BinaryTable> LoadBinaryTables()
         {
             Dictionary<string, BinaryTable> binarytableDict = new Dictionary<string, BinaryTable>();
-#if UNITY_EDITOR
-            string tableFolderPath = Application.streamingAssetsPath + "/BinaryTables";
-            string[] files = Directory.GetFiles(tableFolderPath, "cfg_*.bin", SearchOption.AllDirectories);
-#else
-            string tableFolderPath = /*Application.streamingAssetsPath + */"/BinaryTables";
-            BetterStreamingAssets.Initialize();
-            Common.Log(" LoadBinaryTables: BetterStreamingAssets.Initialize()");
-            string[] files = BetterStreamingAssets.GetFiles(tableFolderPath, "cfg_*.bin", SearchOption.AllDirectories);
-#endif
-            if (files != null)
-            {
-                for (int i = 0; i < files.Length; i++)
-                {
-                    string fileName = Path.GetFileNameWithoutExtension(files[i]);
-                    //Common.Log("fileName:" + fileName+ " files[i]::"+ files[i]);
-#if UNITY_EDITOR
-                    binarytableDict[fileName] = GeneralCommon.Deserialize<BinaryTable>(files[i]);
-#else
-                   binarytableDict[fileName] = Common.DeserializeTwo<BinaryTable>(files[i]);
-#endif
-                }
-            }
+//#if !UNITY_EDITOR
+//            string tableFolderPath = Application.streamingAssetsPath + "/BinaryTables";
+//            string[] files = Directory.GetFiles(tableFolderPath, "cfg_*.bin", SearchOption.AllDirectories);
+//#else
+//            string tableFolderPath = /*Application.streamingAssetsPath + */"/BinaryTables";
+//            BetterStreamingAssets.Initialize();
+//            Common.Log(" LoadBinaryTables: BetterStreamingAssets.Initialize()");
+//            string[] files = BetterStreamingAssets.GetFiles(tableFolderPath, "cfg_*.bin", SearchOption.AllDirectories);
+//#endif
+//            if (files != null)
+//            {
+//                for (int i = 0; i < files.Length; i++)
+//                {
+//                    string fileName = Path.GetFileNameWithoutExtension(files[i]);
+//                    //Common.Log("fileName:" + fileName+ " files[i]::"+ files[i]);
+//#if UNITY_EDITOR
+//                    binarytableDict[fileName] = GeneralCommon.Deserialize<BinaryTable>(files[i]);
+//#else
+//                   binarytableDict[fileName] = Common.DeserializeTwo<BinaryTable>(files[i]);
+//#endif
+//                }
+//            }
             return binarytableDict;
         }
         #region 在C# 层中使用Lua 配置表

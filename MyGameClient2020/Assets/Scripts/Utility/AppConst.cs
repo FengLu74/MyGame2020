@@ -15,6 +15,7 @@ public class AppConst {
     public const string LuaTempDir = "Lua/";                    //临时目录
     public const string AppPrefix = AppName + "_";          //应用程序前缀
     public const string ExtName = ".unity3d";                   //素材扩展名
+    public const string AssetUpdateVerFileName = "updateVer.txt";       //升级包配置文件名
     public const string AssetDir = "StreamingAssets";           //素材目录 
     public const string AssetVerFileName = "ver.txt";       //资源版本号文件名
     public const string AssetAdapterVerFileName = "ResServerConfig.txt";   //资源服务器适配器文件名

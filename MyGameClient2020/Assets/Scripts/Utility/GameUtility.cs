@@ -873,6 +873,32 @@ public class GameUtility
         difList.Add("files.txt");//最后尾部追加核心文件
         return difList;
     }
+    public static string ReadUpdateVerFile(string FileName_)
+    {
+        Debug.Log("-----ReadUpdateVerFile- FileName_= " + FileName_);
+        if (!File.Exists(FileName_))
+            return null;
+
+        FileStream _fs = new FileStream(FileName_, FileMode.Open, FileAccess.Read);
+        StreamReader _sr = new StreamReader(_fs);
+        string[] itempStrings = _sr.ReadToEnd().Split('\n');
+        int tempInitVer = 0;
+        int temLastVer = 0;
+        for (int i = 0; i < itempStrings.Length; i++)
+        {
+            if (itempStrings[i] == null)
+                continue;
+            string[] _itempSplit = itempStrings[i].Split('|');
+            if ("beginVer" == _itempSplit[0])
+                tempInitVer = int.Parse(_itempSplit[1].Trim());
+            if ("endVer" == _itempSplit[0])
+                temLastVer = int.Parse(_itempSplit[1].Trim());
+        }
+        _sr.Close();
+        _fs.Close();
+        return tempInitVer.ToString() + ";" + temLastVer.ToString();
+
+    }
     public static int ReadVerFile(string FileName_)
     {
         if (!File.Exists(FileName_))

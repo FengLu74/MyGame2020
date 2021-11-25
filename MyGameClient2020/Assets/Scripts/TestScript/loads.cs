@@ -12,7 +12,7 @@ public class loads : MonoBehaviour
     
     public void OnClickAnimEvent()
     {
-        anim1.Play(string.IsNullOrEmpty(animName) ?"001": animName);
+        anim1.Play(string.IsNullOrEmpty(animName) ? "skill1" : animName);
         anim2.Play(string.IsNullOrEmpty(animName) ? "move" : animName);
     }
     private void Start()

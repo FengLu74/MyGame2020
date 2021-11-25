@@ -25,7 +25,7 @@ public class AssetBundleEditor : EditorWindow
 
     //记录版本信息的文件目录位置
     private static int s_firstVerNum = 10000;
-    private static string s_VerLogPath = AppDataPath + "/GamePackLog/VerLog/V";
+    private static string s_VerLogPath = GetMD5FilePath() + "/GamePackLog/VerLog/V"; //AppDataPath + "/GamePackLog/VerLog/V";
     private static string s_StreamingAssetsFiles = AppDataPath + "/StreamingAssets/files.txt";
     private static string s_StreamingAssetsFiles2 = AppDataPath + "/StreamingAssets/md5files.txt";
     //最终打包好的AB资源目录的位置
@@ -42,7 +42,33 @@ public class AssetBundleEditor : EditorWindow
 #endif
         }
     }
+    private static string GetABStepPath
+    {
+        get
+        {
+#if UNITY_IOS
+        return GetMD5FilePath()+"/AssetsBundles/ios/Step/V"+GameUtility.ReadVerFile(GameUtility.AppBuildABPath() + AppConst.AssetVerFileName);
+#elif UNITY_ANDROID
+            return GetMD5FilePath() + "/AssetsBundles/android/Step/V" + GameUtility.ReadVerFile(GameUtility.AppBuildABPath() + AppConst.AssetVerFileName);
+#elif UNITY_STANDALONE_WIN
+            return GetMD5FilePath() + "/AssetsBundles/windows/Step/V" + GameUtility.ReadVerFile(GameUtility.AppBuildABPath() + AppConst.AssetVerFileName);
+#endif
+        }
+    }
 
+    private static string GetUpdateTxtPath
+    {
+        get
+        {
+#if UNITY_IOS
+        return GetMD5FilePath()+"/AssetsBundles/ios/"+ AppConst.AssetUpdateVerFileName;
+#elif UNITY_ANDROID
+            return GetMD5FilePath() + "/AssetsBundles/android/" + AppConst.AssetUpdateVerFileName;
+#elif UNITY_STANDALONE_WIN
+            return GetMD5FilePath() + "/AssetsBundles/windows/" + AppConst.AssetUpdateVerFileName;
+#endif
+        }
+    }
     private static string GetABMD5Path
     {
         get
@@ -375,8 +401,9 @@ public class AssetBundleEditor : EditorWindow
         {
             Debug.LogError("<<=======ver 文件不存在=========>>");
         }
+        // Lua文件复制到打包目录 暂时注释2021-11-25
         //Lua文件复制到打包目录
-        CopyLuaFilesToGameAssets();
+        //CopyLuaFilesToGameAssets();
 
         //生成新的文件
         string tempAssetPath = Path.Combine(AppDataPath, AppConst.GameAssetsFolderName);
@@ -389,10 +416,10 @@ public class AssetBundleEditor : EditorWindow
 
         //根据需要打包的文件信息，计算出AB文件信息
         List<AssetBundleBuild> tempAbBuildList = new List<AssetBundleBuild>();
-
+        // lua 暂时注释2021-11-25
         //lua文件只打一个包
-        string tempLuaPath = AppConst.resPath_Asset + AppConst.LuaAbAssetName;
-        BuildAbByPath(AppConst.LuaAbAssetName, tempLuaPath, "*.bytes", ref tempAbBuildList);
+        //string tempLuaPath = AppConst.resPath_Asset + AppConst.LuaAbAssetName;
+        //BuildAbByPath(AppConst.LuaAbAssetName, tempLuaPath, "*.bytes", ref tempAbBuildList);
 
         //shader文件只打一个包
         string tempShaderPath = AppConst.resPath_Asset + AppConst.ShaderAbAssetName;
@@ -415,7 +442,7 @@ public class AssetBundleEditor : EditorWindow
         if (isRelease_)//生成MD5文件
         {
             BuildFileIndex(tempMD5Path, s_StreamingAssetsFiles2);
-            Directory.Delete(tempMD5Path, true);//用完删除
+            //Directory.Delete(tempMD5Path, true);//用完删除
         }
 
          //再生成正式的AB文件
@@ -426,7 +453,8 @@ public class AssetBundleEditor : EditorWindow
         string tempOutPath = "StreamingAssets";
         BuildScene(tempScenePath, AppConst.ExtName, tempOutPath, target_);
 
-        CopyVideoFilesM();
+        // Video 暂时注释2021-11-25
+        //CopyVideoFilesM();
         //如果是Release版本，则需要生成新的AB升级包
         if (isRelease_)
         {
@@ -439,6 +467,7 @@ public class AssetBundleEditor : EditorWindow
             SaveVerLogFileFromStreamFiles();
             //生成升级包AB文件
             BuildUpdatePackage(GetABPath);
+            BuildUpdatePackage(GetABStepPath, true);
         }
         else
         {
@@ -939,7 +968,7 @@ public class AssetBundleEditor : EditorWindow
     }
 
     //生成升级资源包
-    public static void BuildUpdatePackage(string abUpdatePath_)
+    public static void BuildUpdatePackage(string abUpdatePath_, bool stepUpdate_ = true)
     {
         string tempStreamPath = Application.streamingAssetsPath;
         if (Directory.Exists(abUpdatePath_))
@@ -958,6 +987,20 @@ public class AssetBundleEditor : EditorWindow
         else
         {
             string tempOldFileName = GetSafeLastVerNameM();
+            if (!stepUpdate_)//指定版本更新(根据配置文件更新)
+            {
+                string tempUpdateVer = GameUtility.ReadUpdateVerFile(GetUpdateTxtPath);
+                Debug.Log("-----BuildUpdatePackage- ReadUpdateVerFile= " + tempUpdateVer);
+                string[] split = tempUpdateVer.Split(';');
+                tempOldFileName = s_VerLogPath + split[0] + ".txt";
+                if (split[1] == "0")//默认为0时，取当前最新的版本号
+                    tempUpdateFileName = GetVerLogFileName();
+                else
+                    tempUpdateFileName = s_VerLogPath + split[1] + ".txt";
+
+                Debug.Log("---------根据配置文件更新---------------tempOldFileName = " + tempOldFileName);
+                Debug.Log("---------根据配置文件更新---------------tempUpdateFileName = " + tempUpdateFileName);
+            }
             if (tempOldFileName != null)
             {
                 List<string> tempList = GameUtility.GetDifferentVerFiles(tempUpdateFileName, tempOldFileName,false);

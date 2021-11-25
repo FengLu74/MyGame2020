@@ -14,6 +14,8 @@ namespace Manager
         private DelegateFloat timerUpdate;
         private byte[] CustomLoaderMethod(ref string fileName)
         {
+            return null;
+            /*
             //GameApp.Instance.UpdateLoading();
 #if USE_PACKAGE
             string luaName = fileName.Replace(".", "/");
@@ -50,7 +52,7 @@ namespace Manager
             //}
 #endif
            
-
+    */
         }
 
         private byte[] LoadLuaData(string fileName_)
@@ -65,7 +67,7 @@ namespace Manager
         {
             if (null != luaenv)
                 return;
-
+            /*
             luaenv = new LuaEnv();
             LuaEnv.CustomLoader method = CustomLoaderMethod;
             luaenv.AddLoader(method);
@@ -112,6 +114,7 @@ namespace Manager
             //}
             #endregion
             timerUpdate = luaenv.Global.GetInPath<DelegateFloat>("TimeController.Update");
+            */
         }
         public LuaTable CreateLuaTable()
         {

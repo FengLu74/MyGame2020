@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 1831278445
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: shader.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: app-icon.unity3d
+      Dependencies: {}
+    Info_2:
+      Name: appicon_ios.unity3d
+      Dependencies: {}
+    Info_3:
+      Name: sourcehancn-heavy.unity3d
+      Dependencies: {}
+    Info_4:
+      Name: sp_1001003.unity3d
+      Dependencies:
+        Dependency_0: sp_1001003_battle.unity3d
+    Info_5:
+      Name: sp_1001006.unity3d
+      Dependencies:
+        Dependency_0: sp_1001006_battle.unity3d
+    Info_6:
+      Name: sence04_04.unity3d
+      Dependencies: {}
+    Info_7:
+      Name: uitestpanel.unity3d
+      Dependencies: {}
+    Info_8:
+      Name: card_game_ui_button_light_reverb_01.unity3d
+      Dependencies: {}
+    Info_9:
+      Name: uiclose.unity3d
+      Dependencies: {}
+    Info_10:
+      Name: uieffect003.unity3d
+      Dependencies: {}
+    Info_11:
+      Name: uiopen.unity3d
+      Dependencies: {}
+    Info_12:
+      Name: sp_1001003_battle.unity3d
+      Dependencies:
+        Dependency_0: shader.unity3d
+    Info_13:
+      Name: sp_1001006_battle.unity3d
+      Dependencies:
+        Dependency_0: shader.unity3d
+    Info_14:
+      Name: test6.unity3d
+      Dependencies: {}
