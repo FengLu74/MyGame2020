@@ -109,10 +109,12 @@
 					half4 color = (tex2D(_MainTex, IN.texcoord) + _TextureSampleAdd) * IN.color;
 
 					color.a *= UnityGet2DClipping(IN.worldPosition.xy, _ClipRect);
-
+					
+					_Silder = 709;
 					#ifdef UNITY_UI_ALPHACLIP
-					clip(color.a - 0.001);
+					_Silder = 0;
 					#endif
+
 					//-------------------add----------------------
 					color.a *= (distance(IN.worldPosition.xy,_Center.xy) > _Silder);
 					color.rgb *= color.a;

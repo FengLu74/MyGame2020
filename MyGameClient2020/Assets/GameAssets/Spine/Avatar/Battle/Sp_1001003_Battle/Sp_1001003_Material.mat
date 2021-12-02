@@ -41,15 +41,15 @@ Material:
     - _EnableExternalAlpha: 0
     - _FillPhase: 0.642
     - _FlickMult: 1
-    - _FlickValue: 0.255
+    - _FlickValue: 0.242
     - _StencilComp: 0
     - _StencilRef: 1
     - _StraightAlphaInput: 0
-    - _gaodux: 0
+    - _gaodux: -1.4
     - _gaoduy: 0
     - _jinshengrotate: 0.5
-    - _jinshengx: 28.35
-    - _jinshengy: 0
+    - _jinshengx: 39.41
+    - _jinshengy: 45.2
     - _red: 0
     - _white: 0
     m_Colors:
@@ -57,8 +57,8 @@ Material:
     - _Color2: {r: 1, g: 1, b: 1, a: 1}
     - _FillColor: {r: 0.6875113, g: 1, b: 0, a: 1}
     - _FlickMultColor: {r: 0, g: 0, b: 0, a: 1}
-    - _FlickerColor: {r: 0.6981132, g: 0.10866857, b: 0.10866857, a: 1}
+    - _FlickerColor: {r: 0, g: 0, b: 0, a: 1}
     - _Flip: {r: 1, g: 1, b: 1, a: 1}
     - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
-    - _gaoduColor: {r: 0, g: 0, b: 0, a: 0}
-    - _jinshengColor: {r: 0, g: 0, b: 0, a: 0}
+    - _gaoduColor: {r: 1, g: 1, b: 1, a: 0}
+    - _jinshengColor: {r: 0.6698113, g: 0.16745283, b: 0.16745283, a: 0}

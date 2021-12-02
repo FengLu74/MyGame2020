@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1238082763
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 17e390556fc82cf30c2d7324ae965021
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 44912aa95bf28c03affddc6817be15fe
+HashAppended: 1
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameAssets/Font/SourceHanCN-Heavy.ttf
+Dependencies: []

@@ -1,0 +1,80 @@
+ManifestFileVersion: 0
+CRC: 2880658802
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: shader_cf93500156f32a917f5c24d5a1f7a764.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: tex_queen_night_castle_light02_4d268a4ab1049cc3087cc33d5afb4c97.unity3d
+      Dependencies: {}
+    Info_2:
+      Name: tex_queen_night_fog01_2e2754c8eceaddde5a2fc0c7d2e7e06f.unity3d
+      Dependencies: {}
+    Info_3:
+      Name: tex_queen_night_ground_54f414591846742230ca32772b2e229e.unity3d
+      Dependencies: {}
+    Info_4:
+      Name: tex_queen_night_shangdian_1339ae340324dc41b1848aec56d647e3.unity3d
+      Dependencies: {}
+    Info_5:
+      Name: tex_queen_night_shangdian1_f891209fcafe653defc0228a5dcef78a.unity3d
+      Dependencies: {}
+    Info_6:
+      Name: tex_queen_night_shangdian2_120fe55defc36a91b338e930f25514b1.unity3d
+      Dependencies: {}
+    Info_7:
+      Name: tex_queen_night_sky_0bce190147e91221c5b5e6cd020a47bd.unity3d
+      Dependencies: {}
+    Info_8:
+      Name: app-icon_32999130f0bc65cfb1a22acb9100f7dc.unity3d
+      Dependencies: {}
+    Info_9:
+      Name: appicon_ios_016f70fbf03d4f9b1f126796304153cc.unity3d
+      Dependencies: {}
+    Info_10:
+      Name: sourcehancn-heavy_17e390556fc82cf30c2d7324ae965021.unity3d
+      Dependencies: {}
+    Info_11:
+      Name: sp_1001003_bb555417d2e7408b76ef1459e3a20e80.unity3d
+      Dependencies:
+        Dependency_0: sp_1001003_battle_dc2e93d6b839a26565342d6c1aeba729.unity3d
+    Info_12:
+      Name: sp_1001006_45a3ec0d9b9b149d205c3631f88422aa.unity3d
+      Dependencies:
+        Dependency_0: sp_1001006_battle_0d635cc4bf7170cbff58da596c1e07d1.unity3d
+    Info_13:
+      Name: sence04_04_eca7190c41b36ee3404029b869172b35.unity3d
+      Dependencies: {}
+    Info_14:
+      Name: testscene05_6097f89dd5c2d66d16fbd9efc8072e07.unity3d
+      Dependencies: {}
+    Info_15:
+      Name: uitestpanel_e70ee9fe781944999b6b8b9092831e41.unity3d
+      Dependencies:
+        Dependency_0: shader_cf93500156f32a917f5c24d5a1f7a764.unity3d
+        Dependency_1: test6_a0eafd06cf129e01f261b711cc4e403a.unity3d
+    Info_16:
+      Name: card_game_ui_button_light_reverb_01_506af77e64a7d612d4d01af517ff1d1a.unity3d
+      Dependencies: {}
+    Info_17:
+      Name: uiclose_03a81cdaee186898486e2e85cb10c62e.unity3d
+      Dependencies: {}
+    Info_18:
+      Name: uieffect003_ca9d6c059b1f49e2451b934037534496.unity3d
+      Dependencies: {}
+    Info_19:
+      Name: uiopen_bcaf4da71234882a4e3204578c83e188.unity3d
+      Dependencies: {}
+    Info_20:
+      Name: sp_1001003_battle_dc2e93d6b839a26565342d6c1aeba729.unity3d
+      Dependencies:
+        Dependency_0: shader_cf93500156f32a917f5c24d5a1f7a764.unity3d
+    Info_21:
+      Name: sp_1001006_battle_0d635cc4bf7170cbff58da596c1e07d1.unity3d
+      Dependencies:
+        Dependency_0: shader_cf93500156f32a917f5c24d5a1f7a764.unity3d
+    Info_22:
+      Name: test6_a0eafd06cf129e01f261b711cc4e403a.unity3d
+      Dependencies:
+        Dependency_0: shader_cf93500156f32a917f5c24d5a1f7a764.unity3d

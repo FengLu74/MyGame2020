@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 293536267
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1339ae340324dc41b1848aec56d647e3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ed26e3ad9f6be9c24f85f5f5b54339d
+HashAppended: 1
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameAssets/Atlas/Scenes/Background25/tex_queen_night_shangdian.png
+Dependencies: []

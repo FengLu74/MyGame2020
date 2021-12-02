@@ -600,23 +600,26 @@ public class GameUtility
         {
           string game = AppConst.AppName.ToLower();
 #if UNITY_EDITOR
-            return "c:/" + game + "/";
+            //return "c:/" + game + "/";
+            Debug.Log(" = "+ Application.streamingAssetsPath + "/");
+            return Application.streamingAssetsPath + "/";
+            //return Application.dataPath +"/"+ AppConst.AssetDir+ "/";
 #endif
-        
-            if (Application.isMobilePlatform)
-            {
-                return Application.persistentDataPath + "/" + game + "/";
-            }
-            //if (AppConst.DebugMode)
+            return Application.streamingAssetsPath + "/";
+            //if (Application.isMobilePlatform)
             //{
-            //    return Application.dataPath + "/" + AppConst.AssetDir + "/";
+            //    return Application.persistentDataPath + "/" + game + "/";
             //}
-            if (Application.platform == RuntimePlatform.OSXEditor)
-            {
-                int i = Application.dataPath.LastIndexOf('/');
-                return Application.dataPath.Substring(0, i + 1) + game + "/";
-            }
-            return "c:/" + game + "/";
+            ////if (AppConst.DebugMode)
+            ////{
+            ////    return Application.dataPath + "/" + AppConst.AssetDir + "/";
+            ////}
+            //if (Application.platform == RuntimePlatform.OSXEditor)
+            //{
+            //    int i = Application.dataPath.LastIndexOf('/');
+            //    return Application.dataPath.Substring(0, i + 1) + game + "/";
+            //}
+            //return "c:/" + game + "/";
         }
     }
 

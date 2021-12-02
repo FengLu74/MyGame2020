@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 927675451
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0bce190147e91221c5b5e6cd020a47bd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ed26e3ad9f6be9c24f85f5f5b54339d
+HashAppended: 1
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameAssets/Atlas/Scenes/Background25/tex_queen_night_sky.png
+Dependencies: []

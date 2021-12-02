@@ -1,0 +1,80 @@
+ManifestFileVersion: 0
+CRC: 1082341711
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: shader.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: tex_queen_night_castle_light02.unity3d
+      Dependencies: {}
+    Info_2:
+      Name: tex_queen_night_fog01.unity3d
+      Dependencies: {}
+    Info_3:
+      Name: tex_queen_night_ground.unity3d
+      Dependencies: {}
+    Info_4:
+      Name: tex_queen_night_shangdian.unity3d
+      Dependencies: {}
+    Info_5:
+      Name: tex_queen_night_shangdian1.unity3d
+      Dependencies: {}
+    Info_6:
+      Name: tex_queen_night_shangdian2.unity3d
+      Dependencies: {}
+    Info_7:
+      Name: tex_queen_night_sky.unity3d
+      Dependencies: {}
+    Info_8:
+      Name: app-icon.unity3d
+      Dependencies: {}
+    Info_9:
+      Name: appicon_ios.unity3d
+      Dependencies: {}
+    Info_10:
+      Name: sourcehancn-heavy.unity3d
+      Dependencies: {}
+    Info_11:
+      Name: sp_1001003.unity3d
+      Dependencies:
+        Dependency_0: sp_1001003_battle.unity3d
+    Info_12:
+      Name: sp_1001006.unity3d
+      Dependencies:
+        Dependency_0: sp_1001006_battle.unity3d
+    Info_13:
+      Name: sence04_04.unity3d
+      Dependencies: {}
+    Info_14:
+      Name: testscene05.unity3d
+      Dependencies: {}
+    Info_15:
+      Name: uitestpanel.unity3d
+      Dependencies:
+        Dependency_0: shader.unity3d
+        Dependency_1: test6.unity3d
+    Info_16:
+      Name: card_game_ui_button_light_reverb_01.unity3d
+      Dependencies: {}
+    Info_17:
+      Name: uiclose.unity3d
+      Dependencies: {}
+    Info_18:
+      Name: uieffect003.unity3d
+      Dependencies: {}
+    Info_19:
+      Name: uiopen.unity3d
+      Dependencies: {}
+    Info_20:
+      Name: sp_1001003_battle.unity3d
+      Dependencies:
+        Dependency_0: shader.unity3d
+    Info_21:
+      Name: sp_1001006_battle.unity3d
+      Dependencies:
+        Dependency_0: shader.unity3d
+    Info_22:
+      Name: test6.unity3d
+      Dependencies:
+        Dependency_0: shader.unity3d

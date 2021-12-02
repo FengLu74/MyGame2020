@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+using MGame.Resource;
+using Manager;
+
 public class LuncherScript : MonoBehaviour
 {
     public InputField field;
@@ -21,6 +24,9 @@ public class LuncherScript : MonoBehaviour
                 }
                 );
         }
+        ResourcesManager.Instance.InitDataM();
+        AssetBundlesManager.Instance.InitDataM();
+
     }
     private void OnClickEvent()
     {

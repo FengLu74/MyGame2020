@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 4135771032
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6097f89dd5c2d66d16fbd9efc8072e07
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 27295f96fcdc2b917bd061e8817c7e02
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameAssets/Prefabs/Scenes/Story/TestScene05.prefab
+Dependencies: []

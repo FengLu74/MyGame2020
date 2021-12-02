@@ -178,5 +178,17 @@ namespace Manager
 
             return tb;
         }
+        public void InitDataM()
+        {
+
+        }
+
+        public T LoadAsset<T>(string abName) where T:UnityEngine.Object
+        {
+            T temp = null;
+
+            return temp;
+        }
+
     }
 }

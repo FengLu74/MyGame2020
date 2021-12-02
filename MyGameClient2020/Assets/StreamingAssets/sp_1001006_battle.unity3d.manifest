@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 2140423218
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0d635cc4bf7170cbff58da596c1e07d1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 80d09c2dcf62cd49fbe6eb4869b1ffcc
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameAssets/Spine/Avatar/Battle/Sp_1001006_Battle/Sp_1001006_Atlas.asset
+- Assets/GameAssets/Spine/Avatar/Battle/Sp_1001006_Battle/Sp_1001006_Controller.controller
+- Assets/GameAssets/Spine/Avatar/Battle/Sp_1001006_Battle/Sp_1001006.json
+- Assets/GameAssets/Spine/Avatar/Battle/Sp_1001006_Battle/Sp_1001006.atlas.txt
+- Assets/GameAssets/Spine/Avatar/Battle/Sp_1001006_Battle/Sp_1001006.png
+- Assets/GameAssets/Spine/Avatar/Battle/Sp_1001006_Battle/Sp_1001006_Material.mat
+- Assets/GameAssets/Spine/Avatar/Battle/Sp_1001006_Battle/Sp_1001006_SkeletonData.asset
+Dependencies:
+- D:/C#GameServer/2020Project/MyGame2020/MyGameClient2020/Assets/StreamingAssets/shader.unity3d

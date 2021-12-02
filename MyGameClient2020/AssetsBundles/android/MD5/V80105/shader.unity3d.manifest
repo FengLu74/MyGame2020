@@ -1,0 +1,85 @@
+ManifestFileVersion: 0
+CRC: 2239055274
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cf93500156f32a917f5c24d5a1f7a764
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 55d48f4ad9c3b13330b9eb5ee5686477
+HashAppended: 1
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameAssets/Shader/UI/load.shader
+- Assets/GameAssets/Shader/3D/Tooth_flicker.shader
+- Assets/GameAssets/Shader/ASE_Test/ASETEST4.shader
+- Assets/GameAssets/Shader/3D/Alpha Blended_Z.shader
+- Assets/GameAssets/Shader/3D/Animated Fog ASE.shader
+- Assets/GameAssets/Shader/3D/VertAnim_Transparent.shader
+- Assets/GameAssets/Shader/PostProcessing/blurSD.shader
+- Assets/GameAssets/Shader/3D/Simple Lit Grass.shader
+- Assets/GameAssets/Shader/3D/candle_sprite.shader
+- Assets/GameAssets/Shader/UI/UVAnim.shader
+- Assets/GameAssets/Shader/UI/CardBasic.shader
+- Assets/GameAssets/Shader/3D/Additive_Z.shader
+- Assets/GameAssets/Shader/UI/CardTwist.shader
+- Assets/GameAssets/Shader/3D/ADS Arrow.shader
+- Assets/GameAssets/Shader/ASE_Test/ASETTT5Shader.shader
+- Assets/GameAssets/Shader/3D/All_Effects.shader
+- Assets/GameAssets/Shader/3D/DissolveBurn1001004.shader
+- Assets/GameAssets/Shader/3D/DissolveBurn.shader
+- Assets/GameAssets/Shader/UI/UI_Changecolor.shader
+- Assets/GameAssets/Shader/ASE_Test/ASETEST2.shader
+- Assets/GameAssets/Shader/3D/rongjie.shader
+- Assets/GameAssets/Shader/UI/UI_Transparent.shader
+- Assets/GameAssets/Shader/UI/UI_TransparentGray.shader
+- Assets/GameAssets/Shader/PostProcessing/blur.shader
+- Assets/GameAssets/Shader/3D/water1.shader
+- Assets/GameAssets/Shader/3D/MGameDiffuse.shader
+- Assets/GameAssets/Shader/3D/hotwave.shader
+- Assets/GameAssets/Shader/UI/CardStrengthen.shader
+- Assets/GameAssets/Shader/3D/VertAnim.shader
+- Assets/GameAssets/Shader/UI/load_Add.shader
+- Assets/GameAssets/Shader/UI/UI-EmojiFont.shader
+- Assets/GameAssets/Shader/UI/Ripple.shader
+- Assets/GameAssets/Shader/3D/Sprites-Default.shader
+- Assets/GameAssets/Shader/3D/bloomDissolveBurn_boss.shader
+- Assets/GameAssets/Shader/PostProcessing/ImageBlendEffect.shader
+- Assets/GameAssets/Shader/3D/water.shader
+- Assets/GameAssets/Shader/UI/GuideRoundAndRectangleMask.shader
+- Assets/GameAssets/Shader/3D/hit_Sprites.shader
+- Assets/GameAssets/Shader/3D/sunshafts.shader
+- Assets/GameAssets/Shader/ASE_Test/ASETEST.shader
+- Assets/GameAssets/Shader/UI/outlineRoll_card.shader
+- Assets/GameAssets/Shader/3D/transparent.shader
+- Assets/GameAssets/Shader/UI/GuideMask.shader
+- Assets/GameAssets/Shader/3D/Effect-Particle-Mobile-Add.shader
+- Assets/GameAssets/Shader/PostProcessing/MobileColorGrading.shader
+- Assets/GameAssets/Shader/ASE_Test/ASETEST3.shader
+- Assets/GameAssets/Shader/3D/bloomDissolveBurn.shader
+- Assets/GameAssets/Shader/UI/UI_Transparent_Mask.shader
+- Assets/GameAssets/Shader/3D/BloomEffect.shader
+- Assets/GameAssets/Shader/PostProcessing/RadianBlur.shader
+- Assets/GameAssets/Shader/3D/Sprites-Default_sence.shader
+- Assets/GameAssets/Shader/3D/Effect Add Single pass.shader
+- Assets/GameAssets/Shader/PostProcessing/ImageEffectUnlitMobileBloom.shader
+- Assets/GameAssets/Shader/3D/cloud1.shader
+- Assets/GameAssets/Shader/3D/bloomcolor.shader
+- Assets/GameAssets/Shader/UI/Finger.shader
+- Assets/GameAssets/Shader/UI/liuguangsoftMask.shader
+- Assets/GameAssets/Shader/UI/UIMask.shader
+- Assets/GameAssets/Shader/3D/Animated Fog.shader
+- Assets/GameAssets/Shader/3D/Simple Lit Grass_bloom.shader
+- Assets/GameAssets/Shader/UI/card_Desaturate.shader
+- Assets/GameAssets/Shader/3D/Unlit_transparent.shader
+- Assets/GameAssets/Shader/UI/UI_Transparent_Screen.shader
+- Assets/GameAssets/Shader/UI/UI-Default.shader
+- Assets/GameAssets/Shader/UI/line_animated1.shader
+- Assets/GameAssets/Shader/UI/UIAdditiveMask.shader
+- Assets/GameAssets/Shader/3D/ground_animated.shader
+- Assets/GameAssets/Shader/UI/line_animated.shader
+- Assets/GameAssets/Shader/3D/shine.shader
+- Assets/GameAssets/Shader/3D/Unlit_skybrid.shader
+Dependencies: []

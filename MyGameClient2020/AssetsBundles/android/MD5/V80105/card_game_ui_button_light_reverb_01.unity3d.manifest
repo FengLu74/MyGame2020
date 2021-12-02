@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4234528110
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 506af77e64a7d612d4d01af517ff1d1a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 1
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameAssets/Sounds/UI/Card_Game_UI_Button_Light_Reverb_01.ogg
+Dependencies: []

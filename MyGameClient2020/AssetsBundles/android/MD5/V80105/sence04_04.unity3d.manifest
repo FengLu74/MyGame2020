@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1464955584
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eca7190c41b36ee3404029b869172b35
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 126876f166a721f71efe197e8580157b
+HashAppended: 1
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameAssets/Prefabs/Scenes/Story/sence04_04.prefab
+Dependencies: []

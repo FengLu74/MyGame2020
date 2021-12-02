@@ -43,7 +43,8 @@
             #pragma vertex vert
             #pragma fragment frag
             #pragma shader_feature _ _MASKENABLED_ON
-            #pragma shader_feature _ DISTORTENABLED
+			#pragma multi_compile __ DISTORTENABLED
+            //#pragma shader_feature _ DISTORTENABLED
             #include "UnityCG.cginc"
 
             struct appdata
@@ -79,9 +80,9 @@
                 #endif
 
                 #if DISTORTENABLED
-                    o.uv2 = TRANSFORM_TEX(v.uv,_DistortTex) + float2(_DistortUVSpeedX,_DistortUVSpeedY) * _Time.y;
+                    o.uv2 = TRANSFORM_TEX(v.uv,_DistortTex) + float2(_DistortUVSpeedX,_DistortUVSpeedY) * _Time.y*5;
                 #endif
-                
+
                 return o;
             }
 

@@ -11,7 +11,7 @@ public class AppConst {
     public bool PackageMode = true;                                   //打包模式
     public const int GameFrameRate = 60;                        //刷新帧率
 
-    public const string AppName = "YuLongMGame";        //
+    public const string AppName = "YuLongMGame2";        //
     public const string LuaTempDir = "Lua/";                    //临时目录
     public const string AppPrefix = AppName + "_";          //应用程序前缀
     public const string ExtName = ".unity3d";                   //素材扩展名

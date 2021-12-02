@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 717293265
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 016f70fbf03d4f9b1f126796304153cc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ed26e3ad9f6be9c24f85f5f5b54339d
+HashAppended: 1
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameAssets/Atlas/UI/APPicon/Appicon_ios.png
+Dependencies: []

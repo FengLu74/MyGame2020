@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4112605063
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4d268a4ab1049cc3087cc33d5afb4c97
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ed26e3ad9f6be9c24f85f5f5b54339d
+HashAppended: 1
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameAssets/Atlas/Scenes/Background25/tex_queen_night_castle_light02.png
+Dependencies: []

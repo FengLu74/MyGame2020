@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2186730228
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bcaf4da71234882a4e3204578c83e188
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 1
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameAssets/Sounds/UI/UIOpen.ogg
+Dependencies: []

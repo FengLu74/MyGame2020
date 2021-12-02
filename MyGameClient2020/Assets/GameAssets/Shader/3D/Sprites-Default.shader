@@ -50,7 +50,6 @@ Shader "MGame/3D/Sprites/Default"
 			#pragma target 2.0
 			#include "UnityCG.cginc"
 
-
 			struct appdata
 			{
 				float4 vertex   : POSITION;

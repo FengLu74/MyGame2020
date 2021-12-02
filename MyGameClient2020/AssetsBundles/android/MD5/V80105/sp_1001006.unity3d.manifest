@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 11873600
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 45a3ec0d9b9b149d205c3631f88422aa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 51f27609a47b1de4354ef056a7dddea6
+HashAppended: 1
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f9db98c60740638449864eb028fbe7ad, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b238dfcde8209044b97d23f62bcaadf6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameAssets/Prefabs/Avatar/Battle/Sp_1001006.prefab
+Dependencies:
+- D:/C#GameServer/2020Project/MyGame2020/MyGameClient2020/AssetsBundles/android/MD5/V80105/sp_1001006_battle_0d635cc4bf7170cbff58da596c1e07d1.unity3d

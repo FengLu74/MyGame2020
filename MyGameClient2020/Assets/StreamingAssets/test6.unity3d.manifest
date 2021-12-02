@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3452112412
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a0eafd06cf129e01f261b711cc4e403a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f08a31ee1c0e64d362a8535facee8604
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameAssets/Spine/Avatar/Test6/lh.anim
+- Assets/GameAssets/Spine/Avatar/Test6/lh006.controller
+- Assets/GameAssets/Spine/Avatar/Test6/TestMaterial.mat
+- Assets/GameAssets/Spine/Avatar/Test6/attack1.anim
+Dependencies:
+- D:/C#GameServer/2020Project/MyGame2020/MyGameClient2020/Assets/StreamingAssets/shader.unity3d
