@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1719135277
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dab2037bb116a023f636c8632ef26d72
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 08e5839e4db477429ed20d28d657089e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameAssets/Prefabs/UI/Common/BulletExplode.prefab
+Dependencies:
+- D:/C#GameServer/2020Project/MyGame2020/MyGameClient2020/Assets/StreamingAssets/defaulteff.unity3d
+- D:/C#GameServer/2020Project/MyGame2020/MyGameClient2020/Assets/StreamingAssets/ztlmaterials.unity3d

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2239055274
+CRC: 2418591460
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: cf93500156f32a917f5c24d5a1f7a764
+    Hash: 0f473f24e6c98bafbd0528dcc3c65be6
   TypeTreeHash:
     serializedVersion: 2
     Hash: 55d48f4ad9c3b13330b9eb5ee5686477
@@ -30,6 +30,7 @@ Assets:
 - Assets/GameAssets/Shader/3D/All_Effects.shader
 - Assets/GameAssets/Shader/3D/DissolveBurn1001004.shader
 - Assets/GameAssets/Shader/3D/DissolveBurn.shader
+- Assets/GameAssets/Shader/URPTL/sfx_AlphaBlend_move.shader
 - Assets/GameAssets/Shader/UI/UI_Changecolor.shader
 - Assets/GameAssets/Shader/ASE_Test/ASETEST2.shader
 - Assets/GameAssets/Shader/3D/rongjie.shader
@@ -41,8 +42,10 @@ Assets:
 - Assets/GameAssets/Shader/3D/hotwave.shader
 - Assets/GameAssets/Shader/UI/CardStrengthen.shader
 - Assets/GameAssets/Shader/3D/VertAnim.shader
+- Assets/GameAssets/Shader/URPTL/sfx_AlphaBlend.shader
 - Assets/GameAssets/Shader/UI/load_Add.shader
 - Assets/GameAssets/Shader/UI/UI-EmojiFont.shader
+- Assets/GameAssets/Shader/URPTL/sfx_add_move.shader
 - Assets/GameAssets/Shader/UI/Ripple.shader
 - Assets/GameAssets/Shader/3D/Sprites-Default.shader
 - Assets/GameAssets/Shader/3D/bloomDissolveBurn_boss.shader

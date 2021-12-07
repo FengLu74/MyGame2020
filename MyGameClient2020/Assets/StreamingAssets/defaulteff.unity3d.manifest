@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2878253293
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dcd577e6fb47c30efb03d122625e1f5c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5678241641794813c2c5abc1654e95b9
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameAssets/Spine/Avatar/defaultEff/shouchong06.mat
+- Assets/GameAssets/Spine/Avatar/defaultEff/lizi07.png
+- Assets/GameAssets/Spine/Avatar/defaultEff/shouchong03.mat
+- Assets/GameAssets/Spine/Avatar/defaultEff/shouchong02.mat
+- Assets/GameAssets/Spine/Avatar/defaultEff/glow01gai.tga
+- Assets/GameAssets/Spine/Avatar/defaultEff/shouchong06.png
+- Assets/GameAssets/Spine/Avatar/defaultEff/quan023.png
+- Assets/GameAssets/Spine/Avatar/defaultEff/shouchong04.mat
+Dependencies:
+- D:/C#GameServer/2020Project/MyGame2020/MyGameClient2020/Assets/StreamingAssets/shader.unity3d

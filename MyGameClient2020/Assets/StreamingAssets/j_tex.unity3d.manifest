@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3087970337
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 80b663c8b2fe326fc8c44e30760da4e7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ed26e3ad9f6be9c24f85f5f5b54339d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameAssets/Spine/Avatar/J_tex/j_glow_002.png
+Dependencies: []

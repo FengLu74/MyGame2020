@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2845270368
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 711f2423203d565a19f5f1beb4c6be86
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21c99c86a43ad817b2cb7f65458ae090
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameAssets/Spine/Avatar/ztlMaterials/chibang_52001_003.mat
+- Assets/GameAssets/Spine/Avatar/ztlMaterials/fish_106006_e_007.mat
+Dependencies:
+- D:/C#GameServer/2020Project/MyGame2020/MyGameClient2020/Assets/StreamingAssets/shader.unity3d
+- D:/C#GameServer/2020Project/MyGame2020/MyGameClient2020/Assets/StreamingAssets/fangsheguang.unity3d
+- D:/C#GameServer/2020Project/MyGame2020/MyGameClient2020/Assets/StreamingAssets/wenli.unity3d
+- D:/C#GameServer/2020Project/MyGame2020/MyGameClient2020/Assets/StreamingAssets/j_tex.unity3d

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2880658802
+CRC: 1655741123
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: shader_cf93500156f32a917f5c24d5a1f7a764.unity3d
+      Name: shader_0f473f24e6c98bafbd0528dcc3c65be6.unity3d
       Dependencies: {}
     Info_1:
       Name: tex_queen_night_castle_light02_4d268a4ab1049cc3087cc33d5afb4c97.unity3d
@@ -50,31 +50,56 @@ AssetBundleManifest:
       Name: testscene05_6097f89dd5c2d66d16fbd9efc8072e07.unity3d
       Dependencies: {}
     Info_15:
+      Name: bulletexplode_dab2037bb116a023f636c8632ef26d72.unity3d
+      Dependencies:
+        Dependency_0: defaulteff_dcd577e6fb47c30efb03d122625e1f5c.unity3d
+        Dependency_1: ztlmaterials_711f2423203d565a19f5f1beb4c6be86.unity3d
+    Info_16:
       Name: uitestpanel_e70ee9fe781944999b6b8b9092831e41.unity3d
       Dependencies:
-        Dependency_0: shader_cf93500156f32a917f5c24d5a1f7a764.unity3d
+        Dependency_0: shader_0f473f24e6c98bafbd0528dcc3c65be6.unity3d
         Dependency_1: test6_a0eafd06cf129e01f261b711cc4e403a.unity3d
-    Info_16:
+    Info_17:
       Name: card_game_ui_button_light_reverb_01_506af77e64a7d612d4d01af517ff1d1a.unity3d
       Dependencies: {}
-    Info_17:
+    Info_18:
       Name: uiclose_03a81cdaee186898486e2e85cb10c62e.unity3d
       Dependencies: {}
-    Info_18:
+    Info_19:
       Name: uieffect003_ca9d6c059b1f49e2451b934037534496.unity3d
       Dependencies: {}
-    Info_19:
+    Info_20:
       Name: uiopen_bcaf4da71234882a4e3204578c83e188.unity3d
       Dependencies: {}
-    Info_20:
+    Info_21:
+      Name: fangsheguang_34f436d97c65b308582d57ac21c82ac2.unity3d
+      Dependencies: {}
+    Info_22:
+      Name: wenli_cc822b8a7d9425606dae55a5b8a1aa0e.unity3d
+      Dependencies: {}
+    Info_23:
       Name: sp_1001003_battle_dc2e93d6b839a26565342d6c1aeba729.unity3d
       Dependencies:
-        Dependency_0: shader_cf93500156f32a917f5c24d5a1f7a764.unity3d
-    Info_21:
+        Dependency_0: shader_0f473f24e6c98bafbd0528dcc3c65be6.unity3d
+    Info_24:
       Name: sp_1001006_battle_0d635cc4bf7170cbff58da596c1e07d1.unity3d
       Dependencies:
-        Dependency_0: shader_cf93500156f32a917f5c24d5a1f7a764.unity3d
-    Info_22:
+        Dependency_0: shader_0f473f24e6c98bafbd0528dcc3c65be6.unity3d
+    Info_25:
+      Name: defaulteff_dcd577e6fb47c30efb03d122625e1f5c.unity3d
+      Dependencies:
+        Dependency_0: shader_0f473f24e6c98bafbd0528dcc3c65be6.unity3d
+    Info_26:
+      Name: j_tex_80b663c8b2fe326fc8c44e30760da4e7.unity3d
+      Dependencies: {}
+    Info_27:
       Name: test6_a0eafd06cf129e01f261b711cc4e403a.unity3d
       Dependencies:
-        Dependency_0: shader_cf93500156f32a917f5c24d5a1f7a764.unity3d
+        Dependency_0: shader_0f473f24e6c98bafbd0528dcc3c65be6.unity3d
+    Info_28:
+      Name: ztlmaterials_711f2423203d565a19f5f1beb4c6be86.unity3d
+      Dependencies:
+        Dependency_0: shader_0f473f24e6c98bafbd0528dcc3c65be6.unity3d
+        Dependency_1: fangsheguang_34f436d97c65b308582d57ac21c82ac2.unity3d
+        Dependency_2: wenli_cc822b8a7d9425606dae55a5b8a1aa0e.unity3d
+        Dependency_3: j_tex_80b663c8b2fe326fc8c44e30760da4e7.unity3d

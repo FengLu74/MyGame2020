@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1600788757
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 34f436d97c65b308582d57ac21c82ac2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ed26e3ad9f6be9c24f85f5f5b54339d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameAssets/Spine/Avatar/atlimages/fangsheguang/fangsheguang02.png
+Dependencies: []

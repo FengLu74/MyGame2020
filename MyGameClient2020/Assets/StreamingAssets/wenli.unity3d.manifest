@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 700143552
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cc822b8a7d9425606dae55a5b8a1aa0e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ed26e3ad9f6be9c24f85f5f5b54339d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameAssets/Spine/Avatar/atlimages/wenli/Noise10.png
+- Assets/GameAssets/Spine/Avatar/atlimages/wenli/Noise05.png
+- Assets/GameAssets/Spine/Avatar/atlimages/wenli/wenli16.png
+- Assets/GameAssets/Spine/Avatar/atlimages/wenli/wenli17.png
+Dependencies: []

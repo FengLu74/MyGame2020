@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1082341711
+CRC: 1163041991
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -50,31 +50,56 @@ AssetBundleManifest:
       Name: testscene05.unity3d
       Dependencies: {}
     Info_15:
+      Name: bulletexplode.unity3d
+      Dependencies:
+        Dependency_0: defaulteff.unity3d
+        Dependency_1: ztlmaterials.unity3d
+    Info_16:
       Name: uitestpanel.unity3d
       Dependencies:
         Dependency_0: shader.unity3d
         Dependency_1: test6.unity3d
-    Info_16:
+    Info_17:
       Name: card_game_ui_button_light_reverb_01.unity3d
       Dependencies: {}
-    Info_17:
+    Info_18:
       Name: uiclose.unity3d
       Dependencies: {}
-    Info_18:
+    Info_19:
       Name: uieffect003.unity3d
       Dependencies: {}
-    Info_19:
+    Info_20:
       Name: uiopen.unity3d
       Dependencies: {}
-    Info_20:
+    Info_21:
+      Name: fangsheguang.unity3d
+      Dependencies: {}
+    Info_22:
+      Name: wenli.unity3d
+      Dependencies: {}
+    Info_23:
       Name: sp_1001003_battle.unity3d
       Dependencies:
         Dependency_0: shader.unity3d
-    Info_21:
+    Info_24:
       Name: sp_1001006_battle.unity3d
       Dependencies:
         Dependency_0: shader.unity3d
-    Info_22:
+    Info_25:
+      Name: defaulteff.unity3d
+      Dependencies:
+        Dependency_0: shader.unity3d
+    Info_26:
+      Name: j_tex.unity3d
+      Dependencies: {}
+    Info_27:
       Name: test6.unity3d
       Dependencies:
         Dependency_0: shader.unity3d
+    Info_28:
+      Name: ztlmaterials.unity3d
+      Dependencies:
+        Dependency_0: shader.unity3d
+        Dependency_1: fangsheguang.unity3d
+        Dependency_2: wenli.unity3d
+        Dependency_3: j_tex.unity3d

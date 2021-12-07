@@ -6,7 +6,7 @@ Hashes:
     Hash: e70ee9fe781944999b6b8b9092831e41
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 99ac619345186a7b0717bd30b43169e3
+    Hash: 8eae2797ab4230eab206580028f664e8
 HashAppended: 1
 ClassTypes:
 - Class: 1
@@ -18,11 +18,11 @@ ClassTypes:
 - Class: 48
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 82fc00e4bceacdf4cac753672862d840, type: 3}
 - Class: 115
@@ -38,5 +38,5 @@ ClassTypes:
 Assets:
 - Assets/GameAssets/Prefabs/UI/Common/UITestPanel.prefab
 Dependencies:
-- D:/C#GameServer/2020Project/MyGame2020/MyGameClient2020/AssetsBundles/android/MD5/V80105/shader_cf93500156f32a917f5c24d5a1f7a764.unity3d
+- D:/C#GameServer/2020Project/MyGame2020/MyGameClient2020/AssetsBundles/android/MD5/V80105/shader_0f473f24e6c98bafbd0528dcc3c65be6.unity3d
 - D:/C#GameServer/2020Project/MyGame2020/MyGameClient2020/AssetsBundles/android/MD5/V80105/test6_a0eafd06cf129e01f261b711cc4e403a.unity3d
